@@ -1,0 +1,181 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+16804053,Kia,Sonet,GTX Plus 1.0 iMT,8823,2022,1158000.0,petrol,1,suv,manual,iMT,Kochi,2023,2026,1
+14986426,Hyundai,Eon,Sportz,49358,2018,314000.0,petrol,1,hatchback,manual,regular,Kochi,2018,2025,12
+16336499,Renault,Triber,RXZ AMT,53887,2020,597000.0,petrol,1,muv,automatic,AMT,Kochi,2020,2025,12
+16524786,Tata,Tiago,Revotron XZ Plus,32684,2019,530000.0,petrol,1,hatchback,manual,regular,Kochi,2019,2025,7
+16109114,Tata,Tiago,Revotron XT,56790,2016,398000.0,petrol,1,hatchback,manual,regular,Kochi,2017,2025,12
+14930855,Renault,Kwid,RXL,73068,2016,257000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+16478096,Datsun,GO,T,30266,2017,268000.0,petrol,1,hatchback,manual,regular,Kochi,2017,2025,9
+16420324,Tata,Tiago,Revotron XZ Plus,25314,2019,554000.0,petrol,1,hatchback,manual,regular,Kochi,2019,2025,6
+16243667,Volkswagen,Polo,Highline1.2L (P),89751,2011,344000.0,petrol,2,hatchback,manual,regular,Kochi,2011,2025,4
+16463322,Tata,Tiago,Revotron XM,120150,2019,419000.0,petrol,1,hatchback,manual,regular,Kochi,2019,2025,6
+17510994,Hyundai,New Santro 1.1,Magna,49614,2018,378000.0,petrol,1,hatchback,manual,regular,Kochi,2018,2025,12
+15650811,Hyundai,Elite i20,Asta 1.4 CRDI,98655,2015,519000.0,diesel,1,hatchback,manual,regular,Kochi,2015,2025,12
+15985425,Hyundai,Xcent,SX Petrol,117253,2014,347000.0,petrol,1,sedan,manual,regular,Kochi,2014,2025,12
+15301687,Hyundai,Elite i20,Sportz 1.2,37259,2018,604000.0,petrol,1,hatchback,manual,regular,Kochi,2018,2025,12
+16124583,Maruti Suzuki,Baleno,Delta Petrol,119531,2016,462000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+16575645,Datsun,GO,T,82936,2014,215000.0,petrol,2,hatchback,manual,regular,Kochi,2014,2025,12
+16473220,Ford,Figo,Trend 1.2 Ti-VCT,94767,2017,354000.0,petrol,1,hatchback,manual,regular,Kochi,2017,2025,12
+15702762,Tata,Altroz,XZ Turbo 1.2,18533,2021,732000.0,petrol,1,hatchback,manual,regular,Kochi,2021,2025,12
+15746044,Maruti Suzuki,Swift Dzire,VXI,82168,2013,368000.0,petrol,1,sedan,manual,regular,Kochi,2013,2025,6
+16089536,Renault,Kwid,RXT Opt,38333,2016,285000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+15702762,Tata,Altroz,XZ Turbo 1.2,18533,2021,732000.0,petrol,1,hatchback,manual,regular,Kochi,2021,2025,12
+15746044,Maruti Suzuki,Swift Dzire,VXI,82168,2013,368000.0,petrol,1,sedan,manual,regular,Kochi,2013,2025,6
+16089536,Renault,Kwid,RXT Opt,38333,2016,285000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+15697863,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,8881,2022,665000.0,petrol,1,hatchback,manual,regular,Kochi,2022,2025,12
+16366031,Tata,Nexon,XZA Plus AMT Petrol,23104,2018,742000.0,petrol,1,suv,automatic,AMT,Kochi,2018,2025,12
+15660805,Tata,Altroz,XZ 1.2,18589,2021,692000.0,petrol,1,hatchback,manual,regular,Kochi,2021,2025,12
+16081033,Tata,Punch,Adventure Rhythm Pack MT,38418,2022,624000.0,petrol,1,suv,manual,regular,Kochi,2022,2025,5
+16467266,Renault,Kwid,1.0 RXT Opt,16786,2021,436000.0,petrol,1,hatchback,manual,regular,Kochi,2021,2025,12
+14987355,Hyundai,i20 Active,1.2 SX,96221,2016,525000.0,petrol,1,crossover,manual,regular,Kochi,2016,2025,12
+16402035,Tata,Tiago,Revotron XZ Plus,17312,2020,551000.0,petrol,1,hatchback,manual,regular,Kochi,2021,2025,12
+16281932,Renault,Triber,RXZ AMT,14438,2020,652000.0,petrol,1,muv,automatic,AMT,Kochi,2020,2025,12
+17714847,Volkswagen,Polo,Trendline 1.0 (P),20042,2019,555000.0,petrol,1,hatchback,manual,regular,Kochi,2019,2025,5
+13399190,Maruti Suzuki,Swift Dzire,ZXI,70465,2011,367000.0,petrol,1,sedan,manual,regular,Kochi,2011,2025,12
+16897389,Tata,Tiago,Revotron XZ,39745,2019,481000.0,petrol,1,hatchback,manual,regular,Kochi,2019,2025,8
+16440903,Maruti Suzuki,Alto 800,LXI,60219,2013,237000.0,petrol,1,hatchback,manual,regular,Kochi,2013,2025,12
+14776282,Hyundai,Creta,SX Petrol,24040,2021,1263955.0,petrol,1,suv,manual,regular,Kochi,2021,2025,12
+16276496,Datsun,Redi-GO,T (O),38333,2017,219000.0,petrol,2,hatchback,manual,regular,Kochi,2017,2025,12
+16297372,Maruti Suzuki,Wagon R 1.0,LXI,64306,2015,339000.0,petrol,2,hatchback,manual,regular,Kochi,2015,2025,7
+16050534,Nissan,Sunny,XL,98243,2012,274000.0,petrol,1,sedan,manual,regular,Kochi,2012,2025,4
+16159797,Maruti Suzuki,Wagon R 1.0,VXI,58251,2012,312000.0,petrol,1,hatchback,manual,regular,Kochi,2012,2025,12
+17714847,Volkswagen,Polo,Trendline 1.0 (P),20042,2019,555000.0,petrol,1,hatchback,manual,regular,Kochi,2019,2025,5
+16897389,Tata,Tiago,Revotron XZ,39745,2019,481000.0,petrol,1,hatchback,manual,regular,Kochi,2019,2025,8
+14776282,Hyundai,Creta,SX Petrol,24040,2021,1263955.0,petrol,1,suv,manual,regular,Kochi,2021,2025,12
+15743152,Hyundai,Eon,Magna,50717,2017,293000.0,petrol,1,hatchback,manual,regular,Kochi,2017,2025,12
+15992078,Renault,Kwid,RXT,10404,2016,295000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+16293172,Tata,Nexon,XZ Plus Petrol,73377,2018,632000.0,petrol,1,suv,manual,regular,Kochi,2018,2025,12
+16270695,Hyundai,Eon,Era +,24734,2018,294000.0,petrol,1,hatchback,manual,regular,Kochi,2018,2025,12
+16269110,Datsun,Redi-GO,A,15580,2018,230000.0,petrol,1,hatchback,manual,regular,Kochi,2018,2025,12
+15804740,Honda,Amaze,1.2 S i-VTEC,93520,2013,324000.0,petrol,2,sedan,manual,regular,Kochi,2013,2025,5
+16784204,Hyundai,i10,Sportz 1.1 Petrol,47082,2014,278000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,12
+15411806,Renault,Kwid,Climber 1.0l SCE Petrol MT,14778,2022,461000.0,petrol,2,hatchback,manual,regular,Kochi,2022,2025,12
+15339747,Volkswagen,Ameo,1.0 Comfortline Petrol,60544,2019,495000.0,petrol,1,sedan,manual,regular,Kochi,2019,2025,12
+15718838,Maruti Suzuki,S-Presso,VXI Plus,4879,2020,446000.0,petrol,1,hatchback,manual,regular,Kochi,2020,2025,5
+15347485,Tata,Tiago,Revotron XZ Plus,20257,2021,609000.0,petrol,1,hatchback,manual,regular,Kochi,2021,2025,12
+15838897,Tata,Harrier,XZA Plus Dual Tone AT,79883,2021,1645193.0,diesel,1,suv,automatic,Torque Convertor,Kochi,2021,2025,12
+18114752,Ford,Figo Aspire,Titanium 1.2 Ti-VCT,48261,2018,445000.0,petrol,1,sedan,manual,regular,Kochi,2018,2025,12
+15138083,Tata,Harrier,XZ,54010,2019,1252000.0,diesel,2,suv,manual,regular,Kochi,2019,2025,12
+15961324,Hyundai,Xcent,S Petrol,85057,2014,349000.0,petrol,1,sedan,manual,regular,Kochi,2014,2025,7
+16365196,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,99624,2014,333000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,12
+15542293,Maruti Suzuki,Swift,VXI,71854,2011,309000.0,petrol,2,hatchback,manual,regular,Kochi,2011,2025,4
+15718838,Maruti Suzuki,S-Presso,VXI Plus,4879,2020,446000.0,petrol,1,hatchback,manual,regular,Kochi,2020,2025,5
+15347485,Tata,Tiago,Revotron XZ Plus,20257,2021,609000.0,petrol,1,hatchback,manual,regular,Kochi,2021,2025,12
+15838897,Tata,Harrier,XZA Plus Dual Tone AT,79883,2021,1645193.0,diesel,1,suv,automatic,Torque Convertor,Kochi,2021,2025,12
+18114752,Ford,Figo Aspire,Titanium 1.2 Ti-VCT,48261,2018,445000.0,petrol,1,sedan,manual,regular,Kochi,2018,2025,12
+16544883,Maruti Suzuki,Wagon R 1.0,VXI,57871,2014,362000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,4
+16853460,Tata,Altroz,XM 1.2,21176,2021,597000.0,petrol,1,hatchback,manual,regular,Kochi,2021,2025,12
+15194473,Mahindra,KUV100 NXT,K2 6 STR,49233,2019,356000.0,petrol,1,crossover,manual,regular,Kochi,2019,2025,12
+15674382,Volkswagen,Vento,1.6L Highline Petrol,79854,2015,519000.0,petrol,1,sedan,manual,regular,Kochi,2016,2025,12
+14944846,Hyundai,i10,Sportz 1.1 Petrol,57946,2015,354000.0,petrol,1,hatchback,manual,regular,Kochi,2015,2025,12
+16145125,Hyundai,Elite i20,Asta 1.2,41468,2016,559000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,4
+15083293,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,13992,2022,661000.0,petrol,1,hatchback,manual,regular,Kochi,2022,2025,12
+14759575,Maruti Suzuki,Dzire,VXI,86970,2018,536000.0,petrol,1,sedan,manual,regular,Kochi,2018,2025,12
+15231590,Nissan,Sunny,XL,76198,2015,378000.0,petrol,2,sedan,manual,regular,Kochi,2015,2025,12
+16098508,Maruti Suzuki,Swift Dzire,VDI,78267,2014,468000.0,diesel,1,sedan,manual,regular,Kochi,2014,2025,12
+14296506,Hyundai,New Santro 1.1,Asta MT,49333,2018,408000.0,petrol,1,hatchback,manual,regular,Kochi,2018,2025,12
+16355632,Honda,Brio,S(O)MT,48547,2018,418000.0,petrol,3,hatchback,manual,regular,Kochi,2018,2025,12
+16275540,Maruti Suzuki,Alto 800,LXI,15696,2014,247000.0,petrol,2,hatchback,manual,regular,Kochi,2014,2025,12
+16575668,Nissan,Micra Active,XV Safety Pack,65829,2014,265000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,12
+17413512,Maruti Suzuki,Alto 800,LXI,31070,2014,233000.0,petrol,2,hatchback,manual,regular,Kochi,2015,2025,12
+15898593,Hyundai,i20,Asta 1.2,47214,2012,361000.0,petrol,1,hatchback,manual,regular,Kochi,2012,2025,12
+15083293,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,13992,2022,661000.0,petrol,1,hatchback,manual,regular,Kochi,2022,2025,12
+14759575,Maruti Suzuki,Dzire,VXI,86970,2018,536000.0,petrol,1,sedan,manual,regular,Kochi,2018,2025,12
+16098508,Maruti Suzuki,Swift Dzire,VDI,78267,2014,468000.0,diesel,1,sedan,manual,regular,Kochi,2014,2025,12
+14296506,Hyundai,New Santro 1.1,Asta MT,49333,2018,408000.0,petrol,1,hatchback,manual,regular,Kochi,2018,2025,12
+16476816,Maruti Suzuki,Alto 800,LXI,47295,2015,261000.0,petrol,1,hatchback,manual,regular,Kochi,2015,2025,12
+16444151,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,3883,2022,734000.0,petrol,1,hatchback,manual,regular,Kochi,2023,2026,2
+16384678,Hyundai,Eon,Era +,48430,2013,205000.0,petrol,1,hatchback,manual,regular,Kochi,2013,2025,4
+15655516,Tata,Nexon,XZA Plus AMT Petrol,30932,2019,727000.0,petrol,2,suv,automatic,AMT,Kochi,2019,2025,12
+16305043,Volkswagen,Ameo,1.0 Comfortline Petrol,27443,2019,519000.0,petrol,1,sedan,manual,regular,Kochi,2019,2025,12
+14711188,Maruti Suzuki,Baleno,Alpha Petrol,87967,2016,600000.0,petrol,1,hatchback,manual,regular,Kochi,2017,2025,12
+16319982,Maruti Suzuki,Ciaz,ZXI,78072,2015,542000.0,petrol,1,sedan,manual,regular,Kochi,2015,2025,7
+14864911,Maruti Suzuki,S-Presso,VXI Plus,20071,2020,434000.0,petrol,1,hatchback,manual,regular,Kochi,2020,2025,12
+17952442,Hyundai,i20 Active,1.2 SX,63747,2017,539000.0,petrol,1,crossover,manual,regular,Kochi,2018,2025,12
+16219760,Maruti Suzuki,A-Star,VXI AT,50899,2013,329000.0,petrol,1,hatchback,automatic,,Kochi,2013,2025,5
+15085778,Tata,Tiago,XZ Plus Dual Tone Roof,17663,2022,627000.0,petrol,1,hatchback,manual,regular,Kochi,2022,2025,12
+15890588,Tata,Tiago,XZA+ AMT,29620,2021,659000.0,petrol,1,hatchback,automatic,AMT,Kochi,2021,2025,6
+15115081,Chevrolet,Beat,LT Petrol,50115,2011,185000.0,petrol,1,hatchback,manual,regular,Kochi,2012,2025,12
+14737590,Tata,Tiago,Revotron XZ Plus,78933,2019,478000.0,petrol,1,hatchback,manual,regular,Kochi,2020,2025,12
+14524029,Hyundai,Elite i20,Magna Executive 1.2,104302,2017,445000.0,petrol,1,hatchback,manual,regular,Kochi,2017,2025,12
+15750878,Datsun,GO,T,46287,2014,198000.0,petrol,2,hatchback,manual,regular,Kochi,2015,2025,12
+16319982,Maruti Suzuki,Ciaz,ZXI,78072,2015,542000.0,petrol,1,sedan,manual,regular,Kochi,2015,2025,7
+14864911,Maruti Suzuki,S-Presso,VXI Plus,20071,2020,434000.0,petrol,1,hatchback,manual,regular,Kochi,2020,2025,12
+17952442,Hyundai,i20 Active,1.2 SX,63747,2017,539000.0,petrol,1,crossover,manual,regular,Kochi,2018,2025,12
+16219760,Maruti Suzuki,A-Star,VXI AT,50899,2013,329000.0,petrol,1,hatchback,automatic,,Kochi,2013,2025,5
+15085778,Tata,Tiago,XZ Plus Dual Tone Roof,17663,2022,627000.0,petrol,1,hatchback,manual,regular,Kochi,2022,2025,12
+15890588,Tata,Tiago,XZA+ AMT,29620,2021,659000.0,petrol,1,hatchback,automatic,AMT,Kochi,2021,2025,6
+16182515,Renault,Kwid,RXL 1.0 SCE,6741,2021,419000.0,petrol,1,hatchback,manual,regular,Kochi,2021,2025,12
+15542227,Tata,Nexon,XZA+ HS  AMT Petrol,11019,2022,1010987.0,petrol,1,suv,automatic,AMT,Kochi,2022,2025,12
+14192990,Tata,Tiago,Revotron XZA AMT,33737,2018,489000.0,petrol,1,hatchback,automatic,AMT,Kochi,2019,2025,12
+16281648,Maruti Suzuki,Swift Dzire,VXI,33552,2015,470000.0,petrol,1,sedan,manual,regular,Kochi,2015,2025,12
+13062144,Maruti Suzuki,Wagon R 1.0,VXI,39665,2016,410000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+15598998,Maruti Suzuki,Baleno,Zeta Petrol,42510,2017,605000.0,petrol,1,hatchback,manual,regular,Kochi,2017,2025,5
+15899428,Maruti Suzuki,Wagon R 1.0,VXI,76814,2014,345000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,7
+15589192,Maruti Suzuki,Alto 800,VXI,23785,2022,370000.0,petrol,1,hatchback,manual,regular,Kochi,2022,2025,12
+16132331,Ford,EcoSport,Titanium 1.0L Ecoboost (Opt),59938,2014,495000.0,petrol,1,suv,manual,regular,Kochi,2014,2025,5
+15272045,Hyundai,i10,Magna 1.2 Petrol,46175,2013,289000.0,petrol,1,hatchback,manual,regular,Kochi,2013,2025,12
+15306155,Hyundai,i10,Sportz 1.1 Petrol,82901,2014,319000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,12
+14323600,Datsun,GO,T,50756,2016,279000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+13869210,Volkswagen,Polo,Comfortline 1.2L (P),93745,2013,382000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,12
+10895386,Nissan,Sunny,Special Edition XV Diesel,88637,2014,475000.0,diesel,2,sedan,manual,regular,Kochi,2015,2025,12
+13062144,Maruti Suzuki,Wagon R 1.0,VXI,39665,2016,410000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+15598998,Maruti Suzuki,Baleno,Zeta Petrol,42510,2017,605000.0,petrol,1,hatchback,manual,regular,Kochi,2017,2025,5
+15899428,Maruti Suzuki,Wagon R 1.0,VXI,76814,2014,345000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,7
+15589192,Maruti Suzuki,Alto 800,VXI,23785,2022,370000.0,petrol,1,hatchback,manual,regular,Kochi,2022,2025,12
+16132331,Ford,EcoSport,Titanium 1.0L Ecoboost (Opt),59938,2014,495000.0,petrol,1,suv,manual,regular,Kochi,2014,2025,5
+15272045,Hyundai,i10,Magna 1.2 Petrol,46175,2013,289000.0,petrol,1,hatchback,manual,regular,Kochi,2013,2025,12
+15306155,Hyundai,i10,Sportz 1.1 Petrol,82901,2014,319000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,12
+14323600,Datsun,GO,T,50756,2016,279000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+12865714,Tata,Safari,XZ Plus,31721,2021,1711000.0,diesel,1,suv,manual,regular,Kochi,2021,2025,12
+15824130,Renault,Kwid,RXT,89934,2015,239000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,12
+15046965,Hyundai,Creta,1.6L SX VTVT,61683,2018,855000.0,petrol,1,suv,manual,regular,Kochi,2018,2025,12
+14309029,Hyundai,Verna,1.6 VTVT SX,60152,2019,826000.0,petrol,1,sedan,manual,regular,Kochi,2019,2025,12
+13317572,Tata,Punch,Accomplished Dazzle Pack MT,29479,2021,668000.0,petrol,1,suv,manual,regular,Kochi,2021,2025,12
+15133986,Maruti Suzuki,Wagon R 1.0,VXI,27869,2016,428000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,5
+16018056,Renault,Kwid,1.0L RXT(O) AMT,24296,2021,446000.0,petrol,1,hatchback,automatic,,Kochi,2021,2025,12
+13147004,Ford,Freestyle,Titanium Plus 1.2 Ti-VCT,12931,2021,649000.0,petrol,1,crossover,manual,regular,Kochi,2021,2025,12
+13070892,MG Motors,Astor,Sharp 1.5 MT,25804,2021,1197955.0,petrol,1,suv,manual,regular,Kochi,2021,2025,12
+14070869,Hyundai,i10,magna 1.1,89866,2014,294000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,12
+16349274,Renault,Kwid,RXT 1.0 SCE Special,38885,2018,336000.0,petrol,1,hatchback,manual,regular,Kochi,2018,2025,12
+16934616,Maruti Suzuki,Wagon R 1.0,LXI,80321,2014,321000.0,petrol,1,hatchback,manual,regular,Kochi,2015,2025,12
+15046965,Hyundai,Creta,1.6L SX VTVT,61683,2018,855000.0,petrol,1,suv,manual,regular,Kochi,2018,2025,12
+14309029,Hyundai,Verna,1.6 VTVT SX,60152,2019,826000.0,petrol,1,sedan,manual,regular,Kochi,2019,2025,12
+13317572,Tata,Punch,Accomplished Dazzle Pack MT,29479,2021,668000.0,petrol,1,suv,manual,regular,Kochi,2021,2025,12
+15133986,Maruti Suzuki,Wagon R 1.0,VXI,27869,2016,428000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,5
+16018056,Renault,Kwid,1.0L RXT(O) AMT,24296,2021,446000.0,petrol,1,hatchback,automatic,,Kochi,2021,2025,12
+13147004,Ford,Freestyle,Titanium Plus 1.2 Ti-VCT,12931,2021,649000.0,petrol,1,crossover,manual,regular,Kochi,2021,2025,12
+13070892,MG Motors,Astor,Sharp 1.5 MT,25804,2021,1197955.0,petrol,1,suv,manual,regular,Kochi,2021,2025,12
+14070869,Hyundai,i10,magna 1.1,89866,2014,294000.0,petrol,1,hatchback,manual,regular,Kochi,2014,2025,12
+16349274,Renault,Kwid,RXT 1.0 SCE Special,38885,2018,336000.0,petrol,1,hatchback,manual,regular,Kochi,2018,2025,12
+16934616,Maruti Suzuki,Wagon R 1.0,LXI,80321,2014,321000.0,petrol,1,hatchback,manual,regular,Kochi,2015,2025,12
+16352757,Tata,Safari,XZA Plus Dark Edition,33164,2022,2046000.0,diesel,1,suv,automatic,AMT,Kochi,2023,2025,12
+15428255,Hyundai,Aura,E 1.2 Petrol,18590,2021,515000.0,petrol,1,sedan,manual,regular,Kochi,2021,2025,4
+14711425,Honda,Jazz,V,71873,2016,488000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,6
+15354801,MG Motors,Hector,Sharp Pro 1.5 Turbo Petrol CVT,10187,2023,1887548.0,petrol,1,suv,automatic,CVT,Kochi,2023,2025,12
+10993081,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT CNG,34085,2021,641000.0,petrol+cng,1,hatchback,manual,regular,Kochi,2021,2025,12
+14708031,Maruti Suzuki,Celerio,VXI,71568,2016,370000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,6
+13652351,Maruti Suzuki,Ciaz,VXI+,86059,2015,528000.0,petrol,1,sedan,manual,regular,Kochi,2016,2025,12
+13808500,MG Motors,Hector Plus,Super 1.5 Petrol Turbo Hybrid MT 7-STR,28122,2021,1386955.0,petrol,1,suv,manual,regular,Kochi,2021,2025,12
+9849316,Tata,Harrier,XM,38158,2019,1182902.0,diesel,1,suv,manual,regular,Kochi,2019,2025,12
+15591352,Maruti Suzuki,Eeco,AC CNG 5 STR,40453,2019,492000.0,petrol+cng,1,muv,manual,regular,Kochi,2019,2025,4
+16352757,Tata,Safari,XZA Plus Dark Edition,33164,2022,2046000.0,diesel,1,suv,automatic,AMT,Kochi,2023,2025,12
+15428255,Hyundai,Aura,E 1.2 Petrol,18590,2021,515000.0,petrol,1,sedan,manual,regular,Kochi,2021,2025,4
+14711425,Honda,Jazz,V,71873,2016,488000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,6
+15354801,MG Motors,Hector,Sharp Pro 1.5 Turbo Petrol CVT,10187,2023,1887548.0,petrol,1,suv,automatic,CVT,Kochi,2023,2025,12
+10993081,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT CNG,34085,2021,641000.0,petrol+cng,1,hatchback,manual,regular,Kochi,2021,2025,12
+14708031,Maruti Suzuki,Celerio,VXI,71568,2016,370000.0,petrol,1,hatchback,manual,regular,Kochi,2016,2025,6
+13652351,Maruti Suzuki,Ciaz,VXI+,86059,2015,528000.0,petrol,1,sedan,manual,regular,Kochi,2016,2025,12
+13808500,MG Motors,Hector Plus,Super 1.5 Petrol Turbo Hybrid MT 7-STR,28122,2021,1386955.0,petrol,1,suv,manual,regular,Kochi,2021,2025,12
+9849316,Tata,Harrier,XM,38158,2019,1182902.0,diesel,1,suv,manual,regular,Kochi,2019,2025,12
+15591352,Maruti Suzuki,Eeco,AC CNG 5 STR,40453,2019,492000.0,petrol+cng,1,muv,manual,regular,Kochi,2019,2025,4
+13069422,Renault,Triber,RXZ,26317,2019,554000.0,petrol,1,muv,manual,regular,Kochi,2019,2025,12
+13141412,Datsun,Redi-GO,S,31085,2019,239000.0,petrol,1,hatchback,manual,regular,Kochi,2019,2025,12
+17519812,Ford,Figo Aspire,Titanium Plus 1.5 TDCi,80747,2015,354000.0,diesel,1,sedan,manual,regular,Kochi,2016,2025,12
+15577139,Tata,Tiago,Revotron XT,62701,2017,386000.0,petrol,1,hatchback,manual,regular,Kochi,2017,2025,4
+16493039,Tata,Tigor,Revotron XT,52341,2017,389000.0,petrol,1,sedan,manual,regular,Kochi,2018,2025,12
+17443255,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,43911,2014,376000.0,petrol,1,hatchback,manual,regular,Kochi,2015,2025,12
+16222365,Ford,Freestyle,Titanium Plus 1.5 TDCI,65503,2019,629000.0,diesel,1,crossover,manual,regular,Kochi,2019,2025,4
+18082486,Nissan,Micra,XL CVT,33306,2017,477000.0,petrol,1,hatchback,automatic,CVT,Kochi,2017,2025,12
+16281512,Ford,Figo,Titanium1.5 TDCi,78661,2015,399000.0,diesel,1,hatchback,manual,regular,Kochi,2016,2025,12
+15711103,MG Motors,Astor,Sharp EX 1.5 MT,32295,2022,1088683.0,petrol,1,suv,manual,regular,Kochi,2022,2025,12

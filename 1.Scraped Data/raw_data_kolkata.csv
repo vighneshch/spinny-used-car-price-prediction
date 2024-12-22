@@ -1,0 +1,361 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+16173747,Maruti Suzuki,Ciaz,Alpha Petrol,34210,2020,762000.0,petrol,1,sedan,manual,regular,Kolkata,2020,2025.0,12.0
+16206133,Maruti Suzuki,Wagon R 1.0,LXI CNG,40048,2021,508000.0,petrol+cng,1,hatchback,manual,regular,Kolkata,2021,2025.0,5.0
+17227319,Volkswagen,Virtus,Highline 1.0 TSI MT,24983,2023,1106000.0,petrol,1,sedan,manual,regular,Kolkata,2023,2026.0,5.0
+16795257,Renault,Kwid,1.0 RXT Opt,21261,2022,435000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+16264481,Skoda,Slavia,Style 1.5L TSI AT,10977,2022,1493693.0,petrol,1,sedan,automatic,DCT,Kolkata,2022,2025.0,9.0
+17547361,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,37320,2019,452000.0,petrol,1,hatchback,manual,regular,Kolkata,2019,2025.0,12.0
+15749412,Renault,Kwid,RXL 1.0 SCE,15180,2021,404000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+16539015,Maruti Suzuki,S-Presso,VXI Plus,19077,2022,473000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+17500410,Renault,Kiger,RXT Turbo CVT,10079,2022,845000.0,petrol,1,suv,automatic,CVT,Kolkata,2022,2025.0,6.0
+16105823,Renault,Kiger,RXZ 1.0 Turbo MT,35690,2021,674353.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,4.0
+15848827,Maruti Suzuki,S-Presso,VXI Opt CNG,16110,2022,527000.0,petrol+cng,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+16224496,Volkswagen,Polo,Highline Plus 1.0 TSI,34997,2020,647000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+16941784,Maruti Suzuki,Baleno,Zeta Petrol,38820,2020,601000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+16445325,Hyundai,Aura,SX 1.2 (O) Petrol,23769,2021,664000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,4.0
+16835883,Hyundai,Creta,SX Petrol,58653,2020,1045000.0,petrol,1,suv,manual,regular,Kolkata,2020,2025.0,8.0
+17013510,Maruti Suzuki,S-Presso,VXI Plus,14444,2021,456000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,7.0
+18204923,Hyundai,Venue,SX 1.0  Turbo iMT,39077,2021,839000.0,petrol,1,suv,manual,iMT,Kolkata,2021,2025.0,12.0
+17203050,Honda,City,V 4th Gen,41984,2021,697000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+16528134,Maruti Suzuki,Baleno,Alpha Petrol,89348,2016,428000.0,petrol,1,hatchback,manual,regular,Kolkata,2016,2025.0,7.0
+15363254,Ford,Freestyle,Titanium 1.5 TDCI,101242,2018,447000.0,diesel,1,crossover,manual,regular,Kolkata,2019,2025.0,12.0
+15848827,Maruti Suzuki,S-Presso,VXI Opt CNG,16110,2022,527000.0,petrol+cng,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+16224496,Volkswagen,Polo,Highline Plus 1.0 TSI,34997,2020,647000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+16941784,Maruti Suzuki,Baleno,Zeta Petrol,38820,2020,601000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+16445325,Hyundai,Aura,SX 1.2 (O) Petrol,23769,2021,664000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,4.0
+16835883,Hyundai,Creta,SX Petrol,58653,2020,1045000.0,petrol,1,suv,manual,regular,Kolkata,2020,2025.0,8.0
+17013510,Maruti Suzuki,S-Presso,VXI Plus,14444,2021,456000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,7.0
+15637537,Nissan,Magnite,XV Premium Turbo (O) Dual Tone,6857,2022,843000.0,petrol,1,suv,manual,regular,Kolkata,2023,2025.0,12.0
+17223450,Maruti Suzuki,Ciaz,Alpha Petrol,66725,2020,719000.0,petrol,1,sedan,manual,regular,Kolkata,2020,2025.0,12.0
+16951530,Maruti Suzuki,S-Cross,Alpha 1.5,26115,2022,906000.0,petrol,1,suv,manual,regular,Kolkata,2022,2025.0,12.0
+16707351,Hyundai,Aura,SX Plus 1.0 Petrol,23184,2020,643000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+16781064,Honda,Jazz,ZX CVT,24494,2021,697000.0,petrol,2,hatchback,automatic,CVT,Kolkata,2021,2025.0,12.0
+17713363,Honda,City,ZX,26025,2021,1042178.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+18296980,Hyundai,Venue,SX 1.0  Turbo iMT,20362,2022,875000.0,petrol,1,suv,manual,iMT,Kolkata,2022,2025.0,12.0
+17773467,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,39939,2022,597000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+17164802,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT CNG,9963,2022,711000.0,petrol+cng,1,hatchback,manual,regular,Kolkata,2022,2025.0,8.0
+17435711,Maruti Suzuki,Vitara Brezza,ZXI Plus Dual Tone,19842,2020,819000.0,petrol,1,suv,manual,regular,Kolkata,2020,2025.0,12.0
+17180981,Maruti Suzuki,Alto 800,LXI,94115,2020,249000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,9.0
+16707972,Renault,Triber,RXT AMT,31053,2021,556000.0,petrol,1,muv,automatic,AMT,Kolkata,2021,2025.0,12.0
+16805508,Renault,Triber,RXT,28732,2020,510000.0,petrol,1,muv,manual,regular,Kolkata,2020,2025.0,12.0
+16456814,Renault,Duster,110 PS RXZ 4X2 AMT,90169,2018,650000.0,diesel,1,suv,automatic,AMT,Kolkata,2019,2025.0,12.0
+16781064,Honda,Jazz,ZX CVT,24494,2021,697000.0,petrol,2,hatchback,automatic,CVT,Kolkata,2021,2025.0,12.0
+17713363,Honda,City,ZX,26025,2021,1042178.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+18296980,Hyundai,Venue,SX 1.0  Turbo iMT,20362,2022,875000.0,petrol,1,suv,manual,iMT,Kolkata,2022,2025.0,12.0
+17773467,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,39939,2022,597000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+17164802,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT CNG,9963,2022,711000.0,petrol+cng,1,hatchback,manual,regular,Kolkata,2022,2025.0,8.0
+17435711,Maruti Suzuki,Vitara Brezza,ZXI Plus Dual Tone,19842,2020,819000.0,petrol,1,suv,manual,regular,Kolkata,2020,2025.0,12.0
+17731836,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,19906,2020,528000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+18140052,Hyundai,Grand i10 Nios,Magna 1.2,19082,2023,589000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2025.0,12.0
+17420057,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,18103,2022,637000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+15836595,Maruti Suzuki,Dzire,ZXI Plus AMT,19962,2023,819000.0,petrol,1,sedan,automatic,AMT,Kolkata,2023,2025.0,12.0
+15739597,Skoda,Slavia,Style 1.5L TSI MT,2929,2022,1444000.0,petrol,1,sedan,manual,regular,Kolkata,2022,2025.0,10.0
+17487841,Hyundai,Exter,SX(O) 1.2 Petrol AMT,6414,2023,849000.0,petrol,1,suv,automatic,AMT,Kolkata,2023,2025.0,12.0
+18219718,Maruti Suzuki,Baleno,Delta Petrol,20120,2018,483000.0,petrol,1,hatchback,manual,regular,Kolkata,2018,2025.0,12.0
+16842805,Hyundai,New Santro 1.1,Sportz MT,40599,2021,439000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+16379276,Skoda,Rapid New,Style Petrol AT,36649,2018,678000.0,petrol,1,sedan,automatic,DSG,Kolkata,2018,2025.0,8.0
+15839178,Tata,Altroz,XZ 1.2,44517,2020,607382.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+16403689,Honda,City,ZX CVT,36014,2021,1150293.0,petrol,1,sedan,automatic,CVT,Kolkata,2021,2025.0,8.0
+17435606,Maruti Suzuki,Swift,VXI AMT,45366,2019,483000.0,petrol,2,hatchback,automatic,AMT,Kolkata,2019,2025.0,12.0
+17510721,Datsun,Redi-GO,S,22332,2019,252000.0,petrol,1,hatchback,manual,regular,Kolkata,2019,2025.0,12.0
+15441733,Maruti Suzuki,Alto 800,LXI,17328,2016,229000.0,petrol,2,hatchback,manual,regular,Kolkata,2016,2025.0,12.0
+15739597,Skoda,Slavia,Style 1.5L TSI MT,2929,2022,1444000.0,petrol,1,sedan,manual,regular,Kolkata,2022,2025.0,10.0
+17487841,Hyundai,Exter,SX(O) 1.2 Petrol AMT,6414,2023,849000.0,petrol,1,suv,automatic,AMT,Kolkata,2023,2025.0,12.0
+18219718,Maruti Suzuki,Baleno,Delta Petrol,20120,2018,483000.0,petrol,1,hatchback,manual,regular,Kolkata,2018,2025.0,12.0
+16842805,Hyundai,New Santro 1.1,Sportz MT,40599,2021,439000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+16379276,Skoda,Rapid New,Style Petrol AT,36649,2018,678000.0,petrol,1,sedan,automatic,DSG,Kolkata,2018,2025.0,8.0
+15839178,Tata,Altroz,XZ 1.2,44517,2020,607382.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+16403689,Honda,City,ZX CVT,36014,2021,1150293.0,petrol,1,sedan,automatic,CVT,Kolkata,2021,2025.0,8.0
+17020120,Maruti Suzuki,S-Presso,VXI Plus,20033,2021,447000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,6.0
+17493066,Hyundai,Elite i20,Sportz Plus 1.2,45865,2020,565000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,10.0
+15715817,Skoda,Slavia,Ambition 1.0L TSI MT,15128,2022,1067000.0,petrol,1,sedan,manual,regular,Kolkata,2023,2025.0,4.0
+13569527,Tata,Altroz,XZ 1.5,41422,2021,697000.0,diesel,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+14874614,Hyundai,Elite i20,Sportz 1.2,30169,2016,449000.0,petrol,1,hatchback,manual,regular,Kolkata,2016,2025.0,12.0
+16125333,Skoda,Rapid New,Style Petrol AT,66563,2016,582000.0,petrol,1,sedan,automatic,DSG,Kolkata,2017,2025.0,12.0
+14308800,Nissan,Magnite,XV Premium Turbo CVT (O),34337,2021,825000.0,petrol,1,suv,automatic,CVT,Kolkata,2021,2025.0,5.0
+16443000,Renault,Kiger,RXT (O) MT,19841,2022,628000.0,petrol,1,suv,manual,regular,Kolkata,2022,2025.0,12.0
+16569519,Nissan,Magnite,XV Premium Turbo CVT,33252,2021,759000.0,petrol,2,suv,automatic,CVT,Kolkata,2021,2025.0,12.0
+16710768,Maruti Suzuki,S-Presso,VXI Plus,34982,2020,414000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17475755,Maruti Suzuki,Alto K10,VXI (O),68576,2015,234000.0,petrol,1,hatchback,manual,regular,Kolkata,2015,2025.0,8.0
+16573807,Maruti Suzuki,Baleno,Alpha Petrol,60658,2015,432000.0,petrol,1,hatchback,manual,regular,Kolkata,2016,2025.0,12.0
+16634328,Maruti Suzuki,Alto K10,VXI,59804,2014,209000.0,petrol,2,hatchback,manual,regular,Kolkata,2014,2025.0,12.0
+13569527,Tata,Altroz,XZ 1.5,41422,2021,697000.0,diesel,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+14874614,Hyundai,Elite i20,Sportz 1.2,30169,2016,449000.0,petrol,1,hatchback,manual,regular,Kolkata,2016,2025.0,12.0
+16125333,Skoda,Rapid New,Style Petrol AT,66563,2016,582000.0,petrol,1,sedan,automatic,DSG,Kolkata,2017,2025.0,12.0
+14308800,Nissan,Magnite,XV Premium Turbo CVT (O),34337,2021,825000.0,petrol,1,suv,automatic,CVT,Kolkata,2021,2025.0,5.0
+16443000,Renault,Kiger,RXT (O) MT,19841,2022,628000.0,petrol,1,suv,manual,regular,Kolkata,2022,2025.0,12.0
+16569519,Nissan,Magnite,XV Premium Turbo CVT,33252,2021,759000.0,petrol,2,suv,automatic,CVT,Kolkata,2021,2025.0,12.0
+16710768,Maruti Suzuki,S-Presso,VXI Plus,34982,2020,414000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+18199539,Maruti Suzuki,Ignis,Alpha AMT Petrol,19274,2021,624000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2021,2025.0,5.0
+17050291,Hyundai,Grand i10 Nios,Asta AMT 1.2 Kappa VTVT,38232,2021,672000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2021,2025.0,12.0
+17714907,Hyundai,Venue,SX 1.0  Turbo,32202,2020,749000.0,petrol,1,suv,manual,regular,Kolkata,2020,2025.0,12.0
+17525016,Renault,Kwid,CLIMBER 1.0 Opt,50086,2020,380000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+14710939,Tata,Altroz,XZ 1.5,53411,2020,647000.0,diesel,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17457325,Maruti Suzuki,Celerio,ZXI Plus,21953,2022,555000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,9.0
+17382906,Hyundai,i20 N Line,N8 1.0 Turbo iMT,11943,2022,892000.0,petrol,1,hatchback,manual,iMT,Kolkata,2022,2025.0,4.0
+14673975,Maruti Suzuki,Ciaz,Delta Petrol,20301,2021,722000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+16033328,Kia,Sonet,GTX Plus 1.0 iMT,47953,2020,823000.0,petrol,1,suv,manual,iMT,Kolkata,2020,2025.0,12.0
+17565693,Tata,Punch,Creative MT,32464,2021,663000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+14501768,Mahindra,Thar,LX 4 STR Convertible Diesel AT 4WD,41381,2021,1246000.0,diesel,1,suv,automatic,Torque Convertor,Kolkata,2021,2025.0,4.0
+17435655,Maruti Suzuki,Alto K10,VXI,39857,2015,211000.0,petrol,3,hatchback,manual,regular,Kolkata,2016,2025.0,12.0
+17592470,Maruti Suzuki,Alto 800,LXI,57924,2016,223000.0,petrol,1,hatchback,manual,regular,Kolkata,2016,2025.0,4.0
+17525016,Renault,Kwid,CLIMBER 1.0 Opt,50086,2020,380000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+14710939,Tata,Altroz,XZ 1.5,53411,2020,647000.0,diesel,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17457325,Maruti Suzuki,Celerio,ZXI Plus,21953,2022,555000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,9.0
+17382906,Hyundai,i20 N Line,N8 1.0 Turbo iMT,11943,2022,892000.0,petrol,1,hatchback,manual,iMT,Kolkata,2022,2025.0,4.0
+14673975,Maruti Suzuki,Ciaz,Delta Petrol,20301,2021,722000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+16033328,Kia,Sonet,GTX Plus 1.0 iMT,47953,2020,823000.0,petrol,1,suv,manual,iMT,Kolkata,2020,2025.0,12.0
+17565693,Tata,Punch,Creative MT,32464,2021,663000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+14501768,Mahindra,Thar,LX 4 STR Convertible Diesel AT 4WD,41381,2021,1246000.0,diesel,1,suv,automatic,Torque Convertor,Kolkata,2021,2025.0,4.0
+15740263,Tata,Safari,XZ Plus,53431,2021,1514902.0,diesel,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+16795364,Renault,Duster,RXZ Turbo Petrol,47308,2021,854000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+17786555,Tata,Tiago,Revotron XZ Plus,27987,2021,518000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,8.0
+16835881,Maruti Suzuki,S-Presso,VXI,26139,2021,421000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17914668,Hyundai,Venue,SX 1.0  Turbo,28961,2021,749000.0,petrol,2,suv,manual,regular,Kolkata,2021,2025.0,7.0
+16574381,Honda,Jazz,ZX CVT,21206,2022,739000.0,petrol,2,hatchback,automatic,CVT,Kolkata,2022,2025.0,9.0
+16304223,Hyundai,Verna,1.4 VTVT EX,50627,2018,579000.0,petrol,1,sedan,manual,regular,Kolkata,2018,2025.0,12.0
+16803771,Renault,Kwid,1.0 RXT AMT SCE,28880,2020,417000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2020,2025.0,12.0
+16400905,Maruti Suzuki,S-Presso,VXI Plus,9446,2021,458000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17589995,Hyundai,Alcazar,Signature (O) 6 STR 2.0 Petrol AT,50311,2022,1443095.0,petrol,1,suv,automatic,Torque Convertor,Kolkata,2022,2025.0,12.0
+15888422,Hyundai,i10,Sportz 1.2 Petrol,52333,2011,205000.0,petrol,1,hatchback,manual,regular,Kolkata,2011,2025.0,7.0
+18204939,Maruti Suzuki,Ignis,Delta MT Petrol,39462,2022,489000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+17786555,Tata,Tiago,Revotron XZ Plus,27987,2021,518000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,8.0
+16835881,Maruti Suzuki,S-Presso,VXI,26139,2021,421000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17914668,Hyundai,Venue,SX 1.0  Turbo,28961,2021,749000.0,petrol,2,suv,manual,regular,Kolkata,2021,2025.0,7.0
+16574381,Honda,Jazz,ZX CVT,21206,2022,739000.0,petrol,2,hatchback,automatic,CVT,Kolkata,2022,2025.0,9.0
+16304223,Hyundai,Verna,1.4 VTVT EX,50627,2018,579000.0,petrol,1,sedan,manual,regular,Kolkata,2018,2025.0,12.0
+16803771,Renault,Kwid,1.0 RXT AMT SCE,28880,2020,417000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2020,2025.0,12.0
+16400905,Maruti Suzuki,S-Presso,VXI Plus,9446,2021,458000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17589995,Hyundai,Alcazar,Signature (O) 6 STR 2.0 Petrol AT,50311,2022,1443095.0,petrol,1,suv,automatic,Torque Convertor,Kolkata,2022,2025.0,12.0
+18147561,Maruti Suzuki,Swift,VXI,53811,2020,498000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+18228676,Maruti Suzuki,Ciaz,Zeta AT Petrol,30048,2022,877000.0,petrol,1,sedan,automatic,Torque Convertor,Kolkata,2022,2025.0,12.0
+17917910,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,16698,2021,669000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+15107236,MG Motors,Hector,2.0 Sharp Diesel Turbo,36419,2022,1558000.0,diesel,1,suv,manual,regular,Kolkata,2022,2025.0,12.0
+18240958,Hyundai,Venue,SX 1.2 Petrol,27673,2022,897000.0,petrol,1,suv,manual,regular,Kolkata,2022,2025.0,12.0
+17296905,Maruti Suzuki,Swift,ZXI,43285,2017,424000.0,petrol,2,hatchback,manual,regular,Kolkata,2017,2025.0,4.0
+17640620,Maruti Suzuki,Swift,VXI,23285,2017,418000.0,petrol,1,hatchback,manual,regular,Kolkata,2017,2025.0,12.0
+15186280,Kia,Sonet,HTX Plus 1.0 iMT,48322,2020,855000.0,petrol,1,suv,manual,iMT,Kolkata,2020,2025.0,12.0
+17991656,Maruti Suzuki,Dzire,ZXI Plus,12711,2018,579000.0,petrol,1,sedan,manual,regular,Kolkata,2018,2025.0,5.0
+15463621,Mahindra,Bolero,B6 (O),33647,2022,902000.0,diesel,1,suv,manual,regular,Kolkata,2022,2028.0,1.0
+18177071,Maruti Suzuki,Ciaz,Alpha AT Petrol,22424,2019,765000.0,petrol,1,sedan,automatic,Torque Convertor,Kolkata,2019,2025.0,12.0
+14171045,Nissan,Magnite,XV Premium Turbo (O) Dual Tone,19112,2021,670000.0,petrol,2,suv,manual,regular,Kolkata,2021,2025.0,12.0
+17917910,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,16698,2021,669000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+15107236,MG Motors,Hector,2.0 Sharp Diesel Turbo,36419,2022,1558000.0,diesel,1,suv,manual,regular,Kolkata,2022,2025.0,12.0
+18240958,Hyundai,Venue,SX 1.2 Petrol,27673,2022,897000.0,petrol,1,suv,manual,regular,Kolkata,2022,2025.0,12.0
+17296905,Maruti Suzuki,Swift,ZXI,43285,2017,424000.0,petrol,2,hatchback,manual,regular,Kolkata,2017,2025.0,4.0
+17640620,Maruti Suzuki,Swift,VXI,23285,2017,418000.0,petrol,1,hatchback,manual,regular,Kolkata,2017,2025.0,12.0
+15186280,Kia,Sonet,HTX Plus 1.0 iMT,48322,2020,855000.0,petrol,1,suv,manual,iMT,Kolkata,2020,2025.0,12.0
+17991656,Maruti Suzuki,Dzire,ZXI Plus,12711,2018,579000.0,petrol,1,sedan,manual,regular,Kolkata,2018,2025.0,5.0
+15463621,Mahindra,Bolero,B6 (O),33647,2022,902000.0,diesel,1,suv,manual,regular,Kolkata,2022,2028.0,1.0
+18177071,Maruti Suzuki,Ciaz,Alpha AT Petrol,22424,2019,765000.0,petrol,1,sedan,automatic,Torque Convertor,Kolkata,2019,2025.0,12.0
+17859276,Maruti Suzuki,Swift Dzire,VDI,54240,2015,427000.0,diesel,1,sedan,manual,regular,Kolkata,2015,2025.0,9.0
+17660173,Tata,Punch,Adventure MT,11805,2021,594000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,11.0
+17660194,Renault,Kwid,1.0 RXT Opt,39865,2021,399000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+16150756,Tata,Altroz,XZ 1.2,12746,2022,721000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,4.0
+18011430,Honda,WR-V,i-VTEC VX,38493,2020,658000.0,petrol,1,suv,manual,regular,Kolkata,2020,2025.0,12.0
+17263734,Renault,Kwid,Climber 1.0l SCE Petrol MT,2670,2022,489000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2025.0,12.0
+14973916,Hyundai,Venue,SX Plus 1.0 Turbo DCT,26880,2022,995000.0,petrol,1,suv,automatic,DCT,Kolkata,2022,2025.0,12.0
+16128850,Maruti Suzuki,S-Presso,VXI Plus,53055,2020,392000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17812068,Maruti Suzuki,Alto K10,VXI Plus,7422,2023,470000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2025.0,12.0
+16843543,Maruti Suzuki,Alto 800,VXI,12198,2022,385000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,4.0
+17143301,Maruti Suzuki,Baleno,Alpha Petrol,11338,2021,715000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,5.0
+17660173,Tata,Punch,Adventure MT,11805,2021,594000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,11.0
+17660194,Renault,Kwid,1.0 RXT Opt,39865,2021,399000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+16150756,Tata,Altroz,XZ 1.2,12746,2022,721000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,4.0
+18011430,Honda,WR-V,i-VTEC VX,38493,2020,658000.0,petrol,1,suv,manual,regular,Kolkata,2020,2025.0,12.0
+17263734,Renault,Kwid,Climber 1.0l SCE Petrol MT,2670,2022,489000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2025.0,12.0
+14973916,Hyundai,Venue,SX Plus 1.0 Turbo DCT,26880,2022,995000.0,petrol,1,suv,automatic,DCT,Kolkata,2022,2025.0,12.0
+16128850,Maruti Suzuki,S-Presso,VXI Plus,53055,2020,392000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17812068,Maruti Suzuki,Alto K10,VXI Plus,7422,2023,470000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2025.0,12.0
+16843543,Maruti Suzuki,Alto 800,VXI,12198,2022,385000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,4.0
+17143301,Maruti Suzuki,Baleno,Alpha Petrol,11338,2021,715000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,5.0
+16531109,Renault,Kwid,1.0 RXT Opt,9159,2021,421000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+18072767,Maruti Suzuki,Dzire,ZXI AMT,10285,2023,768000.0,petrol,1,sedan,automatic,AMT,Kolkata,2023,2025.0,4.0
+15733631,Honda,Amaze,1.2 VX i-VTEC,12689,2022,742000.0,petrol,1,sedan,manual,regular,Kolkata,2022,2025.0,12.0
+16286302,Tata,Tiago,Revotron XZ Plus,35431,2021,524000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17576261,Maruti Suzuki,Swift,VXI,11329,2022,587000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,6.0
+17482204,Hyundai,Venue,SX 1.0  Turbo,34453,2019,724000.0,petrol,1,suv,manual,regular,Kolkata,2019,2025.0,12.0
+17655426,Maruti Suzuki,Vitara Brezza,ZDi,74469,2017,629000.0,diesel,1,suv,manual,regular,Kolkata,2017,2025.0,5.0
+17682140,Volkswagen,Taigun,Highline 1.0 TSI AT,26748,2022,1226043.0,petrol,1,suv,automatic,Torque Convertor,Kolkata,2022,2025.0,6.0
+17444590,Renault,Triber,RXT AMT,33039,2021,592000.0,petrol,1,muv,automatic,AMT,Kolkata,2021,2025.0,4.0
+17697984,Hyundai,Elite i20,Asta 1.2,20107,2018,533000.0,petrol,1,hatchback,manual,regular,Kolkata,2018,2025.0,12.0
+16531109,Renault,Kwid,1.0 RXT Opt,9159,2021,421000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+18072767,Maruti Suzuki,Dzire,ZXI AMT,10285,2023,768000.0,petrol,1,sedan,automatic,AMT,Kolkata,2023,2025.0,4.0
+15733631,Honda,Amaze,1.2 VX i-VTEC,12689,2022,742000.0,petrol,1,sedan,manual,regular,Kolkata,2022,2025.0,12.0
+16286302,Tata,Tiago,Revotron XZ Plus,35431,2021,524000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17576261,Maruti Suzuki,Swift,VXI,11329,2022,587000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,6.0
+17482204,Hyundai,Venue,SX 1.0  Turbo,34453,2019,724000.0,petrol,1,suv,manual,regular,Kolkata,2019,2025.0,12.0
+17655426,Maruti Suzuki,Vitara Brezza,ZDi,74469,2017,629000.0,diesel,1,suv,manual,regular,Kolkata,2017,2025.0,5.0
+17682140,Volkswagen,Taigun,Highline 1.0 TSI AT,26748,2022,1226043.0,petrol,1,suv,automatic,Torque Convertor,Kolkata,2022,2025.0,6.0
+17444590,Renault,Triber,RXT AMT,33039,2021,592000.0,petrol,1,muv,automatic,AMT,Kolkata,2021,2025.0,4.0
+17697984,Hyundai,Elite i20,Asta 1.2,20107,2018,533000.0,petrol,1,hatchback,manual,regular,Kolkata,2018,2025.0,12.0
+17568653,Ford,Figo Aspire,Titanium Plus 1.2 Ti-VCT,16677,2020,538000.0,petrol,1,sedan,manual,regular,Kolkata,2020,,
+15910351,Maruti Suzuki,S-Presso,VXI Plus,29875,2021,432000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17222637,Hyundai,Venue,SX Plus 1.0 Turbo DCT,32365,2019,795000.0,petrol,1,suv,automatic,DCT,Kolkata,2019,2025.0,12.0
+15904992,Renault,Kwid,CLIMBER 1.0 AMT Opt,23596,2021,455000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2021,2025.0,12.0
+16824600,Renault,Kwid,CLIMBER 1.0 Opt,42703,2020,397000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,8.0
+16562640,Mahindra,XUV 300,W8 (O) Dual Tone Diesel,16048,2022,1096397.0,diesel,1,suv,manual,regular,Kolkata,2022,2025.0,5.0
+15622583,Renault,Kwid,1.0 RXT Opt,16398,2021,411000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+16290263,Maruti Suzuki,Dzire,VXI AMT,24127,2018,577000.0,petrol,1,sedan,automatic,AMT,Kolkata,2018,2025.0,12.0
+15866241,Volkswagen,Polo,Comfortline 1.2 (D),72294,2014,338000.0,diesel,1,hatchback,manual,regular,Kolkata,2014,2025.0,12.0
+15963215,Maruti Suzuki,Dzire,ZXI CNG,21310,2022,715000.0,petrol+cng,1,sedan,manual,regular,Kolkata,2022,2025.0,4.0
+17568653,Ford,Figo Aspire,Titanium Plus 1.2 Ti-VCT,16677,2020,538000.0,petrol,1,sedan,manual,regular,Kolkata,2020,,
+15910351,Maruti Suzuki,S-Presso,VXI Plus,29875,2021,432000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17222637,Hyundai,Venue,SX Plus 1.0 Turbo DCT,32365,2019,795000.0,petrol,1,suv,automatic,DCT,Kolkata,2019,2025.0,12.0
+15904992,Renault,Kwid,CLIMBER 1.0 AMT Opt,23596,2021,455000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2021,2025.0,12.0
+16824600,Renault,Kwid,CLIMBER 1.0 Opt,42703,2020,397000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,8.0
+16562640,Mahindra,XUV 300,W8 (O) Dual Tone Diesel,16048,2022,1096397.0,diesel,1,suv,manual,regular,Kolkata,2022,2025.0,5.0
+15622583,Renault,Kwid,1.0 RXT Opt,16398,2021,411000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+16290263,Maruti Suzuki,Dzire,VXI AMT,24127,2018,577000.0,petrol,1,sedan,automatic,AMT,Kolkata,2018,2025.0,12.0
+15866241,Volkswagen,Polo,Comfortline 1.2 (D),72294,2014,338000.0,diesel,1,hatchback,manual,regular,Kolkata,2014,2025.0,12.0
+15963215,Maruti Suzuki,Dzire,ZXI CNG,21310,2022,715000.0,petrol+cng,1,sedan,manual,regular,Kolkata,2022,2025.0,4.0
+13544937,Renault,Kiger,RXZ Turbo CVT,40015,2021,733000.0,petrol,1,suv,automatic,CVT,Kolkata,2021,2025.0,12.0
+17403966,Hyundai,Elite i20,Sportz Plus 1.2,36258,2019,529000.0,petrol,1,hatchback,manual,regular,Kolkata,2019,2025.0,12.0
+16953759,Maruti Suzuki,Alto 800,LXI,32172,2021,329000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17472251,Kia,Sonet,GTX Plus 1.0 DCT,65669,2021,978000.0,petrol,1,suv,automatic,DCT,Kolkata,2021,2025.0,12.0
+15203261,Tata,Tiago,Revotron XZ Plus CNG,32976,2022,635000.0,petrol+cng,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+17610131,Kia,Seltos,HTK Plus G,55509,2021,997000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+16975288,Maruti Suzuki,Celerio,VXI AMT,45852,2020,419000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2020,2025.0,6.0
+16124819,Maruti Suzuki,Dzire,ZXI Plus,2919,2022,760000.0,petrol,1,sedan,manual,regular,Kolkata,2022,2025.0,12.0
+17934974,Maruti Suzuki,Celerio,ZXI,16056,2020,412000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17404008,Maruti Suzuki,Alto 800,LXI (O),17227,2022,365000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,9.0
+13544937,Renault,Kiger,RXZ Turbo CVT,40015,2021,733000.0,petrol,1,suv,automatic,CVT,Kolkata,2021,2025.0,12.0
+17403966,Hyundai,Elite i20,Sportz Plus 1.2,36258,2019,529000.0,petrol,1,hatchback,manual,regular,Kolkata,2019,2025.0,12.0
+16953759,Maruti Suzuki,Alto 800,LXI,32172,2021,329000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17472251,Kia,Sonet,GTX Plus 1.0 DCT,65669,2021,978000.0,petrol,1,suv,automatic,DCT,Kolkata,2021,2025.0,12.0
+15203261,Tata,Tiago,Revotron XZ Plus CNG,32976,2022,635000.0,petrol+cng,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+17610131,Kia,Seltos,HTK Plus G,55509,2021,997000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+16975288,Maruti Suzuki,Celerio,VXI AMT,45852,2020,419000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2020,2025.0,6.0
+16124819,Maruti Suzuki,Dzire,ZXI Plus,2919,2022,760000.0,petrol,1,sedan,manual,regular,Kolkata,2022,2025.0,12.0
+17934974,Maruti Suzuki,Celerio,ZXI,16056,2020,412000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17404008,Maruti Suzuki,Alto 800,LXI (O),17227,2022,365000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,9.0
+17341854,Volkswagen,Polo,Highline1.2L (P),67662,2016,401000.0,petrol,1,hatchback,manual,regular,Kolkata,2016,2025.0,8.0
+16325093,Maruti Suzuki,Dzire,VXI,25542,2021,592000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+13114573,Hyundai,New i20,Asta 1.0 Turbo IMT,27542,2021,743000.0,petrol,1,hatchback,manual,iMT,Kolkata,2021,2025.0,12.0
+16876419,Maruti Suzuki,S-Cross,Zeta 1.5,26702,2021,768000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,8.0
+17998925,Tata,Tiago,XTA,41311,2018,404000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2018,2025.0,12.0
+17678636,Hyundai,Venue,SX 1.2 Petrol,6328,2022,930000.0,petrol,1,suv,manual,regular,Kolkata,2022,2025.0,6.0
+17684192,Honda,Amaze,1.2 VX i-VTEC,11201,2019,565000.0,petrol,1,sedan,manual,regular,Kolkata,2019,2025.0,9.0
+14267769,Mahindra,XUV 300,W8 (O) Diesel,67561,2020,849000.0,diesel,1,suv,manual,regular,Kolkata,2020,2025.0,12.0
+17266358,Renault,Kiger,RXT (O) Turbo CVT Dual Tone,5517,2022,816000.0,petrol,1,suv,automatic,CVT,Kolkata,2022,2025.0,9.0
+16052247,Honda,Amaze,1.2 VX CVT i-VTEC,24917,2021,750000.0,petrol,1,sedan,automatic,CVT,Kolkata,2021,2025.0,12.0
+17341854,Volkswagen,Polo,Highline1.2L (P),67662,2016,401000.0,petrol,1,hatchback,manual,regular,Kolkata,2016,2025.0,8.0
+16325093,Maruti Suzuki,Dzire,VXI,25542,2021,592000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+13114573,Hyundai,New i20,Asta 1.0 Turbo IMT,27542,2021,743000.0,petrol,1,hatchback,manual,iMT,Kolkata,2021,2025.0,12.0
+16876419,Maruti Suzuki,S-Cross,Zeta 1.5,26702,2021,768000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,8.0
+17998925,Tata,Tiago,XTA,41311,2018,404000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2018,2025.0,12.0
+17678636,Hyundai,Venue,SX 1.2 Petrol,6328,2022,930000.0,petrol,1,suv,manual,regular,Kolkata,2022,2025.0,6.0
+17684192,Honda,Amaze,1.2 VX i-VTEC,11201,2019,565000.0,petrol,1,sedan,manual,regular,Kolkata,2019,2025.0,9.0
+14267769,Mahindra,XUV 300,W8 (O) Diesel,67561,2020,849000.0,diesel,1,suv,manual,regular,Kolkata,2020,2025.0,12.0
+17266358,Renault,Kiger,RXT (O) Turbo CVT Dual Tone,5517,2022,816000.0,petrol,1,suv,automatic,CVT,Kolkata,2022,2025.0,9.0
+16052247,Honda,Amaze,1.2 VX CVT i-VTEC,24917,2021,750000.0,petrol,1,sedan,automatic,CVT,Kolkata,2021,2025.0,12.0
+13098702,Kia,Seltos,HTK Plus D,63887,2021,932000.0,diesel,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+16424235,Maruti Suzuki,Celerio,ZXI,12436,2020,426000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17640835,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,42985,2020,525000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,7.0
+15317634,Hyundai,Verna,1.6 VTVT SX + AT,32704,2019,899000.0,petrol,1,sedan,automatic,,Kolkata,2019,2025.0,12.0
+17710236,Hyundai,Venue,S+ 1.2,1791,2021,780000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,8.0
+15922182,Renault,Kwid,1.0 RXT Opt,8561,2022,427000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2025.0,12.0
+15922593,Mahindra,Thar,LX 4 STR Hard Top Petrol AT 4WD,10693,2021,1236902.0,petrol,1,suv,automatic,Torque Convertor,Kolkata,2021,2025.0,12.0
+16434452,Renault,Kwid,CLIMBER 1.0 AMT,22984,2020,459000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2020,2025.0,12.0
+17606773,Hyundai,New Santro 1.1,Era Executive,9412,2022,426000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+14813922,Maruti Suzuki,Ciaz,Zeta AT Petrol,15597,2022,871000.0,petrol,1,sedan,automatic,Torque Convertor,Kolkata,2022,2025.0,12.0
+13098702,Kia,Seltos,HTK Plus D,63887,2021,932000.0,diesel,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+16424235,Maruti Suzuki,Celerio,ZXI,12436,2020,426000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17640835,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,42985,2020,525000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,7.0
+15317634,Hyundai,Verna,1.6 VTVT SX + AT,32704,2019,899000.0,petrol,1,sedan,automatic,,Kolkata,2019,2025.0,12.0
+17710236,Hyundai,Venue,S+ 1.2,1791,2021,780000.0,petrol,1,suv,manual,regular,Kolkata,2021,2025.0,8.0
+15922182,Renault,Kwid,1.0 RXT Opt,8561,2022,427000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2025.0,12.0
+15922593,Mahindra,Thar,LX 4 STR Hard Top Petrol AT 4WD,10693,2021,1236902.0,petrol,1,suv,automatic,Torque Convertor,Kolkata,2021,2025.0,12.0
+16434452,Renault,Kwid,CLIMBER 1.0 AMT,22984,2020,459000.0,petrol,1,hatchback,automatic,AMT,Kolkata,2020,2025.0,12.0
+17606773,Hyundai,New Santro 1.1,Era Executive,9412,2022,426000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+14813922,Maruti Suzuki,Ciaz,Zeta AT Petrol,15597,2022,871000.0,petrol,1,sedan,automatic,Torque Convertor,Kolkata,2022,2025.0,12.0
+17825053,Maruti Suzuki,Vitara Brezza,ZDI PLUS AT Dual Tone,44604,2018,687788.0,diesel,1,suv,automatic,AMT,Kolkata,2018,2025.0,7.0
+17879116,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,68157,2018,429000.0,petrol,1,hatchback,manual,regular,Kolkata,2018,2025.0,6.0
+17713382,Maruti Suzuki,Dzire,ZXI,6117,2019,584000.0,petrol,1,sedan,manual,regular,Kolkata,2019,2025.0,7.0
+17716487,Tata,Punch,Adventure Rhythm Pack MT,1844,2024,719000.0,petrol,1,suv,manual,regular,Kolkata,2024,2025.0,6.0
+17361404,Maruti Suzuki,S-Presso,VXI Plus,42750,2019,363000.0,petrol,1,hatchback,manual,regular,Kolkata,2019,2025.0,12.0
+17679167,Renault,Kwid,1.0 RXT SCE,7084,2022,449000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2025.0,12.0
+17697991,Maruti Suzuki,S-Cross,Zeta 1.5,8284,2022,844000.0,petrol,1,suv,manual,regular,Kolkata,2022,2025.0,5.0
+17404633,Maruti Suzuki,Ertiga,VXI,25499,2015,529000.0,petrol,1,muv,manual,regular,Kolkata,2015,2025.0,5.0
+18336796,Maruti Suzuki,Fronx,Sigma 1.2L MT,2515,2024,732000.0,petrol,1,suv,manual,regular,Kolkata,2024,,
+15971099,Honda,City,VX Diesel,52536,2020,954000.0,diesel,1,sedan,manual,regular,Kolkata,2020,2025.0,12.0
+17825053,Maruti Suzuki,Vitara Brezza,ZDI PLUS AT Dual Tone,44604,2018,687788.0,diesel,1,suv,automatic,AMT,Kolkata,2018,2025.0,7.0
+17879116,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,68157,2018,429000.0,petrol,1,hatchback,manual,regular,Kolkata,2018,2025.0,6.0
+17713382,Maruti Suzuki,Dzire,ZXI,6117,2019,584000.0,petrol,1,sedan,manual,regular,Kolkata,2019,2025.0,7.0
+17716487,Tata,Punch,Adventure Rhythm Pack MT,1844,2024,719000.0,petrol,1,suv,manual,regular,Kolkata,2024,2025.0,6.0
+17361404,Maruti Suzuki,S-Presso,VXI Plus,42750,2019,363000.0,petrol,1,hatchback,manual,regular,Kolkata,2019,2025.0,12.0
+17679167,Renault,Kwid,1.0 RXT SCE,7084,2022,449000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2025.0,12.0
+17697991,Maruti Suzuki,S-Cross,Zeta 1.5,8284,2022,844000.0,petrol,1,suv,manual,regular,Kolkata,2022,2025.0,5.0
+17404633,Maruti Suzuki,Ertiga,VXI,25499,2015,529000.0,petrol,1,muv,manual,regular,Kolkata,2015,2025.0,5.0
+18336796,Maruti Suzuki,Fronx,Sigma 1.2L MT,2515,2024,732000.0,petrol,1,suv,manual,regular,Kolkata,2024,,
+15971099,Honda,City,VX Diesel,52536,2020,954000.0,diesel,1,sedan,manual,regular,Kolkata,2020,2025.0,12.0
+17825665,Hyundai,Grand i10 Nios,Asta U2 1.2 CRDI,13957,2020,685000.0,diesel,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17736815,Maruti Suzuki,Alto 800,LXI,11603,2020,312000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17879062,Maruti Suzuki,Wagon R 1.2,ZXI,11382,2022,516000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+18011606,Maruti Suzuki,Alto 800,VXI,9147,2020,333000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,8.0
+17806176,Renault,Triber,RXL,28293,2022,529000.0,petrol,1,muv,manual,regular,Kolkata,2022,2025.0,12.0
+13340455,Tata,Altroz,XZ Plus 1.5 Dark Edition,11784,2022,801000.0,diesel,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+15537810,Maruti Suzuki,S-Presso,VXI (O),4758,2022,443000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,4.0
+15801404,Maruti Suzuki,Dzire,VXI,39544,2021,577000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+16993808,Datsun,Redi-GO,T (O),50652,2016,211000.0,petrol,1,hatchback,manual,regular,Kolkata,2016,2025.0,12.0
+14918499,Tata,Nexon,XZA Plus Dual Tone Roof AMT Diesel,77396,2018,638000.0,diesel,1,suv,automatic,AMT,Kolkata,2019,2025.0,12.0
+17825665,Hyundai,Grand i10 Nios,Asta U2 1.2 CRDI,13957,2020,685000.0,diesel,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17736815,Maruti Suzuki,Alto 800,LXI,11603,2020,312000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17879062,Maruti Suzuki,Wagon R 1.2,ZXI,11382,2022,516000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+18011606,Maruti Suzuki,Alto 800,VXI,9147,2020,333000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,8.0
+17806176,Renault,Triber,RXL,28293,2022,529000.0,petrol,1,muv,manual,regular,Kolkata,2022,2025.0,12.0
+13340455,Tata,Altroz,XZ Plus 1.5 Dark Edition,11784,2022,801000.0,diesel,1,hatchback,manual,regular,Kolkata,2022,2025.0,12.0
+15537810,Maruti Suzuki,S-Presso,VXI (O),4758,2022,443000.0,petrol,1,hatchback,manual,regular,Kolkata,2022,2025.0,4.0
+15801404,Maruti Suzuki,Dzire,VXI,39544,2021,577000.0,petrol,1,sedan,manual,regular,Kolkata,2021,2025.0,12.0
+16993808,Datsun,Redi-GO,T (O),50652,2016,211000.0,petrol,1,hatchback,manual,regular,Kolkata,2016,2025.0,12.0
+14918499,Tata,Nexon,XZA Plus Dual Tone Roof AMT Diesel,77396,2018,638000.0,diesel,1,suv,automatic,AMT,Kolkata,2019,2025.0,12.0
+17990724,Maruti Suzuki,Baleno,Delta Petrol,26545,2021,593000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17121785,Maruti Suzuki,Alto 800,LXI,8527,2020,305000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,6.0
+17769355,Hyundai,Aura,SX 1.2 (O) Petrol,43580,2022,665000.0,petrol,1,sedan,manual,regular,Kolkata,2022,2025.0,12.0
+12927262,Kia,Seltos,HTX Plus D,83852,2021,1145000.0,diesel,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+17769191,Maruti Suzuki,Swift Dzire,ZXI,35831,2017,470000.0,petrol,1,sedan,manual,regular,Kolkata,2017,2025.0,12.0
+17680410,Maruti Suzuki,Alto K10,LXI,8860,2022,406000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2026.0,1.0
+16363802,Tata,Nexon,XZ Plus Petrol,31304,2018,630000.0,petrol,1,suv,manual,regular,Kolkata,2018,2025.0,4.0
+17811898,Maruti Suzuki,Alto 800,LXI,20617,2020,293000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,7.0
+15909758,Maruti Suzuki,Alto 800,VXI,3536,2020,335000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17212187,Volkswagen,Polo,Comfortline 1.0L (P),34690,2021,599199.0,petrol,2,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17990724,Maruti Suzuki,Baleno,Delta Petrol,26545,2021,593000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17121785,Maruti Suzuki,Alto 800,LXI,8527,2020,305000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,6.0
+17769355,Hyundai,Aura,SX 1.2 (O) Petrol,43580,2022,665000.0,petrol,1,sedan,manual,regular,Kolkata,2022,2025.0,12.0
+12927262,Kia,Seltos,HTX Plus D,83852,2021,1145000.0,diesel,1,suv,manual,regular,Kolkata,2021,2025.0,12.0
+17769191,Maruti Suzuki,Swift Dzire,ZXI,35831,2017,470000.0,petrol,1,sedan,manual,regular,Kolkata,2017,2025.0,12.0
+17680410,Maruti Suzuki,Alto K10,LXI,8860,2022,406000.0,petrol,1,hatchback,manual,regular,Kolkata,2023,2026.0,1.0
+16363802,Tata,Nexon,XZ Plus Petrol,31304,2018,630000.0,petrol,1,suv,manual,regular,Kolkata,2018,2025.0,4.0
+17811898,Maruti Suzuki,Alto 800,LXI,20617,2020,293000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,7.0
+15909758,Maruti Suzuki,Alto 800,VXI,3536,2020,335000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17212187,Volkswagen,Polo,Comfortline 1.0L (P),34690,2021,599199.0,petrol,2,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17585005,Kia,Sonet,GTX Plus 1.0 DCT,13546,2022,1173000.0,petrol,1,suv,automatic,DCT,Kolkata,2022,2025.0,12.0
+17425113,Renault,Triber,RXL,5175,2022,559000.0,petrol,1,muv,manual,regular,Kolkata,2022,2025.0,12.0
+15391946,Hyundai,Creta,SX OPT Turbo DCT Petrol,33399,2020,1331955.0,petrol,1,suv,automatic,DCT,Kolkata,2020,2025.0,12.0
+16572707,Hyundai,New Santro 1.1,Asta MT,7970,2021,479000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+15826957,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,12014,2021,671000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17220325,Tata,Altroz,XM Plus 1.2,29904,2021,575000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,10.0
+16137148,Kia,Seltos,GTX Plus DCT,30612,2021,1332093.0,petrol,1,suv,automatic,DCT,Kolkata,2021,2025.0,4.0
+17532444,Maruti Suzuki,Alto 800,LXI,28684,2021,298000.0,petrol,2,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+16104338,Renault,Kwid,CLIMBER 1.0 Opt,13107,2020,406000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+14206507,Hyundai,i10,Magna Petrol,68696,2015,315000.0,petrol,1,hatchback,manual,regular,Kolkata,2015,2025.0,12.0
+17585005,Kia,Sonet,GTX Plus 1.0 DCT,13546,2022,1173000.0,petrol,1,suv,automatic,DCT,Kolkata,2022,2025.0,12.0
+17425113,Renault,Triber,RXL,5175,2022,559000.0,petrol,1,muv,manual,regular,Kolkata,2022,2025.0,12.0
+15391946,Hyundai,Creta,SX OPT Turbo DCT Petrol,33399,2020,1331955.0,petrol,1,suv,automatic,DCT,Kolkata,2020,2025.0,12.0
+16572707,Hyundai,New Santro 1.1,Asta MT,7970,2021,479000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+15826957,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,12014,2021,671000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+17220325,Tata,Altroz,XM Plus 1.2,29904,2021,575000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,10.0
+16137148,Kia,Seltos,GTX Plus DCT,30612,2021,1332093.0,petrol,1,suv,automatic,DCT,Kolkata,2021,2025.0,4.0
+17532444,Maruti Suzuki,Alto 800,LXI,28684,2021,298000.0,petrol,2,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+16104338,Renault,Kwid,CLIMBER 1.0 Opt,13107,2020,406000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0
+14206507,Hyundai,i10,Magna Petrol,68696,2015,315000.0,petrol,1,hatchback,manual,regular,Kolkata,2015,2025.0,12.0
+17422385,Honda,Jazz,ZX CVT,8959,2021,779000.0,petrol,1,hatchback,automatic,CVT,Kolkata,2021,2025.0,12.0
+18115503,Maruti Suzuki,Alto 800,VXI,28723,2021,346000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,9.0
+17640874,Maruti Suzuki,Alto 800,LXI,34909,2015,231000.0,petrol,1,hatchback,manual,regular,Kolkata,2015,2025.0,12.0
+17010954,Honda,Amaze,1.2L S,39000,2017,355000.0,petrol,1,sedan,manual,regular,Kolkata,2017,2025.0,4.0
+15709309,Volkswagen,Polo,Comfortline 1.0L (P),67559,2019,491000.0,petrol,1,hatchback,manual,regular,Kolkata,2019,2025.0,12.0
+17419473,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,30408,2014,343000.0,petrol,1,hatchback,manual,regular,Kolkata,2014,,
+16386264,Maruti Suzuki,Ciaz,Alpha Petrol,71209,2019,642000.0,petrol,1,sedan,manual,regular,Kolkata,2019,2025.0,5.0
+16857136,Maruti Suzuki,S-Presso,VXI,41401,2020,389000.0,petrol,1,hatchback,manual,regular,Kolkata,2020,2025.0,12.0
+17879679,Honda,City,ZX,17481,2022,1127063.0,petrol,1,sedan,manual,regular,Kolkata,2023,2026.0,1.0
+16511733,Maruti Suzuki,S-Presso,VXI (O),10097,2021,439000.0,petrol,1,hatchback,manual,regular,Kolkata,2021,2025.0,12.0

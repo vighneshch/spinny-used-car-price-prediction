@@ -1,0 +1,161 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+16367915,Tata,Nexon,XZA+ HS  AMT Petrol,25203,2022,959000.0,petrol,1,suv,automatic,AMT,Faridabad,2022,2025.0,10.0
+13988123,Mahindra,XUV 300,W8 Petrol,21813,2022,924000.0,petrol,1,suv,manual,regular,Faridabad,2022,2025.0,12.0
+16514387,Maruti Suzuki,Ignis,Zeta MT Petrol,24869,2021,540000.0,petrol,1,hatchback,manual,regular,Faridabad,2021,2025.0,12.0
+16931626,Maruti Suzuki,Baleno,Delta AT Petrol,81861,2018,513000.0,petrol,1,hatchback,automatic,CVT,Faridabad,2018,2025.0,12.0
+14224429,Maruti Suzuki,Baleno,Delta Petrol,45825,2017,488000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,12.0
+14787756,Tata,Nexon,XZ Petrol,11961,2021,788000.0,petrol,1,suv,manual,regular,Faridabad,2021,2025.0,12.0
+14839525,Honda,WR-V,i-VTEC VX Petrol + CNG (Outside Fitted),32690,2023,856000.0,petrol+cng,1,suv,manual,regular,Faridabad,2023,2025.0,12.0
+14428853,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,60244,2014,317000.0,petrol,2,hatchback,manual,regular,Faridabad,2014,2025.0,6.0
+15235225,Honda,Brio,S MT,99251,2016,329000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,12.0
+16442785,Audi,A3,35 TFSI Premium Plus,62071,2019,2070358.0,petrol,2,sedan,automatic,DCT,Gurgaon,2019,2025.0,5.0
+16629022,BMW,5 Series,530i Sport Line,52596,2020,4090358.0,petrol,1,sedan,automatic,,Faridabad,2020,2025.0,12.0
+14717894,Jeep,Compass,Limited 2.0 Diesel,82950,2019,1060358.0,diesel,1,suv,manual,regular,Gurgaon,2019,2025.0,12.0
+14719847,Jeep,Compass,Sport 1.4 Petrol,54846,2018,940000.0,petrol,2,suv,manual,regular,Gurgaon,2018,2025.0,12.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+14495420,Tata,Nexon,XM S Petrol,29808,2022,782000.0,petrol,1,suv,manual,regular,Faridabad,2022,2025.0,12.0
+18035572,Hyundai,Grand i10 Nios,Asta AMT 1.2 Kappa VTVT,16626,2022,729000.0,petrol,1,hatchback,automatic,AMT,Faridabad,2022,2025.0,12.0
+15850119,Maruti Suzuki,Dzire,VXI AMT,76621,2018,550000.0,petrol,1,sedan,automatic,AMT,Faridabad,2018,2025.0,4.0
+14782274,Honda,City,ZX CVT,31489,2019,951000.0,petrol,1,sedan,automatic,CVT,Faridabad,2019,2025.0,12.0
+16091865,Honda,Jazz,X,97878,2012,279000.0,petrol,1,hatchback,manual,regular,Faridabad,2012,2025.0,12.0
+17088499,Renault,Triber,RXL,40013,2021,512000.0,petrol,1,muv,manual,regular,Faridabad,2022,2025.0,12.0
+15268195,Honda,City,V,51560,2014,507000.0,petrol,1,sedan,manual,regular,Faridabad,2014,2025.0,12.0
+15934459,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,102677,2016,334000.0,petrol,2,hatchback,manual,regular,Faridabad,2017,,
+16629022,BMW,5 Series,530i Sport Line,52596,2020,4090358.0,petrol,1,sedan,automatic,,Faridabad,2020,2025.0,12.0
+14717894,Jeep,Compass,Limited 2.0 Diesel,82950,2019,1060358.0,diesel,1,suv,manual,regular,Gurgaon,2019,2025.0,12.0
+14719847,Jeep,Compass,Sport 1.4 Petrol,54846,2018,940000.0,petrol,2,suv,manual,regular,Gurgaon,2018,2025.0,12.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+17594552,Mercedes-Benz,C-Class,C 200 Progressive,32958,2019,3595458.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2020,2025.0,12.0
+13302526,Mercedes-Benz,C-Class,C 200 Progressive,11836,2018,3231858.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2019,2025.0,12.0
+17887829,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,34660,2015,407000.0,petrol,2,hatchback,automatic,AMT,Faridabad,2015,2025.0,12.0
+17446853,Hyundai,Creta,1.6 SX Plus Auto Petrol,74936,2016,729000.0,petrol,3,suv,automatic,Torque Convertor,Faridabad,2016,2025.0,7.0
+15051932,Hyundai,Fluidic Verna 4S,1.6 VTVT SX,70720,2016,506000.0,petrol,3,sedan,manual,regular,Faridabad,2016,2025.0,12.0
+17649234,Honda,Amaze,1.2 S i-VTEC,49002,2014,345000.0,petrol,1,sedan,manual,regular,Faridabad,2014,2025.0,12.0
+17050579,Hyundai,New Santro 1.1,Sportz AMT,70248,2019,439000.0,petrol,1,hatchback,automatic,AMT,Faridabad,2019,2025.0,7.0
+13702637,Hyundai,Venue,SX Plus 1.0 Turbo DCT,59868,2019,849000.0,petrol,1,suv,automatic,DCT,Faridabad,2019,2025.0,12.0
+17556232,Hyundai,New Santro 1.1,Magna CNG,52977,2019,460000.0,petrol+cng,1,hatchback,manual,regular,Faridabad,2019,2025.0,12.0
+17971691,Tata,Tiago,Revotron XZ Plus CNG,29565,2022,659000.0,petrol+cng,1,hatchback,manual,regular,Faridabad,2022,2025.0,12.0
+14717894,Jeep,Compass,Limited 2.0 Diesel,82950,2019,1060358.0,diesel,1,suv,manual,regular,Gurgaon,2019,2025.0,12.0
+14719847,Jeep,Compass,Sport 1.4 Petrol,54846,2018,940000.0,petrol,2,suv,manual,regular,Gurgaon,2018,2025.0,12.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+17594552,Mercedes-Benz,C-Class,C 200 Progressive,32958,2019,3595458.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2020,2025.0,12.0
+13302526,Mercedes-Benz,C-Class,C 200 Progressive,11836,2018,3231858.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2019,2025.0,12.0
+17066613,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,37308,2022,2191558.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2022,2025.0,4.0
+17316267,Hyundai,i10,Sportz 1.1 Petrol,31067,2014,294000.0,petrol,1,hatchback,manual,regular,Faridabad,2014,2025.0,12.0
+17566695,Maruti Suzuki,Swift Dzire,VXI,41749,2016,443000.0,petrol,1,sedan,manual,regular,Faridabad,2016,2025.0,4.0
+16021544,Maruti Suzuki,S-Presso,VXI CNG,37794,2020,436000.0,petrol+cng,1,hatchback,manual,regular,Faridabad,2020,2025.0,12.0
+16631822,Toyota,Etios Liva,G,28516,2011,228000.0,petrol,1,hatchback,manual,regular,Faridabad,2011,2025.0,12.0
+17942214,Maruti Suzuki,Ciaz,ZXI AT,42835,2016,612000.0,petrol,1,sedan,automatic,,Faridabad,2016,2025.0,10.0
+17567436,Honda,City,1.5 V MT,78062,2013,372000.0,petrol,1,sedan,manual,regular,Faridabad,2013,2025.0,12.0
+17071213,Maruti Suzuki,Ritz,LXI,29741,2013,245000.0,petrol,1,hatchback,manual,regular,Faridabad,2013,2025.0,12.0
+15642965,Maruti Suzuki,Swift,LXI (O),116562,2017,353000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,12.0
+17152180,Volkswagen,Polo,Trendline 1.0 (P),31892,2022,605000.0,petrol,1,hatchback,manual,regular,Faridabad,2022,2025.0,12.0
+17768988,Hyundai,i10,Sportz 1.2 Petrol,39228,2013,225000.0,petrol,2,hatchback,manual,regular,Faridabad,2013,2025.0,5.0
+17270446,Hyundai,Grand i10,Sportz (O) 1.2 kappa VTVT CNG (Outside Fitted),88077,2017,411000.0,petrol+cng,1,hatchback,manual,regular,Faridabad,2017,2025.0,12.0
+17408815,Maruti Suzuki,Baleno,Zeta Petrol,63197,2017,520000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,5.0
+15001076,Maruti Suzuki,Swift Dzire,VXI,94784,2013,262000.0,petrol,2,sedan,manual,regular,Faridabad,2013,2025.0,12.0
+15865888,Maruti Suzuki,Baleno,Zeta Petrol+CNG (Outside FItted),42110,2018,575000.0,petrol+cng,1,hatchback,manual,regular,Faridabad,2018,2025.0,5.0
+14041822,Hyundai,Creta,1.6 SX Plus Petrol,56221,2017,655000.0,petrol,3,suv,manual,regular,Faridabad,2017,2025.0,12.0
+14719847,Jeep,Compass,Sport 1.4 Petrol,54846,2018,940000.0,petrol,2,suv,manual,regular,Gurgaon,2018,2025.0,12.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15944812,Volkswagen,Polo,Comfortline 1.2L (P),20112,2016,468000.0,petrol,1,hatchback,manual,regular,Faridabad,2016,2025.0,12.0
+15729171,Hyundai,New Santro 1.1,Sportz AMT,112172,2019,412000.0,petrol,1,hatchback,automatic,AMT,Faridabad,2019,2025.0,12.0
+16011212,Hyundai,Grand i10,Sportz (O) 1.2 kappa VTVT,42077,2017,449000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,12.0
+15458460,Maruti Suzuki,Baleno,Delta Petrol,35192,2018,535000.0,petrol,1,hatchback,manual,regular,Faridabad,2018,2025.0,12.0
+14942834,Hyundai,i10,Sportz 1.1 Petrol + CNG (Outside Fitted),101798,2015,285000.0,petrol+cng,1,hatchback,manual,regular,Faridabad,2015,2025.0,12.0
+18241220,Maruti Suzuki,Alto K10,VXI S-CNG,18998,2023,489000.0,petrol+cng,1,hatchback,manual,regular,Faridabad,2023,2025.0,12.0
+15006445,Maruti Suzuki,Baleno,Delta Petrol,25272,2017,508000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,5.0
+14660066,Maruti Suzuki,Swift,VXI CNG (Outside Fitted),67847,2016,385000.0,petrol+cng,2,hatchback,manual,regular,Faridabad,2016,2025.0,12.0
+16510361,Maruti Suzuki,Baleno,Delta Petrol,37216,2017,480000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,12.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14418064,Honda,Amaze,1.2 S i-VTEC CNG (Outside Fitted),63555,2015,358000.0,petrol+cng,1,sedan,manual,regular,Faridabad,2015,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+13672454,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT CNG (Outside Fitted),81911,2017,403000.0,petrol+cng,1,hatchback,manual,regular,Faridabad,2018,2025.0,12.0
+17119188,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,92711,2016,358000.0,petrol,1,hatchback,manual,regular,Faridabad,2016,2025.0,7.0
+17690931,Renault,Triber,RXZ,45778,2019,543000.0,petrol,1,muv,manual,regular,Faridabad,2019,2025.0,9.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+17594552,Mercedes-Benz,C-Class,C 200 Progressive,32958,2019,3595458.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2020,2025.0,12.0
+13302526,Mercedes-Benz,C-Class,C 200 Progressive,11836,2018,3231858.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2019,2025.0,12.0
+17066613,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,37308,2022,2191558.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2022,2025.0,4.0
+17072406,Mercedes-Benz,CLA,200 Sport,57515,2016,2040058.0,petrol,1,sedan,automatic,DCT,Gurgaon,2017,2025.0,12.0
+15959868,Mercedes-Benz,C-Class,C200 Avantgrade Edition,62583,2017,2726858.0,petrol,1,sedan,automatic,,Gurgaon,2017,2025.0,12.0
+14353221,Jeep,Compass,Limited Plus 1.4 Petrol,38799,2019,1565358.0,petrol,2,suv,automatic,DCT,Delhi,2019,2025.0,12.0
+16546108,Maruti Suzuki,Swift,ZXI AMT,2449,2024,822000.0,petrol,1,hatchback,automatic,AMT,Faridabad,2024,2025.0,5.0
+17288372,Maruti Suzuki,Dzire,VXI,72751,2017,444000.0,petrol,2,sedan,manual,regular,Faridabad,2017,2025.0,9.0
+16474220,BMW,X1,sDrive20i xLine,52707,2020,2696558.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,6.0
+18082241,Maruti Suzuki,Swift,LXI (O),18121,2017,430000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,12.0
+17260829,BMW,3 Series GT,330i GT Luxury Line,56395,2017,2797558.0,petrol,2,sedan,automatic,,Gurgaon,2018,2025.0,3.0
+17632981,BMW,3 Series,Gran Limousine 330Li M Sport First Edition,19640,2022,4342858.0,petrol,1,sedan,automatic,,Gurgaon,2022,2025.0,5.0
+16150197,Jeep,Compass,Model S (O) Diesel 4x4 AT,15220,2021,2196608.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2021,2025.0,12.0
+17530859,BMW,X1,sDrive20d xLine,49238,2019,2045108.0,diesel,1,suv,automatic,,Gurgaon,2019,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+17594552,Mercedes-Benz,C-Class,C 200 Progressive,32958,2019,3595458.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2020,2025.0,12.0
+13302526,Mercedes-Benz,C-Class,C 200 Progressive,11836,2018,3231858.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2019,2025.0,12.0
+17066613,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,37308,2022,2191558.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2022,2025.0,4.0
+17072406,Mercedes-Benz,CLA,200 Sport,57515,2016,2040058.0,petrol,1,sedan,automatic,DCT,Gurgaon,2017,2025.0,12.0
+15959868,Mercedes-Benz,C-Class,C200 Avantgrade Edition,62583,2017,2726858.0,petrol,1,sedan,automatic,,Gurgaon,2017,2025.0,12.0
+14353221,Jeep,Compass,Limited Plus 1.4 Petrol,38799,2019,1565358.0,petrol,2,suv,automatic,DCT,Delhi,2019,2025.0,12.0
+16546108,Maruti Suzuki,Swift,ZXI AMT,2449,2024,822000.0,petrol,1,hatchback,automatic,AMT,Faridabad,2024,2025.0,5.0
+17288372,Maruti Suzuki,Dzire,VXI,72751,2017,444000.0,petrol,2,sedan,manual,regular,Faridabad,2017,2025.0,9.0
+16474220,BMW,X1,sDrive20i xLine,52707,2020,2696558.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,6.0
+18082241,Maruti Suzuki,Swift,LXI (O),18121,2017,430000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,12.0
+17260829,BMW,3 Series GT,330i GT Luxury Line,56395,2017,2797558.0,petrol,2,sedan,automatic,,Gurgaon,2018,2025.0,3.0
+17632981,BMW,3 Series,Gran Limousine 330Li M Sport First Edition,19640,2022,4342858.0,petrol,1,sedan,automatic,,Gurgaon,2022,2025.0,5.0
+16150197,Jeep,Compass,Model S (O) Diesel 4x4 AT,15220,2021,2196608.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2021,2025.0,12.0
+17530859,BMW,X1,sDrive20d xLine,49238,2019,2045108.0,diesel,1,suv,automatic,,Gurgaon,2019,2025.0,12.0
+15476599,Mercedes-Benz,GLA,200 Urban Edition,32826,2019,2676358.0,petrol,1,suv,automatic,DCT,Gurgaon,2019,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+17594552,Mercedes-Benz,C-Class,C 200 Progressive,32958,2019,3595458.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2020,2025.0,12.0
+13302526,Mercedes-Benz,C-Class,C 200 Progressive,11836,2018,3231858.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2019,2025.0,12.0
+17066613,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,37308,2022,2191558.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2022,2025.0,4.0
+17072406,Mercedes-Benz,CLA,200 Sport,57515,2016,2040058.0,petrol,1,sedan,automatic,DCT,Gurgaon,2017,2025.0,12.0
+15959868,Mercedes-Benz,C-Class,C200 Avantgrade Edition,62583,2017,2726858.0,petrol,1,sedan,automatic,,Gurgaon,2017,2025.0,12.0
+14353221,Jeep,Compass,Limited Plus 1.4 Petrol,38799,2019,1565358.0,petrol,2,suv,automatic,DCT,Delhi,2019,2025.0,12.0
+16546108,Maruti Suzuki,Swift,ZXI AMT,2449,2024,822000.0,petrol,1,hatchback,automatic,AMT,Faridabad,2024,2025.0,5.0
+17288372,Maruti Suzuki,Dzire,VXI,72751,2017,444000.0,petrol,2,sedan,manual,regular,Faridabad,2017,2025.0,9.0
+16474220,BMW,X1,sDrive20i xLine,52707,2020,2696558.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,6.0
+18082241,Maruti Suzuki,Swift,LXI (O),18121,2017,430000.0,petrol,1,hatchback,manual,regular,Faridabad,2017,2025.0,12.0
+17260829,BMW,3 Series GT,330i GT Luxury Line,56395,2017,2797558.0,petrol,2,sedan,automatic,,Gurgaon,2018,2025.0,3.0
+17632981,BMW,3 Series,Gran Limousine 330Li M Sport First Edition,19640,2022,4342858.0,petrol,1,sedan,automatic,,Gurgaon,2022,2025.0,5.0
+16150197,Jeep,Compass,Model S (O) Diesel 4x4 AT,15220,2021,2196608.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2021,2025.0,12.0
+17530859,BMW,X1,sDrive20d xLine,49238,2019,2045108.0,diesel,1,suv,automatic,,Gurgaon,2019,2025.0,12.0
+15476599,Mercedes-Benz,GLA,200 Urban Edition,32826,2019,2676358.0,petrol,1,suv,automatic,DCT,Gurgaon,2019,2025.0,12.0
+17162304,Jeep,Compass,Limited (O) 2.0 Diesel,17122,2022,1696658.0,diesel,1,suv,manual,regular,Gurgaon,2022,2025.0,12.0

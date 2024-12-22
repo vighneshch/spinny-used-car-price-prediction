@@ -1,0 +1,301 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+15853562,Skoda,Kushaq,Active 1.0 TSI MT,28138,2022,893000.0,petrol,1,suv,manual,regular,Lucknow,2022,2025,12
+14466918,Honda,Amaze,1.2 VX CVT i-VTEC,31819,2022,808000.0,petrol,1,sedan,automatic,CVT,Lucknow,2022,2025,12
+15644337,Maruti Suzuki,Celerio,ZXI,22452,2022,511000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+16562699,Mahindra,Scorpio,S5,58723,2018,973000.0,diesel,1,suv,manual,regular,Lucknow,2018,2025,12
+17214298,Hyundai,i20 N Line,N8 1.0 Turbo DCT,61658,2021,865000.0,petrol,1,hatchback,automatic,DCT,Lucknow,2021,2025,12
+15729437,Jeep,Compass,Limited 1.4 Petrol AT,73741,2017,1047000.0,petrol,1,suv,automatic,DCT,Lucknow,2017,2025,12
+13968740,MG Motors,Hector,2.0 Sharp Diesel Turbo,3437,2023,1776493.0,diesel,1,suv,manual,regular,Lucknow,2023,2025,12
+17704219,Maruti Suzuki,Ignis,Sigma MT Petrol,46193,2022,432000.0,petrol,1,hatchback,manual,regular,Lucknow,2023,2025,12
+16732026,Tata,Nexon,XZA Plus Premium Kaziranga Petrol,59999,2022,968000.0,petrol,1,suv,automatic,,Lucknow,2022,2025,12
+14014692,Honda,Jazz,V CVT,21910,2022,760000.0,petrol,1,hatchback,automatic,CVT,Lucknow,2022,2025,12
+16468011,Hyundai,Venue,SX Plus 1.0 Turbo DCT,30502,2020,895000.0,petrol,1,suv,automatic,DCT,Lucknow,2020,2025,12
+16818171,Hyundai,New i20,Asta (O) 1.0 Turbo DCT,5726,2021,949000.0,petrol,1,hatchback,automatic,DCT,Lucknow,2021,2025,12
+14922215,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,22282,2022,627000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,9
+14886584,Hyundai,Venue,SX 1.0 (O) Turbo,36861,2021,919000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,4
+16686715,Hyundai,Elite i20,Asta 1.2,36295,2018,565000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+15372610,Hyundai,Fluidic Verna 4S,1.6 CRDi SX (O),77185,2016,604000.0,diesel,2,sedan,manual,regular,Lucknow,2016,2025,12
+17241450,Honda,BR-V,VX MT Diesel,105895,2018,728000.0,diesel,1,suv,manual,regular,Lucknow,2018,2025,12
+16538771,Toyota,Urban Cruiser,Premium Grade MT,48147,2021,695000.0,petrol,2,suv,manual,regular,Lucknow,2021,2025,12
+17347635,Maruti Suzuki,Vitara Brezza,ZDi AMT,67697,2018,689000.0,diesel,1,suv,automatic,AMT,Lucknow,2018,2025,7
+15042283,Hyundai,Verna,S+ Diesel,71941,2022,858000.0,diesel,1,sedan,manual,regular,Lucknow,2022,2025,12
+16468011,Hyundai,Venue,SX Plus 1.0 Turbo DCT,30502,2020,895000.0,petrol,1,suv,automatic,DCT,Lucknow,2020,2025,12
+16818171,Hyundai,New i20,Asta (O) 1.0 Turbo DCT,5726,2021,949000.0,petrol,1,hatchback,automatic,DCT,Lucknow,2021,2025,12
+14922215,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,22282,2022,627000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,9
+14886584,Hyundai,Venue,SX 1.0 (O) Turbo,36861,2021,919000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,4
+16686715,Hyundai,Elite i20,Asta 1.2,36295,2018,565000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+16457688,Maruti Suzuki,Baleno,Zeta Petrol,22430,2020,637000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+16884060,Maruti Suzuki,Ignis,Zeta MT Petrol,14432,2021,540000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+15921554,Toyota,Glanza,G,63328,2021,607000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,7
+16990281,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT CNG,38579,2022,692000.0,petrol+cng,1,hatchback,manual,regular,Lucknow,2022,2025,4
+14129748,Honda,City,V 4th Gen,35932,2017,640000.0,petrol,1,sedan,manual,regular,Lucknow,2017,2025,12
+16735363,Maruti Suzuki,Ignis,Alpha AMT Petrol,5685,2021,668000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2021,2025,8
+16527572,Hyundai,Elite i20,Sportz Plus 1.2,38113,2020,618000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+16245419,Hyundai,Grand i10 Nios,Magna Corp Edition Petrol,27485,2022,520000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+17514478,Honda,Amaze,1.2 VX CVT i-VTEC,11061,2023,879000.0,petrol,1,sedan,automatic,CVT,Lucknow,2023,2026,3
+16981443,Skoda,Kushaq,Style 1.0L TSI AT,26436,2021,1278534.0,petrol,1,suv,automatic,Torque Convertor,Lucknow,2021,2025,12
+18207786,Hyundai,Venue,SX 1.2 Petrol,121667,2022,829000.0,petrol,1,suv,manual,regular,Lucknow,2022,2025,12
+15337131,Ford,EcoSport,Titanium 1.5L Ti-VCT,91712,2020,648000.0,petrol,1,suv,manual,regular,Lucknow,2020,2025,12
+17262022,Renault,Kwid,RXL(O) 1.0 Petrol MT SCE,37438,2021,389000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17394689,Maruti Suzuki,Ciaz,Zeta Petrol+CNG (Outside FItted),90288,2021,697000.0,petrol+cng,1,sedan,manual,regular,Lucknow,2021,2025,8
+15672030,Honda,Amaze,1.5 VX i-DTEC,107337,2020,689000.0,diesel,1,sedan,manual,regular,Lucknow,2020,2025,12
+16735363,Maruti Suzuki,Ignis,Alpha AMT Petrol,5685,2021,668000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2021,2025,8
+16527572,Hyundai,Elite i20,Sportz Plus 1.2,38113,2020,618000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+16245419,Hyundai,Grand i10 Nios,Magna Corp Edition Petrol,27485,2022,520000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+17514478,Honda,Amaze,1.2 VX CVT i-VTEC,11061,2023,879000.0,petrol,1,sedan,automatic,CVT,Lucknow,2023,2026,3
+16981443,Skoda,Kushaq,Style 1.0L TSI AT,26436,2021,1278534.0,petrol,1,suv,automatic,Torque Convertor,Lucknow,2021,2025,12
+16949832,Nissan,Sunny,XL Diesel Special Edition,35307,2018,529000.0,diesel,1,sedan,manual,regular,Lucknow,2020,2025,12
+16223240,Hyundai,New Santro 1.1,Sportz MT,57505,2022,458000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+14032477,Tata,Nexon,XZ Plus Premium,6658,2022,956000.0,petrol,1,suv,manual,regular,Lucknow,2022,2025,12
+15507628,Honda,City,V 5th Gen,28239,2021,927000.0,petrol,1,sedan,manual,regular,Lucknow,2021,2025,12
+12901979,Kia,Sonet,GTX Plus 1.5 AT,72640,2020,980000.0,diesel,1,suv,automatic,Torque Convertor,Lucknow,2020,2025,12
+16062091,Skoda,Slavia,Ambition 1.0L TSI MT,76083,2022,935000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,12
+17012492,Tata,Nexon,XZA Plus AMT Petrol,19042,2021,779000.0,petrol,2,suv,automatic,AMT,Lucknow,2021,2025,5
+16933408,Tata,Tigor,Revotron XZ+,10058,2023,694000.0,petrol,1,sedan,manual,regular,Lucknow,2023,2026,9
+17180325,Mahindra,Thar,LX 4 STR Hard Top Diesel AT 4WD,45289,2021,1342095.0,diesel,1,suv,automatic,Torque Convertor,Lucknow,2021,2025,12
+14399279,Renault,Kiger,RXZ 1.0 Turbo MT,43108,2021,722000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+14160606,Toyota,Glanza,V,40411,2020,651000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+15695751,Hyundai,Verna,SX Petrol,124074,2020,792000.0,petrol,1,sedan,manual,regular,Lucknow,2020,2025,12
+17017814,Renault,Kwid,RXL,36304,2020,315000.0,petrol,2,hatchback,manual,regular,Lucknow,2020,2025,4
+14002019,Maruti Suzuki,Celerio,ZXI AMT,114477,2016,339000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2016,2025,12
+17038669,Maruti Suzuki,Wagon R 1.0,LXI,36625,2013,249000.0,petrol,1,hatchback,manual,regular,Lucknow,2013,2025,12
+16062091,Skoda,Slavia,Ambition 1.0L TSI MT,76083,2022,935000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,12
+17012492,Tata,Nexon,XZA Plus AMT Petrol,19042,2021,779000.0,petrol,2,suv,automatic,AMT,Lucknow,2021,2025,5
+16933408,Tata,Tigor,Revotron XZ+,10058,2023,694000.0,petrol,1,sedan,manual,regular,Lucknow,2023,2026,9
+17180325,Mahindra,Thar,LX 4 STR Hard Top Diesel AT 4WD,45289,2021,1342095.0,diesel,1,suv,automatic,Torque Convertor,Lucknow,2021,2025,12
+14399279,Renault,Kiger,RXZ 1.0 Turbo MT,43108,2021,722000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+14160606,Toyota,Glanza,V,40411,2020,651000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+15534227,Honda,City,V 5th Gen,30323,2021,907000.0,petrol,1,sedan,manual,regular,Lucknow,2021,2025,12
+13624631,Honda,WR-V,VX i-VTEC,25375,2020,698000.0,petrol,1,suv,manual,regular,Lucknow,2020,2025,12
+15467057,Mahindra,Thar,LX 4 STR Hard Top Diesel AT 4WD,15060,2021,1391000.0,diesel,1,suv,automatic,Torque Convertor,Lucknow,2021,2025,12
+16352635,Hyundai,New Santro 1.1,Sportz MT,20430,2021,479000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,10
+17160744,Maruti Suzuki,Grand Vitara,Delta Smart Hybrid AT,12487,2023,1241193.0,petrol,1,suv,automatic,,Lucknow,2023,2025,8
+16145697,Mahindra,Thar,LX 4 STR Hard Top Petrol AT 4WD,17367,2021,1291000.0,petrol,1,suv,automatic,Torque Convertor,Lucknow,2021,2025,12
+17015740,Hyundai,Elite i20,Asta 1.2,43404,2018,579000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+17418469,Maruti Suzuki,Ignis,Delta AMT Petrol,47340,2018,449000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2019,2025,12
+16632570,Honda,City,V Diesel,43002,2021,1042223.0,diesel,1,sedan,manual,regular,Lucknow,2022,2025,4
+17661440,Maruti Suzuki,S-Cross,Zeta 1.5,22054,2021,792000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+15653897,Toyota,Innova,2.5 GX 8 STR,105083,2013,622000.0,diesel,1,muv,manual,regular,Lucknow,2013,2025,12
+17311180,Maruti Suzuki,Wagon R 1.0,VXI,65557,2014,276000.0,petrol,1,hatchback,manual,regular,Lucknow,2014,2025,4
+17445405,Hyundai,i10,Magna 1.2 Petrol,49499,2011,214000.0,petrol,1,hatchback,manual,regular,Lucknow,2011,2025,12
+16792317,Maruti Suzuki,Wagon R 1.0,VXI,52353,2014,277000.0,petrol,1,hatchback,manual,regular,Lucknow,2014,2025,7
+17160744,Maruti Suzuki,Grand Vitara,Delta Smart Hybrid AT,12487,2023,1241193.0,petrol,1,suv,automatic,,Lucknow,2023,2025,8
+16145697,Mahindra,Thar,LX 4 STR Hard Top Petrol AT 4WD,17367,2021,1291000.0,petrol,1,suv,automatic,Torque Convertor,Lucknow,2021,2025,12
+17015740,Hyundai,Elite i20,Asta 1.2,43404,2018,579000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+17418469,Maruti Suzuki,Ignis,Delta AMT Petrol,47340,2018,449000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2019,2025,12
+16632570,Honda,City,V Diesel,43002,2021,1042223.0,diesel,1,sedan,manual,regular,Lucknow,2022,2025,4
+17661440,Maruti Suzuki,S-Cross,Zeta 1.5,22054,2021,792000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+15813786,Maruti Suzuki,S-Cross,Zeta 1.5,50623,2021,760000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+16202058,Tata,Tigor,XZ Petrol,22131,2022,592000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,12
+16215092,Honda,Amaze,1.2 VX i-VTEC,26734,2022,735000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,5
+17241685,Tata,Tiago,XZ Plus Dual Tone Roof,33707,2021,549000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,5
+15670942,Hyundai,Elite i20,Sportz Plus 1.2,66069,2019,552000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,5
+15466566,Hyundai,Elite i20,Sportz 1.2,49409,2017,475000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+16829674,Maruti Suzuki,Baleno,Delta Petrol,18338,2016,485000.0,petrol,1,hatchback,manual,regular,Lucknow,2016,2025,7
+13282636,Ford,Figo Aspire,Titanium 1.2 Ti-VCT,21023,2020,584000.0,petrol,1,sedan,manual,regular,Lucknow,2020,2025,12
+17274369,Ford,EcoSport,Titanium + MT Sports Diesel,69517,2019,729000.0,diesel,1,suv,manual,regular,Lucknow,2019,2025,9
+15594787,Maruti Suzuki,Baleno,Zeta Petrol,19426,2021,662000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17999779,Maruti Suzuki,Brezza,ZXI PLUS,28639,2022,1088683.0,petrol,1,suv,manual,regular,Lucknow,2022,2025,8
+17573579,Hyundai,i20,Magna 1.2,61617,2010,208000.0,petrol,1,hatchback,manual,regular,Lucknow,2010,2025,12
+16378810,Hyundai,Aura,S 1.2 Petrol,104682,2020,498000.0,petrol,1,sedan,manual,regular,Lucknow,2020,2025,12
+17539511,Maruti Suzuki,Dzire,VXI,43918,2018,487000.0,petrol,2,sedan,manual,regular,Lucknow,2018,2025,12
+15670942,Hyundai,Elite i20,Sportz Plus 1.2,66069,2019,552000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,5
+15466566,Hyundai,Elite i20,Sportz 1.2,49409,2017,475000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+16829674,Maruti Suzuki,Baleno,Delta Petrol,18338,2016,485000.0,petrol,1,hatchback,manual,regular,Lucknow,2016,2025,7
+13282636,Ford,Figo Aspire,Titanium 1.2 Ti-VCT,21023,2020,584000.0,petrol,1,sedan,manual,regular,Lucknow,2020,2025,12
+17274369,Ford,EcoSport,Titanium + MT Sports Diesel,69517,2019,729000.0,diesel,1,suv,manual,regular,Lucknow,2019,2025,9
+15594787,Maruti Suzuki,Baleno,Zeta Petrol,19426,2021,662000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17999779,Maruti Suzuki,Brezza,ZXI PLUS,28639,2022,1088683.0,petrol,1,suv,manual,regular,Lucknow,2022,2025,8
+15780210,Mahindra,KUV100 NXT,K4+ 6 STR,45421,2018,375000.0,petrol,1,crossover,manual,regular,Lucknow,2018,2025,12
+17627649,Volkswagen,Vento,1.5L Highline Plus Diesel AT,77412,2018,692000.0,diesel,1,sedan,automatic,,Lucknow,2018,2025,12
+15141680,Maruti Suzuki,Ciaz,Alpha Petrol,49204,2018,700000.0,petrol,1,sedan,manual,regular,Lucknow,2019,2025,12
+15188322,Tata,Tiago NRG,XZ,21828,2022,548000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+17732354,Toyota,Glanza,G Hybrid,24764,2021,695000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17035026,Kia,Seltos,HTX IVT G,57472,2020,1088683.0,petrol,1,suv,automatic,CVT,Lucknow,2020,2025,8
+15866757,Toyota,Urban Cruiser,Mid Grade AT,60864,2022,788000.0,petrol,1,suv,automatic,,Lucknow,2022,2025,8
+16836969,Toyota,Glanza,G,9135,2023,798000.0,petrol,1,hatchback,manual,regular,Lucknow,2023,2025,7
+17178651,Maruti Suzuki,Swift Dzire,ZDI,40108,2015,478000.0,diesel,1,sedan,manual,regular,Lucknow,2015,2025,12
+16413858,Hyundai,i20 N Line,N8 1.0 Turbo iMT,32933,2022,868000.0,petrol,1,hatchback,manual,iMT,Lucknow,2022,2025,12
+15610085,Maruti Suzuki,Ciaz,Alpha Petrol,59608,2017,611000.0,petrol,1,sedan,manual,regular,Lucknow,2017,2025,12
+14907925,Tata,Safari,XZ Plus,63133,2021,1548000.0,diesel,1,suv,manual,regular,Lucknow,2021,2025,12
+16831032,Hyundai,i10,Sportz 1.2 Petrol,91097,2011,188000.0,petrol,1,hatchback,manual,regular,Lucknow,2011,2025,5
+15188322,Tata,Tiago NRG,XZ,21828,2022,548000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+17732354,Toyota,Glanza,G Hybrid,24764,2021,695000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17035026,Kia,Seltos,HTX IVT G,57472,2020,1088683.0,petrol,1,suv,automatic,CVT,Lucknow,2020,2025,8
+15866757,Toyota,Urban Cruiser,Mid Grade AT,60864,2022,788000.0,petrol,1,suv,automatic,,Lucknow,2022,2025,8
+16836969,Toyota,Glanza,G,9135,2023,798000.0,petrol,1,hatchback,manual,regular,Lucknow,2023,2025,7
+17178651,Maruti Suzuki,Swift Dzire,ZDI,40108,2015,478000.0,diesel,1,sedan,manual,regular,Lucknow,2015,2025,12
+16413858,Hyundai,i20 N Line,N8 1.0 Turbo iMT,32933,2022,868000.0,petrol,1,hatchback,manual,iMT,Lucknow,2022,2025,12
+15610085,Maruti Suzuki,Ciaz,Alpha Petrol,59608,2017,611000.0,petrol,1,sedan,manual,regular,Lucknow,2017,2025,12
+15257370,Honda,City,ZX CVT,60926,2017,786000.0,petrol,1,sedan,automatic,CVT,Lucknow,2017,2025,12
+15724078,Hyundai,Elite i20,Asta 1.2,33858,2018,572000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+15914619,Maruti Suzuki,Baleno,Zeta Petrol,50880,2017,518000.0,petrol,1,hatchback,manual,regular,Lucknow,2017,2025,12
+16224701,Maruti Suzuki,Ciaz,Alpha Petrol,21756,2019,765000.0,petrol,1,sedan,manual,regular,Lucknow,2019,2025,12
+13667348,Renault,Duster,RXS Petrol,26725,2021,750000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+17159589,Maruti Suzuki,Baleno,Zeta Petrol,31009,2018,559000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,12
+15526741,Maruti Suzuki,Baleno,Zeta Petrol,45701,2021,627000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+16185542,Maruti Suzuki,Baleno,Zeta Petrol,46564,2017,519000.0,petrol,1,hatchback,manual,regular,Lucknow,2017,2025,12
+15072830,Renault,Kwid,CLIMBER 1.0 Opt,19106,2021,419000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+16957768,Maruti Suzuki,Baleno,Zeta Petrol,47804,2017,482000.0,petrol,1,hatchback,manual,regular,Lucknow,2017,2025,9
+17702118,Maruti Suzuki,Brezza,ZXI AT,40578,2022,1045253.0,petrol,1,suv,automatic,Torque Convertor,Lucknow,2022,2025,10
+11826322,MG Motors,Astor,Smart 1.5 MT,2778,2023,1213000.0,petrol,1,suv,manual,CVT,Lucknow,2023,2026,10
+15914619,Maruti Suzuki,Baleno,Zeta Petrol,50880,2017,518000.0,petrol,1,hatchback,manual,regular,Lucknow,2017,2025,12
+16224701,Maruti Suzuki,Ciaz,Alpha Petrol,21756,2019,765000.0,petrol,1,sedan,manual,regular,Lucknow,2019,2025,12
+13667348,Renault,Duster,RXS Petrol,26725,2021,750000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+17159589,Maruti Suzuki,Baleno,Zeta Petrol,31009,2018,559000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,12
+15526741,Maruti Suzuki,Baleno,Zeta Petrol,45701,2021,627000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+16185542,Maruti Suzuki,Baleno,Zeta Petrol,46564,2017,519000.0,petrol,1,hatchback,manual,regular,Lucknow,2017,2025,12
+15072830,Renault,Kwid,CLIMBER 1.0 Opt,19106,2021,419000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+16957768,Maruti Suzuki,Baleno,Zeta Petrol,47804,2017,482000.0,petrol,1,hatchback,manual,regular,Lucknow,2017,2025,9
+17702118,Maruti Suzuki,Brezza,ZXI AT,40578,2022,1045253.0,petrol,1,suv,automatic,Torque Convertor,Lucknow,2022,2025,10
+11826322,MG Motors,Astor,Smart 1.5 MT,2778,2023,1213000.0,petrol,1,suv,manual,CVT,Lucknow,2023,2026,10
+14743993,Hyundai,Venue N-Line,N8 DCT,15686,2023,1224000.0,petrol,1,suv,automatic,DCT,Lucknow,2023,2025,12
+15917922,Renault,Kwid,1.0 RXT Opt,7661,2021,419000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17200406,Mahindra,Thar,LX 4 STR Hard Top Petrol AT 4WD,7560,2022,1451273.0,petrol,1,suv,automatic,Torque Convertor,Lucknow,2022,2025,12
+16835935,Honda,Amaze,1.2 VX CVT i-VTEC,18238,2023,850000.0,petrol,1,sedan,automatic,CVT,Lucknow,2023,2026,1
+17680696,Maruti Suzuki,Baleno,Delta Petrol,70373,2021,542000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,9
+17370948,Maruti Suzuki,S-Presso,VXI Plus,10005,2022,469000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+17160753,Maruti Suzuki,Eeco,AC 5 STR,30608,2021,442000.0,petrol,1,muv,manual,regular,Lucknow,2021,2025,12
+15014713,Hyundai,Elite i20,Sportz 1.2,33450,2018,527000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,12
+17769457,Maruti Suzuki,Wagon R 1.0,VXI,76217,2021,432000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,7
+14754168,Maruti Suzuki,Dzire,ZXI Plus,6829,2022,777000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,12
+14743993,Hyundai,Venue N-Line,N8 DCT,15686,2023,1224000.0,petrol,1,suv,automatic,DCT,Lucknow,2023,2025,12
+15917922,Renault,Kwid,1.0 RXT Opt,7661,2021,419000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17200406,Mahindra,Thar,LX 4 STR Hard Top Petrol AT 4WD,7560,2022,1451273.0,petrol,1,suv,automatic,Torque Convertor,Lucknow,2022,2025,12
+16835935,Honda,Amaze,1.2 VX CVT i-VTEC,18238,2023,850000.0,petrol,1,sedan,automatic,CVT,Lucknow,2023,2026,1
+17680696,Maruti Suzuki,Baleno,Delta Petrol,70373,2021,542000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,9
+17370948,Maruti Suzuki,S-Presso,VXI Plus,10005,2022,469000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+17160753,Maruti Suzuki,Eeco,AC 5 STR,30608,2021,442000.0,petrol,1,muv,manual,regular,Lucknow,2021,2025,12
+15014713,Hyundai,Elite i20,Sportz 1.2,33450,2018,527000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,12
+17769457,Maruti Suzuki,Wagon R 1.0,VXI,76217,2021,432000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,7
+14754168,Maruti Suzuki,Dzire,ZXI Plus,6829,2022,777000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,12
+15405908,MG Motors,Hector Plus,Sharp 2.0 Diesel Turbo MT 6-STR,28786,2020,1492585.0,diesel,1,suv,manual,regular,Lucknow,2020,2025,12
+14933336,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,58235,2022,565000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+16289049,Tata,Nexon,XM Diesel S,41847,2021,832000.0,diesel,1,suv,manual,regular,Lucknow,2021,2025,7
+15129619,Honda,City,V Diesel,52609,2022,1038000.0,diesel,1,sedan,manual,regular,Lucknow,2022,2025,4
+17733350,Maruti Suzuki,Ignis,Sigma MT Petrol,18514,2022,471000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+16000447,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,33794,2020,483000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,7
+17269140,Maruti Suzuki,Ignis,Delta MT Petrol,14438,2023,569000.0,petrol,1,hatchback,manual,regular,Lucknow,2023,2025,12
+13154304,Honda,Amaze,1.2 VX i-VTEC,26284,2022,711000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,12
+17036978,Renault,Kwid,1.0 RXT Opt,3968,2021,426000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17278326,Maruti Suzuki,Vitara Brezza,ZDI PLUS Dual Tone,70967,2017,689000.0,diesel,1,suv,manual,regular,Lucknow,2017,2025,12
+15405908,MG Motors,Hector Plus,Sharp 2.0 Diesel Turbo MT 6-STR,28786,2020,1492585.0,diesel,1,suv,manual,regular,Lucknow,2020,2025,12
+14933336,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,58235,2022,565000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+16289049,Tata,Nexon,XM Diesel S,41847,2021,832000.0,diesel,1,suv,manual,regular,Lucknow,2021,2025,7
+15129619,Honda,City,V Diesel,52609,2022,1038000.0,diesel,1,sedan,manual,regular,Lucknow,2022,2025,4
+17733350,Maruti Suzuki,Ignis,Sigma MT Petrol,18514,2022,471000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+16000447,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,33794,2020,483000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,7
+17269140,Maruti Suzuki,Ignis,Delta MT Petrol,14438,2023,569000.0,petrol,1,hatchback,manual,regular,Lucknow,2023,2025,12
+13154304,Honda,Amaze,1.2 VX i-VTEC,26284,2022,711000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,12
+17036978,Renault,Kwid,1.0 RXT Opt,3968,2021,426000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17278326,Maruti Suzuki,Vitara Brezza,ZDI PLUS Dual Tone,70967,2017,689000.0,diesel,1,suv,manual,regular,Lucknow,2017,2025,12
+17641515,Maruti Suzuki,Wagon R 1.2,VXI,28677,2021,506000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+15496282,Maruti Suzuki,Baleno,Delta Petrol,30837,2018,516000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+17680217,Maruti Suzuki,Wagon R 1.0,VXI,25588,2022,512000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,9
+17386157,Maruti Suzuki,Ignis,Delta MT Petrol,33878,2022,522000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,10
+17056298,Renault,Kwid,CLIMBER 1.0 Opt,36865,2020,385000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+15739505,Maruti Suzuki,Celerio,ZXI,78974,2014,287000.0,petrol,1,hatchback,manual,regular,Lucknow,2014,2025,12
+17690646,Renault,Kwid,1.0 RXT Opt,28676,2021,399000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17082123,Kia,Seltos,HTX G,44933,2020,1139138.0,petrol,1,suv,manual,regular,Lucknow,2020,2025,12
+16919413,Honda,Amaze,1.2 S i-VTEC,23482,2022,644000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,4
+17320933,Honda,Amaze,1.2 V i-VTEC,41641,2018,518000.0,petrol,1,sedan,manual,regular,Lucknow,2018,2025,10
+17641515,Maruti Suzuki,Wagon R 1.2,VXI,28677,2021,506000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+15496282,Maruti Suzuki,Baleno,Delta Petrol,30837,2018,516000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+17680217,Maruti Suzuki,Wagon R 1.0,VXI,25588,2022,512000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,9
+17386157,Maruti Suzuki,Ignis,Delta MT Petrol,33878,2022,522000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,10
+17056298,Renault,Kwid,CLIMBER 1.0 Opt,36865,2020,385000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+15739505,Maruti Suzuki,Celerio,ZXI,78974,2014,287000.0,petrol,1,hatchback,manual,regular,Lucknow,2014,2025,12
+17690646,Renault,Kwid,1.0 RXT Opt,28676,2021,399000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17082123,Kia,Seltos,HTX G,44933,2020,1139138.0,petrol,1,suv,manual,regular,Lucknow,2020,2025,12
+16919413,Honda,Amaze,1.2 S i-VTEC,23482,2022,644000.0,petrol,1,sedan,manual,regular,Lucknow,2022,2025,4
+17320933,Honda,Amaze,1.2 V i-VTEC,41641,2018,518000.0,petrol,1,sedan,manual,regular,Lucknow,2018,2025,10
+17115253,Maruti Suzuki,Swift,ZXI,25663,2020,590000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+17508904,Tata,Nexon,XZ Plus Petrol,3608,2023,936000.0,petrol,1,suv,manual,regular,Lucknow,2023,2026,3
+16559826,Tata,Nexon,XZ Plus Diesel,40657,2021,926000.0,diesel,1,suv,manual,regular,Lucknow,2022,2025,12
+16188082,Maruti Suzuki,Wagon R 1.2,ZXI,32413,2020,484000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+12816211,Hyundai,Xcent,S AT Petrol,27088,2018,513000.0,petrol,1,sedan,automatic,,Lucknow,2018,2025,12
+17318690,Renault,Triber,RXT,16236,2022,646000.0,petrol,1,muv,manual,regular,Lucknow,2022,2025,12
+15649881,Maruti Suzuki,Baleno,Delta Petrol,35927,2019,513000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,12
+17786738,Renault,Kwid,1.0 RXT Opt,18645,2021,410000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17094644,Maruti Suzuki,S-Presso,VXI Plus,23784,2022,452000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+16913818,Tata,Safari,XZ Plus,85708,2021,1482583.0,diesel,1,suv,manual,regular,Lucknow,2021,2025,9
+17115253,Maruti Suzuki,Swift,ZXI,25663,2020,590000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+17508904,Tata,Nexon,XZ Plus Petrol,3608,2023,936000.0,petrol,1,suv,manual,regular,Lucknow,2023,2026,3
+16559826,Tata,Nexon,XZ Plus Diesel,40657,2021,926000.0,diesel,1,suv,manual,regular,Lucknow,2022,2025,12
+16188082,Maruti Suzuki,Wagon R 1.2,ZXI,32413,2020,484000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+12816211,Hyundai,Xcent,S AT Petrol,27088,2018,513000.0,petrol,1,sedan,automatic,,Lucknow,2018,2025,12
+17318690,Renault,Triber,RXT,16236,2022,646000.0,petrol,1,muv,manual,regular,Lucknow,2022,2025,12
+15649881,Maruti Suzuki,Baleno,Delta Petrol,35927,2019,513000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,12
+17786738,Renault,Kwid,1.0 RXT Opt,18645,2021,410000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+17094644,Maruti Suzuki,S-Presso,VXI Plus,23784,2022,452000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+16913818,Tata,Safari,XZ Plus,85708,2021,1482583.0,diesel,1,suv,manual,regular,Lucknow,2021,2025,9
+13938325,Ford,Figo Aspire,Titanium Plus 1.2 Ti-VCT,32914,2020,597000.0,petrol,1,sedan,manual,regular,Lucknow,2020,2025,12
+12968657,Kia,Seltos,HTX G,23439,2021,1190000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+16990303,Honda,City,V 4th Gen,39832,2018,669000.0,petrol,1,sedan,manual,regular,Lucknow,2018,2025,12
+16763554,Tata,Tigor,XM,30105,2023,569000.0,petrol,1,sedan,manual,regular,Lucknow,2023,2026,4
+17163559,Hyundai,Elite i20,Asta 1.2,78411,2018,539000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,9
+17191603,Datsun,Redi-GO,T(O) 1.0,29519,2018,260000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+17623763,Datsun,Redi-GO,T(O) 1.0,19303,2017,251000.0,petrol,1,hatchback,manual,regular,Lucknow,2017,2025,10
+16908410,Maruti Suzuki,Ciaz,Delta Petrol,55285,2020,675000.0,petrol,1,sedan,manual,regular,Lucknow,2020,2025,8
+11987582,Nissan,Kicks,XV Petrol,69805,2021,661000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+17233573,Renault,Kwid,1.0 RXT Opt,13543,2020,368000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+13938325,Ford,Figo Aspire,Titanium Plus 1.2 Ti-VCT,32914,2020,597000.0,petrol,1,sedan,manual,regular,Lucknow,2020,2025,12
+12968657,Kia,Seltos,HTX G,23439,2021,1190000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+16990303,Honda,City,V 4th Gen,39832,2018,669000.0,petrol,1,sedan,manual,regular,Lucknow,2018,2025,12
+16763554,Tata,Tigor,XM,30105,2023,569000.0,petrol,1,sedan,manual,regular,Lucknow,2023,2026,4
+17163559,Hyundai,Elite i20,Asta 1.2,78411,2018,539000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,9
+17191603,Datsun,Redi-GO,T(O) 1.0,29519,2018,260000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,12
+17623763,Datsun,Redi-GO,T(O) 1.0,19303,2017,251000.0,petrol,1,hatchback,manual,regular,Lucknow,2017,2025,10
+16908410,Maruti Suzuki,Ciaz,Delta Petrol,55285,2020,675000.0,petrol,1,sedan,manual,regular,Lucknow,2020,2025,8
+11987582,Nissan,Kicks,XV Petrol,69805,2021,661000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+17233573,Renault,Kwid,1.0 RXT Opt,13543,2020,368000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+16948429,Datsun,Redi-GO,T(O) 1.0,9454,2021,347000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+18057549,Tata,Tiago,XZA+ AMT,6131,2023,689000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2023,2025,12
+17307742,Renault,Kwid,RXT 1.0 SCE Special,32784,2018,316000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,6
+17465222,Hyundai,i10,Sportz 1.1 Petrol,25247,2015,314000.0,petrol,1,hatchback,manual,regular,Lucknow,2015,2025,12
+16429625,Ford,EcoSport,Titanium 1.5L TDCi,36916,2020,765000.0,diesel,1,suv,manual,regular,Lucknow,2020,2025,12
+15877089,Maruti Suzuki,Fronx,Alpha 1.0L Turbo 6 AT,12881,2023,1155000.0,petrol,1,suv,automatic,,Lucknow,2023,2025,8
+13568471,MG Motors,Hector Plus,Sharp 2.0 Diesel Turbo MT 6-STR Dual Tone,48151,2021,1508000.0,diesel,1,suv,manual,regular,Lucknow,2021,2025,12
+17773832,Maruti Suzuki,Wagon R 1.2,ZXI,48621,2019,454000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,12
+16155820,Maruti Suzuki,Swift,ZXI,50399,2021,582000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+13610174,Renault,Kwid,CLIMBER 1.0 AMT Opt,17719,2020,425000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2020,2025,12
+16948429,Datsun,Redi-GO,T(O) 1.0,9454,2021,347000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+18057549,Tata,Tiago,XZA+ AMT,6131,2023,689000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2023,2025,12
+17307742,Renault,Kwid,RXT 1.0 SCE Special,32784,2018,316000.0,petrol,1,hatchback,manual,regular,Lucknow,2018,2025,6
+17465222,Hyundai,i10,Sportz 1.1 Petrol,25247,2015,314000.0,petrol,1,hatchback,manual,regular,Lucknow,2015,2025,12
+16429625,Ford,EcoSport,Titanium 1.5L TDCi,36916,2020,765000.0,diesel,1,suv,manual,regular,Lucknow,2020,2025,12
+15877089,Maruti Suzuki,Fronx,Alpha 1.0L Turbo 6 AT,12881,2023,1155000.0,petrol,1,suv,automatic,,Lucknow,2023,2025,8
+13568471,MG Motors,Hector Plus,Sharp 2.0 Diesel Turbo MT 6-STR Dual Tone,48151,2021,1508000.0,diesel,1,suv,manual,regular,Lucknow,2021,2025,12
+17773832,Maruti Suzuki,Wagon R 1.2,ZXI,48621,2019,454000.0,petrol,1,hatchback,manual,regular,Lucknow,2019,2025,12
+16155820,Maruti Suzuki,Swift,ZXI,50399,2021,582000.0,petrol,1,hatchback,manual,regular,Lucknow,2021,2025,12
+13610174,Renault,Kwid,CLIMBER 1.0 AMT Opt,17719,2020,425000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2020,2025,12
+17094647,Maruti Suzuki,Baleno,Alpha Petrol,37985,2016,526000.0,petrol,1,hatchback,manual,regular,Lucknow,2016,2025,10
+13715061,Renault,Kwid,1.0 RXT AMT Opt,21646,2022,452000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2022,2025,12
+17281631,Maruti Suzuki,Baleno,Zeta AT Petrol,79793,2016,482000.0,petrol,1,hatchback,automatic,CVT,Lucknow,2016,2025,4
+17479888,Maruti Suzuki,Vitara Brezza,VXI,56064,2021,668000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+15957436,Honda,Amaze,1.2 VX i-VTEC,30618,2018,578000.0,petrol,1,sedan,manual,regular,Lucknow,2018,2025,12
+17397984,Hyundai,Eon,Magna +,11874,2015,270000.0,petrol,1,hatchback,manual,regular,Lucknow,2015,2025,12
+16140157,Maruti Suzuki,Brezza,ZXI PLUS,8627,2023,1185643.0,petrol,1,suv,manual,regular,Lucknow,2023,2025,12
+15323890,Mahindra,XUV500,W11,40979,2021,1320000.0,diesel,1,suv,manual,regular,Lucknow,2021,2025,12
+16521968,Maruti Suzuki,Ignis,Delta MT Petrol,14378,2021,501000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+17726711,Maruti Suzuki,Wagon R 1.2,ZXI,29640,2020,468000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+17094647,Maruti Suzuki,Baleno,Alpha Petrol,37985,2016,526000.0,petrol,1,hatchback,manual,regular,Lucknow,2016,2025,10
+13715061,Renault,Kwid,1.0 RXT AMT Opt,21646,2022,452000.0,petrol,1,hatchback,automatic,AMT,Lucknow,2022,2025,12
+17281631,Maruti Suzuki,Baleno,Zeta AT Petrol,79793,2016,482000.0,petrol,1,hatchback,automatic,CVT,Lucknow,2016,2025,4
+17479888,Maruti Suzuki,Vitara Brezza,VXI,56064,2021,668000.0,petrol,1,suv,manual,regular,Lucknow,2021,2025,12
+15957436,Honda,Amaze,1.2 VX i-VTEC,30618,2018,578000.0,petrol,1,sedan,manual,regular,Lucknow,2018,2025,12
+17397984,Hyundai,Eon,Magna +,11874,2015,270000.0,petrol,1,hatchback,manual,regular,Lucknow,2015,2025,12
+16140157,Maruti Suzuki,Brezza,ZXI PLUS,8627,2023,1185643.0,petrol,1,suv,manual,regular,Lucknow,2023,2025,12
+15323890,Mahindra,XUV500,W11,40979,2021,1320000.0,diesel,1,suv,manual,regular,Lucknow,2021,2025,12
+16521968,Maruti Suzuki,Ignis,Delta MT Petrol,14378,2021,501000.0,petrol,1,hatchback,manual,regular,Lucknow,2022,2025,12
+17726711,Maruti Suzuki,Wagon R 1.2,ZXI,29640,2020,468000.0,petrol,1,hatchback,manual,regular,Lucknow,2020,2025,12
+13200643,Tata,Safari,XZA Plus Adventure,46270,2021,1666000.0,diesel,1,suv,automatic,AMT,Lucknow,2021,2025,12
+13686236,Maruti Suzuki,Vitara Brezza,ZDi Plus,55079,2019,800000.0,diesel,1,suv,manual,regular,Lucknow,2019,2025,12
+17953105,Hyundai,i20 Active,1.2 S,17126,2017,514000.0,petrol,1,crossover,manual,regular,Lucknow,2017,2025,12
+17263777,Hyundai,Eon,Era +,49528,2014,229000.0,petrol,1,hatchback,manual,regular,Lucknow,2014,2025,12
+17015208,Hyundai,Eon,Era,49942,2013,197000.0,petrol,1,hatchback,manual,regular,Lucknow,2013,2025,12
+17365364,Maruti Suzuki,Alto 800,LXI,38972,2016,253000.0,petrol,1,hatchback,manual,regular,Lucknow,2016,2025,12
+15064460,Mahindra,Thar,LX 4 STR Hard Top Petrol MT 4WD,27889,2022,1229000.0,petrol,1,suv,manual,regular,Lucknow,2022,2025,12
+15509755,Volkswagen,Virtus,Highline 1.0 TSI AT,28621,2022,1155970.0,petrol,1,sedan,automatic,Torque Convertor,Lucknow,2022,2025,12
+17786317,Tata,Nexon,XZ + Dark Edition,32450,2022,997000.0,diesel,1,suv,manual,regular,Lucknow,2022,2025,12
+9412470,Ford,EcoSport,Titanium + 1.5L Ti-VCT,15039,2020,799000.0,petrol,1,suv,manual,regular,Lucknow,2020,2025,12

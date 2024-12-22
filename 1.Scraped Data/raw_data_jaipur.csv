@@ -1,0 +1,101 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+14980051,Hyundai,Xcent,S Petrol,47696,2019,537000.0,petrol,1,sedan,manual,regular,Jaipur,2019,2025,12
+16267246,Hyundai,New Santro 1.1,Magna AMT,14688,2020,477000.0,petrol,1,hatchback,automatic,AMT,Jaipur,2020,2025,12
+17442134,Hyundai,Grand i10 Nios,Sportz 1.2 AMT,3412,2024,806358.0,petrol,1,hatchback,automatic,AMT,Jaipur,2024,2025,5
+15383582,Hyundai,New Santro 1.1,Sportz MT,46604,2021,456000.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+16581917,Hyundai,Grand i10 Nios,Asta AMT 1.2 Kappa VTVT,4261,2022,769000.0,petrol,1,hatchback,automatic,AMT,Jaipur,2022,2025,12
+17109427,Hyundai,New Santro 1.1,Magna,32505,2021,460000.0,petrol,1,hatchback,manual,regular,Jaipur,2021,2025,12
+15768417,Hyundai,New Santro 1.1,Sportz MT,24406,2020,451000.0,petrol,1,hatchback,manual,regular,Jaipur,2020,2025,12
+15641802,Volkswagen,Virtus,Highline 1.0 TSI MT,6602,2022,1202154.0,petrol,1,sedan,manual,regular,Jaipur,2022,2025,12
+15718041,Toyota,Etios,GD,80088,2013,388000.0,diesel,1,sedan,manual,regular,Jaipur,2013,2025,12
+16860177,Hyundai,Verna,SX (O) 1.5 Turbo Petrol MT,21243,2023,1435000.0,petrol,1,sedan,manual,regular,Jaipur,2023,2025,12
+16567782,Renault,Kwid,RXT,16739,2022,437000.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+17835044,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,17084,2022,656124.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,9
+16804972,Hyundai,Elite i20,Sportz Plus CVT,30174,2019,643000.0,petrol,2,hatchback,automatic,CVT,Jaipur,2019,2025,12
+17100543,Tata,Tigor,Revotron XZ+ CNG,50653,2022,632618.0,petrol+cng,1,sedan,manual,regular,Jaipur,2022,2025,8
+14678936,Volkswagen,Polo,Comfortline 1.0L (P),118482,2019,548814.0,petrol,1,hatchback,manual,regular,Jaipur,2019,2025,12
+14291701,Hyundai,New Santro 1.1,Magna,37021,2019,388000.0,petrol,1,hatchback,manual,regular,Jaipur,2019,2025,12
+16729058,Honda,City,V CVT,100113,2018,682696.0,petrol,1,sedan,automatic,CVT,Jaipur,2018,2025,12
+14908387,Renault,Kwid,RXT,72923,2017,281000.0,petrol,1,hatchback,manual,regular,Jaipur,2017,2025,12
+15653237,Ford,Figo,Duratec Petrol LXI 1.2,47964,2011,200000.0,petrol,1,hatchback,manual,regular,Jaipur,2011,2025,12
+14901555,Nissan,Micra Active,XV,74123,2015,285138.0,petrol,2,hatchback,manual,regular,Jaipur,2016,2025,12
+16567782,Renault,Kwid,RXT,16739,2022,437000.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+16804972,Hyundai,Elite i20,Sportz Plus CVT,30174,2019,643000.0,petrol,2,hatchback,automatic,CVT,Jaipur,2019,2025,12
+17427088,Maruti Suzuki,Wagon R 1.0,VXI,66236,2017,382228.0,petrol,1,hatchback,manual,regular,Jaipur,2017,2025,12
+14989891,Honda,City,V,71997,2014,509000.0,petrol,1,sedan,manual,regular,Jaipur,2014,2025,12
+16853852,Renault,Kwid,RXL,15427,2021,390000.0,petrol,1,hatchback,manual,regular,Jaipur,2021,2025,12
+15643187,Honda,City,ZX Diesel,79127,2022,1223955.0,diesel,1,sedan,manual,regular,Jaipur,2022,2025,12
+15507872,Renault,Kwid,CLIMBER 1.0 AMT Opt,18941,2021,487000.0,petrol,1,hatchback,automatic,AMT,Jaipur,2022,2025,12
+15995224,Renault,Kwid,1.0 RXT AMT Opt,30153,2019,383250.0,petrol,1,hatchback,automatic,AMT,Jaipur,2019,2025,12
+16839201,Renault,Kwid,RXL(O) 1.0 Petrol MT SCE,14545,2022,438438.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+17528909,Maruti Suzuki,Ciaz,Alpha Petrol,49074,2017,601958.0,petrol,1,sedan,manual,regular,Jaipur,2017,2025,12
+17483963,Renault,Kwid,1.0 RXT AMT Opt,20999,2016,325000.0,petrol,1,hatchback,automatic,AMT,Jaipur,2017,2025,8
+16299525,Hyundai,Grand i10 Nios,Sportz AMT 1.2 Kappa VTVT,3992,2022,711000.0,petrol,1,hatchback,automatic,AMT,Jaipur,2022,2025,12
+17453387,Renault,Kwid,CLIMBER 1.0 AMT Opt,19093,2020,463988.0,petrol,1,hatchback,automatic,AMT,Jaipur,2022,2025,12
+16644482,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,114911,2014,358722.0,petrol,1,hatchback,manual,regular,Jaipur,2014,2025,12
+17205982,Tata,Nexon,XZ Plus Petrol,97136,2017,535528.0,petrol,1,suv,manual,regular,Jaipur,2017,2025,12
+15108967,Hyundai,i10,magna 1.1,123047,2012,237104.0,petrol,1,hatchback,manual,regular,Jaipur,2012,2025,12
+17095035,Chevrolet,Beat,LT Petrol,27220,2016,284116.0,petrol,2,hatchback,manual,regular,Jaipur,2016,2025,7
+17363977,Renault,Kwid,CLIMBER 1.0 Opt,41571,2022,438438.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+17733455,Maruti Suzuki,Celerio,ZXI AMT,22536,2017,397558.0,petrol,2,hatchback,automatic,AMT,Jaipur,2017,2025,12
+17037948,Volkswagen,Polo,Comfortline 1.2L (P),60169,2016,446614.0,petrol,2,hatchback,manual,regular,Jaipur,2016,2025,12
+17483963,Renault,Kwid,1.0 RXT AMT Opt,20999,2016,325000.0,petrol,1,hatchback,automatic,AMT,Jaipur,2017,2025,8
+16299525,Hyundai,Grand i10 Nios,Sportz AMT 1.2 Kappa VTVT,3992,2022,711000.0,petrol,1,hatchback,automatic,AMT,Jaipur,2022,2025,12
+17453387,Renault,Kwid,CLIMBER 1.0 AMT Opt,19093,2020,463988.0,petrol,1,hatchback,automatic,AMT,Jaipur,2022,2025,12
+15834413,Maruti Suzuki,Alto 800,LXI,41526,2016,268000.0,petrol,1,hatchback,manual,regular,Jaipur,2016,2025,6
+15153704,Honda,City,VX (O) MT,76836,2016,625000.0,petrol,1,sedan,manual,regular,Jaipur,2016,2025,12
+17571405,Maruti Suzuki,Alto K10,VXI AMT (O),18639,2018,393470.0,petrol,1,hatchback,automatic,AMT,Jaipur,2018,2025,12
+17522611,Renault,Kwid,RXT,17231,2020,388000.0,petrol,1,hatchback,manual,regular,Jaipur,2020,2025,12
+13177700,Hyundai,Tucson,Signature 2.0 2WD AT Diesel,10906,2022,2646901.0,diesel,1,suv,automatic,Torque Convertor,Jaipur,2022,2025,12
+16889455,Renault,Kwid,RXT,55026,2020,352590.0,petrol,1,hatchback,manual,regular,Jaipur,2020,2025,7
+9843755,Kia,Seltos,GTK,34934,2019,997000.0,petrol,1,suv,manual,regular,Jaipur,2019,2025,12
+17404585,Renault,Kwid,RXL,12469,2021,407778.0,petrol,1,hatchback,manual,regular,Jaipur,2021,2025,4
+17492409,Renault,Kwid,1.0 RXT Opt,5915,2022,488516.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+17431457,Honda,Amaze,1.2 S i-VTEC,66683,2014,379162.0,petrol,1,sedan,manual,regular,Jaipur,2014,2025,12
+15673602,Maruti Suzuki,A-Star,ZXI,71729,2011,234038.0,petrol,2,hatchback,manual,regular,Jaipur,2011,2025,12
+15289030,Maruti Suzuki,A-Star,VXI,86780,2011,198000.0,petrol,2,hatchback,manual,regular,Jaipur,2011,2025,12
+14834858,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,46061,2017,468000.0,petrol,1,hatchback,manual,regular,Jaipur,2017,2025,12
+17364024,Renault,Kwid,RXL Opt,12295,2022,392000.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,8
+14598426,Renault,Kwid,RXT,34492,2016,269000.0,petrol,1,hatchback,manual,regular,Jaipur,2016,2025,12
+17914485,Renault,Kwid,RXT,13329,2022,444570.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+17020500,Renault,Kwid,1.0 RXT AMT SCE,7513,2022,513000.0,petrol,1,hatchback,automatic,AMT,Jaipur,2023,2026,3
+17431457,Honda,Amaze,1.2 S i-VTEC,66683,2014,379162.0,petrol,1,sedan,manual,regular,Jaipur,2014,2025,12
+14834858,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,46061,2017,468000.0,petrol,1,hatchback,manual,regular,Jaipur,2017,2025,12
+17364024,Renault,Kwid,RXL Opt,12295,2022,392000.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,8
+14598426,Renault,Kwid,RXT,34492,2016,269000.0,petrol,1,hatchback,manual,regular,Jaipur,2016,2025,12
+17914485,Renault,Kwid,RXT,13329,2022,444570.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+17020500,Renault,Kwid,1.0 RXT AMT SCE,7513,2022,513000.0,petrol,1,hatchback,automatic,AMT,Jaipur,2023,2026,3
+17632714,Renault,Kiger,RXT MT,13559,2022,646926.0,petrol,1,suv,manual,regular,Jaipur,2022,2025,12
+15009577,Hyundai,Creta,1.6 SX Plus Auto Petrol,82510,2017,777000.0,petrol,1,suv,automatic,Torque Convertor,Jaipur,2017,2025,12
+16900070,Hyundai,Elantra,2.0 SX(O) AT,27433,2017,972000.0,petrol,1,sedan,automatic,Torque Convertor,Jaipur,2017,2025,12
+17713658,Skoda,Octavia,1.8 TSI AT L K,66851,2018,1266902.0,petrol,1,sedan,automatic,DSG,Jaipur,2018,2025,12
+17327116,Maruti Suzuki,S-Cross,Zeta 1.3,83203,2015,469098.0,diesel,1,suv,manual,regular,Jaipur,2015,2025,12
+17322054,Hyundai,Elite i20,Sportz 1.2,65462,2015,478296.0,petrol,1,hatchback,manual,regular,Jaipur,2015,2025,12
+16562920,MG Motors,Hector Plus,Sharp Pro 2.0 Turbo Diesel 6 STR,9032,2023,1833225.0,diesel,1,suv,manual,regular,Jaipur,2023,2025,12
+16704272,Hyundai,New i20,Asta 1.2 MT,43005,2022,724000.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+13335295,Hyundai,Verna,SX IVT Petrol,41079,2020,1060000.0,petrol,1,sedan,automatic,CVT,Jaipur,2020,2025,3
+17297906,Maruti Suzuki,Swift,ZXI,39878,2019,602980.0,petrol,1,hatchback,manual,regular,Jaipur,2019,2025,12
+17510777,Hyundai,i20 Active,1.2 S,86055,2015,421064.0,petrol,1,crossover,manual,regular,Jaipur,2016,2025,12
+14970338,BMW,3 Series,320d Prestige,21977,2014,1135058.0,diesel,1,sedan,automatic,,Jaipur,2014,2025,12
+17143933,Toyota,Etios Liva,V,41691,2012,304556.0,petrol,1,hatchback,manual,regular,Jaipur,2012,2025,12
+17249045,Hyundai,i20 Active,1.4 S,105997,2016,458878.0,diesel,1,crossover,manual,regular,Jaipur,2016,2025,9
+16900070,Hyundai,Elantra,2.0 SX(O) AT,27433,2017,972000.0,petrol,1,sedan,automatic,Torque Convertor,Jaipur,2017,2025,12
+17713658,Skoda,Octavia,1.8 TSI AT L K,66851,2018,1266902.0,petrol,1,sedan,automatic,DSG,Jaipur,2018,2025,12
+17327116,Maruti Suzuki,S-Cross,Zeta 1.3,83203,2015,469098.0,diesel,1,suv,manual,regular,Jaipur,2015,2025,12
+17322054,Hyundai,Elite i20,Sportz 1.2,65462,2015,478296.0,petrol,1,hatchback,manual,regular,Jaipur,2015,2025,12
+16562920,MG Motors,Hector Plus,Sharp Pro 2.0 Turbo Diesel 6 STR,9032,2023,1833225.0,diesel,1,suv,manual,regular,Jaipur,2023,2025,12
+16704272,Hyundai,New i20,Asta 1.2 MT,43005,2022,724000.0,petrol,1,hatchback,manual,regular,Jaipur,2022,2025,12
+13335295,Hyundai,Verna,SX IVT Petrol,41079,2020,1060000.0,petrol,1,sedan,automatic,CVT,Jaipur,2020,2025,3
+17297906,Maruti Suzuki,Swift,ZXI,39878,2019,602980.0,petrol,1,hatchback,manual,regular,Jaipur,2019,2025,12
+16276466,Maruti Suzuki,Baleno,Alpha Petrol,44975,2015,532462.0,petrol,1,hatchback,manual,regular,Jaipur,2016,2025,12
+17510777,Hyundai,i20 Active,1.2 S,86055,2015,421064.0,petrol,1,crossover,manual,regular,Jaipur,2016,2025,12
+13909190,Tata,Bolt,XM Diesel,53460,2016,346458.0,diesel,1,hatchback,manual,regular,Jaipur,2017,2025,12
+17981226,Maruti Suzuki,Dzire,LXI,12907,2021,580496.0,petrol,1,sedan,manual,regular,Jaipur,2021,2025,12
+14970338,BMW,3 Series,320d Prestige,21977,2014,1135058.0,diesel,1,sedan,automatic,,Jaipur,2014,2025,12
+17143933,Toyota,Etios Liva,V,41691,2012,304556.0,petrol,1,hatchback,manual,regular,Jaipur,2012,2025,12
+17245562,Maruti Suzuki,New Ertiga,VXI AT,13059,2021,926000.0,petrol,1,muv,automatic,,Jaipur,2021,2025,6
+17249045,Hyundai,i20 Active,1.4 S,105997,2016,458878.0,diesel,1,crossover,manual,regular,Jaipur,2016,2025,9
+17113691,Ford,EcoSport,Titanium 1.5L TDCi,58651,2019,692916.0,diesel,1,suv,manual,regular,Jaipur,2019,2025,12
+15396124,Honda,City,VX CVT,74896,2016,605000.0,petrol,2,sedan,automatic,CVT,Jaipur,2016,2025,12
+15915434,Mahindra,Thar,LX 4 STR Convertible Petrol AT 4WD,47898,2021,1238000.0,petrol,1,suv,automatic,Torque Convertor,Jaipur,2022,2025,12
+15500369,Renault,Kiger,RXZ AMT,24998,2021,673498.0,petrol,1,suv,automatic,AMT,Jaipur,2021,2025,12

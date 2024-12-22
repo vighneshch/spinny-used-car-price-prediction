@@ -1,0 +1,541 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+16998669,Maruti Suzuki,Baleno,RS Petrol,58010,2018,619000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+17230390,Hyundai,Tucson,2WD MT Petrol,69685,2017,1088683.0,petrol,2,suv,manual,regular,Chennai,2017,2025.0,5.0
+17678596,Honda,Jazz,ZX CVT,43931,2021,843000.0,petrol,1,hatchback,automatic,CVT,Chennai,2021,2025.0,12.0
+16554944,Hyundai,Venue,SX 1.0  Turbo iMT,50806,2022,897000.0,petrol,1,suv,manual,iMT,Chennai,2022,2025.0,12.0
+17099772,Skoda,Kushaq,Style 1.0L TSI MT,38308,2022,1322000.0,petrol,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+15454481,Tata,Harrier,XZ,28939,2022,1658000.0,diesel,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+16841288,Renault,Kwid,RXT 1.0 SCE Special (O),54857,2018,368000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,5.0
+16047944,Hyundai,Venue,SX 1.0  Turbo,21458,2022,949000.0,petrol,1,suv,manual,regular,Chennai,2022,2025.0,3.0
+15533361,Renault,Kiger,RXZ Turbo CVT,11004,2023,997000.0,petrol,1,suv,automatic,CVT,Chennai,2023,,
+16691319,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,19690,2022,814000.0,petrol,1,suv,manual,regular,Chennai,2023,2025.0,12.0
+17683450,Kia,Seltos,HTK Plus iMT,14759,2023,1271493.0,petrol,1,suv,manual,iMT,Chennai,2023,2025.0,4.0
+17214560,Hyundai,Verna,SX Petrol,34456,2021,1039000.0,petrol,1,sedan,manual,regular,Chennai,2021,2025.0,4.0
+17717375,Kia,Seltos,HTX G,50368,2021,1238163.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,6.0
+16554795,Maruti Suzuki,Baleno,Alpha Petrol,111936,2019,593000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+16428268,Hyundai,Elite i20,Asta 1.2 Dual Tone,113644,2018,602000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+15835452,Renault,Kwid,CLIMBER 1.0 AMT,55966,2017,364516.0,petrol,2,hatchback,automatic,AMT,Chennai,2017,2025.0,12.0
+17584904,Renault,Kwid,1.0 RXT AMT Opt,18533,2019,448000.0,petrol,1,hatchback,automatic,AMT,Chennai,2019,2025.0,12.0
+17723558,Hyundai,Grand i10,Sportz (O) AT 1.2 Kappa VTVT,103165,2017,436000.0,petrol,2,hatchback,automatic,Torque Convertor,Chennai,2017,2025.0,12.0
+15160808,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,106532,2019,481000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+14843998,Jeep,Compass,Limited (O) 1.4 Petrol DCT,18103,2021,2120858.0,petrol,1,suv,automatic,DCT,Chennai,2021,2025.0,12.0
+17683450,Kia,Seltos,HTK Plus iMT,14759,2023,1271493.0,petrol,1,suv,manual,iMT,Chennai,2023,2025.0,4.0
+17214560,Hyundai,Verna,SX Petrol,34456,2021,1039000.0,petrol,1,sedan,manual,regular,Chennai,2021,2025.0,4.0
+17717375,Kia,Seltos,HTX G,50368,2021,1238163.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,6.0
+17724792,Tata,Nexon,XZA Plus (O) Dark Edition AMT,31843,2021,829000.0,petrol,2,suv,automatic,AMT,Chennai,2021,2025.0,12.0
+15969311,Tata,Tiago,XZA Plus Dual Tone Roof AMT,30349,2019,574000.0,petrol,1,hatchback,automatic,AMT,Chennai,2020,2025.0,12.0
+17668859,Kia,Sonet,GTX Plus 1.0 iMT,40870,2023,1160393.0,petrol,1,suv,manual,iMT,Chennai,2023,2025.0,12.0
+17212714,Kia,Seltos,GTX DCT,72100,2019,1098783.0,petrol,1,suv,automatic,DCT,Chennai,2019,2025.0,12.0
+17302305,Skoda,Kushaq,Style 1.0L TSI MT,21476,2021,1252000.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,9.0
+15833272,Renault,Kiger,RXZ Turbo CVT Dual Tone,22031,2022,959000.0,petrol,1,suv,automatic,CVT,Chennai,2023,2025.0,12.0
+17912833,Hyundai,New i20,Asta (O) 1.2 MT,20359,2021,833000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,12.0
+17527570,Hyundai,Xcent,SX AT (O) Petrol,65404,2015,478000.0,petrol,1,sedan,automatic,,Chennai,2015,2025.0,7.0
+16673004,Maruti Suzuki,S-Presso,VXI Plus,12084,2024,549000.0,petrol,1,hatchback,manual,regular,Chennai,2024,2025.0,12.0
+17809200,Honda,Jazz,V,40704,2017,576000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,11.0
+17644019,Hyundai,New Santro 1.1,Sportz MT,7950,2022,568000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,6.0
+16118225,Maruti Suzuki,Baleno,Zeta Petrol,111022,2018,577000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+15952470,Maruti Suzuki,Baleno,Zeta AT Petrol,126581,2016,526000.0,petrol,1,hatchback,automatic,CVT,Chennai,2016,2025.0,12.0
+16552625,Renault,Kwid,CLIMBER 1.0 AMT,53421,2019,430000.0,petrol,1,hatchback,automatic,AMT,Chennai,2019,,
+17269454,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,90126,2019,499334.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,8.0
+13508780,Honda,Jazz,VX,111618,2016,482000.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,12.0
+16578681,Jeep,Compass,80 Anniversary 2.0 Diesel 4x4 AT,38035,2021,2373358.0,diesel,1,suv,automatic,Torque Convertor,Chennai,2021,2025.0,4.0
+17527570,Hyundai,Xcent,SX AT (O) Petrol,65404,2015,478000.0,petrol,1,sedan,automatic,,Chennai,2015,2025.0,7.0
+16673004,Maruti Suzuki,S-Presso,VXI Plus,12084,2024,549000.0,petrol,1,hatchback,manual,regular,Chennai,2024,2025.0,12.0
+17809200,Honda,Jazz,V,40704,2017,576000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,11.0
+17830276,Maruti Suzuki,Ciaz,VXI+ AT,45843,2016,605000.0,petrol,1,sedan,automatic,,Chennai,2016,2025.0,6.0
+17231205,Renault,Kwid,1.0 RXT SCE,13550,2023,511000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2026.0,9.0
+16486473,Maruti Suzuki,Baleno,Alpha Petrol,40896,2021,751000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,12.0
+16954314,Tata,Tigor,Revotron XZ+,21252,2022,676000.0,petrol,1,sedan,manual,regular,Chennai,2023,2025.0,12.0
+17027133,Hyundai,Verna,1.6 VTVT SX,43358,2019,878000.0,petrol,1,sedan,manual,regular,Chennai,2019,2025.0,12.0
+16277850,Honda,Jazz,VX CVT,35734,2021,773000.0,petrol,1,hatchback,automatic,CVT,Chennai,2021,2025.0,12.0
+16733517,Maruti Suzuki,Swift,ZXI Plus AMT,36165,2019,704000.0,petrol,1,hatchback,automatic,AMT,Chennai,2019,2025.0,4.0
+17233950,Tata,Tiago NRG,XZ,25407,2022,623000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,7.0
+17103668,Hyundai,Venue,SX Plus 1.0 Turbo DCT,14110,2022,1116000.0,petrol,1,suv,automatic,DCT,Chennai,2022,2025.0,12.0
+17428732,Hyundai,New Santro 1.1,Sportz MT,53375,2019,468000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,5.0
+17941056,Hyundai,New Santro 1.1,Sportz MT,18863,2019,498000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+17308455,Honda,Amaze,1.2 VX i-VTEC,45776,2020,650000.0,petrol,1,sedan,manual,regular,Chennai,2020,2025.0,6.0
+16578360,Renault,Kwid,CLIMBER 1.0 AMT,54911,2018,362000.0,petrol,2,hatchback,automatic,AMT,Chennai,2018,2025.0,5.0
+17688194,Maruti Suzuki,Wagon R 1.0,LXI (O) CNG,104382,2021,489000.0,petrol+cng,1,hatchback,manual,regular,Chennai,2021,2025.0,9.0
+17465931,Maruti Suzuki,Celerio,ZXI (O) AMT,111059,2016,402000.0,petrol,1,hatchback,automatic,AMT,Chennai,2016,2025.0,8.0
+17263568,Hyundai,Elite i20,Asta CVT,82085,2018,604000.0,petrol,2,hatchback,automatic,CVT,Chennai,2018,2025.0,12.0
+18086447,Maruti Suzuki,S-Presso,VXI Plus AMT,96232,2020,421000.0,petrol,1,hatchback,automatic,AMT,Chennai,2020,2025.0,10.0
+17233950,Tata,Tiago NRG,XZ,25407,2022,623000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,7.0
+17103668,Hyundai,Venue,SX Plus 1.0 Turbo DCT,14110,2022,1116000.0,petrol,1,suv,automatic,DCT,Chennai,2022,2025.0,12.0
+17428732,Hyundai,New Santro 1.1,Sportz MT,53375,2019,468000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,5.0
+17941056,Hyundai,New Santro 1.1,Sportz MT,18863,2019,498000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+16537642,Hyundai,Tucson,GLS 2WD AT Diesel,69066,2021,1957902.0,diesel,1,suv,automatic,,Chennai,2021,2025.0,12.0
+15342071,Kia,Sonet,HTX 1.0 iMT,35614,2020,852000.0,petrol,1,suv,manual,iMT,Chennai,2020,2025.0,12.0
+16857033,Maruti Suzuki,Swift,ZXI,22753,2017,582000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,9.0
+17567848,Maruti Suzuki,Ciaz,Zeta AT Petrol,27569,2022,928000.0,petrol,1,sedan,automatic,Torque Convertor,Chennai,2022,2025.0,5.0
+17483967,Tata,Nexon,XMA AMT S,9558,2023,932000.0,petrol,1,suv,automatic,AMT,Chennai,2023,2025.0,7.0
+17649700,Renault,Kwid,CLIMBER 1.0 AMT,18408,2022,543000.0,petrol,1,hatchback,automatic,AMT,Chennai,2023,2025.0,12.0
+17289555,Ford,EcoSport,Titanium 1.5L Ti-VCT,43818,2019,749000.0,petrol,1,suv,manual,regular,Chennai,2019,2025.0,9.0
+16485397,Tata,Altroz,XT 1.2,16610,2022,686000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17732948,Renault,Kwid,CLIMBER 1.0 Opt,58918,2022,444000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16607931,Tata,Nexon,XMA AMT S,9447,2023,936000.0,petrol,1,suv,automatic,AMT,Chennai,2023,2026.0,2.0
+16489273,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,118047,2015,419000.0,petrol,1,hatchback,automatic,AMT,Chennai,2015,2025.0,6.0
+16588785,Hyundai,Xcent,SX AT (O) Petrol,100404,2014,429000.0,petrol,1,sedan,automatic,,Chennai,2014,,
+17621063,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,140402,2015,339000.0,petrol,2,hatchback,manual,regular,Chennai,2015,2025.0,7.0
+17319693,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,53910,2018,452000.0,petrol,3,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+17157657,Hyundai,Eon,Magna +,35636,2017,298000.0,petrol,3,hatchback,manual,regular,Chennai,2017,2025.0,6.0
+17819135,Honda,Jazz,VX Diesel,116209,2016,533000.0,diesel,1,hatchback,manual,regular,Chennai,2016,2025.0,6.0
+17289555,Ford,EcoSport,Titanium 1.5L Ti-VCT,43818,2019,749000.0,petrol,1,suv,manual,regular,Chennai,2019,2025.0,9.0
+16485397,Tata,Altroz,XT 1.2,16610,2022,686000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17732948,Renault,Kwid,CLIMBER 1.0 Opt,58918,2022,444000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16607931,Tata,Nexon,XMA AMT S,9447,2023,936000.0,petrol,1,suv,automatic,AMT,Chennai,2023,2026.0,2.0
+17566027,Nissan,Magnite,XV Premium,43395,2023,729000.0,petrol,1,suv,manual,regular,Chennai,2023,2025.0,8.0
+16475108,Maruti Suzuki,S-Presso,VXI Plus,9461,2023,517000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2026.0,7.0
+17785396,Honda,Jazz,VX CVT,68031,2019,665000.0,petrol,1,hatchback,automatic,CVT,Chennai,2019,2025.0,12.0
+17726229,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,50578,2017,517000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,6.0
+17077335,Hyundai,Verna,SX Petrol,58569,2020,926000.0,petrol,1,sedan,manual,regular,Chennai,2020,2025.0,12.0
+16158130,Renault,Kiger,RXZ Turbo CVT Dual Tone,8391,2023,997000.0,petrol,1,suv,automatic,CVT,Chennai,2023,2026.0,6.0
+17830969,Tata,Nexon,XZA Plus AMT Diesel,50101,2019,814000.0,diesel,1,suv,automatic,AMT,Chennai,2019,2025.0,4.0
+17979075,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,74439,2019,570000.0,petrol,1,hatchback,automatic,Torque Convertor,Chennai,2019,2025.0,5.0
+17698389,Renault,Kwid,1.0 RXT SCE,24813,2022,470000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,9.0
+17267149,Honda,Jazz,V CVT,32314,2017,570000.0,petrol,2,hatchback,automatic,CVT,Chennai,2017,2025.0,12.0
+15717003,Ford,EcoSport,Titanium 1.5L Ti-VCT AT,59981,2016,517000.0,petrol,3,suv,automatic,Torque Convertor,Chennai,2016,2025.0,12.0
+16426580,Renault,Kwid,CLIMBER 1.0 AMT,43150,2019,371000.0,petrol,3,hatchback,automatic,AMT,Chennai,2019,2025.0,6.0
+13120464,Honda,Brio,VX MT,111796,2014,350000.0,petrol,1,hatchback,manual,regular,Chennai,2014,2025.0,12.0
+15924443,Renault,Kwid,1.0 RXT AMT,68856,2017,329000.0,petrol,2,hatchback,automatic,AMT,Chennai,2017,2025.0,12.0
+16681111,Honda,Brio,S MT,30162,2017,404000.0,petrol,2,hatchback,manual,regular,Chennai,2017,2025.0,8.0
+15156967,Hyundai,Grand i10 Nios,Sportz U2 1.2 CRDI,99828,2022,629000.0,diesel,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17830969,Tata,Nexon,XZA Plus AMT Diesel,50101,2019,814000.0,diesel,1,suv,automatic,AMT,Chennai,2019,2025.0,4.0
+17979075,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,74439,2019,570000.0,petrol,1,hatchback,automatic,Torque Convertor,Chennai,2019,2025.0,5.0
+17698389,Renault,Kwid,1.0 RXT SCE,24813,2022,470000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,9.0
+17267149,Honda,Jazz,V CVT,32314,2017,570000.0,petrol,2,hatchback,automatic,CVT,Chennai,2017,2025.0,12.0
+16769276,MG Motors,Hector,1.5 Sharp DCT,43778,2019,1287000.0,petrol,1,suv,automatic,DCT,Chennai,2019,2025.0,12.0
+17386709,Maruti Suzuki,Baleno,Zeta AT Petrol,25236,2018,635000.0,petrol,2,hatchback,automatic,CVT,Chennai,2018,2025.0,12.0
+17452986,Hyundai,Aura,SX Plus 1.2 AMT Petrol,23994,2022,755000.0,petrol,1,sedan,automatic,AMT,Chennai,2022,2025.0,10.0
+17160735,Maruti Suzuki,Wagon R 1.2,ZXI Plus,10547,2022,642000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16770412,Hyundai,Elite i20,Asta CVT,23780,2018,704000.0,petrol,1,hatchback,automatic,CVT,Chennai,2018,2025.0,7.0
+17436198,Honda,City,VX,68039,2021,997000.0,petrol,1,sedan,manual,regular,Chennai,2021,2025.0,12.0
+17750756,Hyundai,Venue,SX 1.5 CRDI,70803,2021,959000.0,diesel,1,suv,manual,regular,Chennai,2021,2025.0,12.0
+17651687,Ford,EcoSport,Titanium + 1.5L Ti-VCT,54506,2019,775000.0,petrol,1,suv,manual,regular,Chennai,2019,2025.0,12.0
+16772902,Renault,Kwid,1.0 RXT AMT Opt,23897,2018,424000.0,petrol,1,hatchback,automatic,AMT,Chennai,2018,2025.0,5.0
+17936060,Datsun,Go Plus,T,36868,2019,408000.0,petrol,1,muv,manual,regular,Chennai,2019,2025.0,12.0
+18157210,Hyundai,i20 N Line,N8 1.0 Turbo DCT,12549,2024,1241164.0,petrol,1,hatchback,automatic,DCT,Chennai,2024,2025.0,12.0
+13709686,Hyundai,Xcent,SX Petrol,115616,2019,471000.0,petrol,1,sedan,manual,regular,Chennai,2019,2025.0,12.0
+17426613,Honda,Jazz,SV,73842,2016,437000.0,petrol,2,hatchback,manual,regular,Chennai,2016,2025.0,12.0
+17833300,Volkswagen,T-Roc,1.5 TSI DSG,111301,2021,1593683.0,petrol,1,suv,automatic,DSG,Chennai,2022,2025.0,10.0
+15183024,Maruti Suzuki,Baleno,Zeta AT Petrol,79981,2018,536000.0,petrol,3,hatchback,automatic,CVT,Chennai,2018,2025.0,12.0
+17927179,Renault,Kwid,1.0 RXT AMT Opt,35172,2018,399000.0,petrol,1,hatchback,automatic,AMT,Chennai,2019,2025.0,8.0
+17750756,Hyundai,Venue,SX 1.5 CRDI,70803,2021,959000.0,diesel,1,suv,manual,regular,Chennai,2021,2025.0,12.0
+17651687,Ford,EcoSport,Titanium + 1.5L Ti-VCT,54506,2019,775000.0,petrol,1,suv,manual,regular,Chennai,2019,2025.0,12.0
+16772902,Renault,Kwid,1.0 RXT AMT Opt,23897,2018,424000.0,petrol,1,hatchback,automatic,AMT,Chennai,2018,2025.0,5.0
+17936060,Datsun,Go Plus,T,36868,2019,408000.0,petrol,1,muv,manual,regular,Chennai,2019,2025.0,12.0
+18157210,Hyundai,i20 N Line,N8 1.0 Turbo DCT,12549,2024,1241164.0,petrol,1,hatchback,automatic,DCT,Chennai,2024,2025.0,12.0
+17699116,Maruti Suzuki,S-Presso,VXI Plus,11764,2023,535000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17161507,Maruti Suzuki,Alto 800,VXI,14268,2013,275000.0,petrol,1,hatchback,manual,regular,Chennai,2013,2025.0,12.0
+18041600,Hyundai,Elite i20,Asta (O) CVT,36038,2019,756000.0,petrol,1,hatchback,automatic,CVT,Chennai,2019,2025.0,11.0
+15837730,Maruti Suzuki,Ciaz,Alpha AT Petrol,20257,2019,895000.0,petrol,1,sedan,automatic,Torque Convertor,Chennai,2019,2025.0,6.0
+17044332,Hyundai,Elite i20,Sportz 1.2 (O),51408,2015,517000.0,petrol,1,hatchback,manual,regular,Chennai,2015,2025.0,4.0
+17459525,Honda,WR-V,Edge Edition i-VTEC S,24447,2018,597000.0,petrol,2,suv,manual,regular,Chennai,2018,2025.0,12.0
+16919114,Hyundai,Verna,SX Opt Turbo Petrol,24916,2020,1140000.0,petrol,2,sedan,automatic,,Chennai,2021,2025.0,4.0
+16836349,Maruti Suzuki,Ciaz,Alpha Petrol,42910,2019,795000.0,petrol,1,sedan,manual,regular,Chennai,2019,2025.0,6.0
+16925021,Hyundai,Verna,SX Opt Turbo Petrol,33252,2022,1342000.0,petrol,1,sedan,automatic,,Chennai,2022,2025.0,10.0
+16936661,Hyundai,Venue,SX 1.5 CRDI,77793,2021,939000.0,diesel,1,suv,manual,regular,Chennai,2021,2025.0,12.0
+16062457,Maruti Suzuki,Wagon R 1.2,ZXI Plus,36048,2022,523000.0,petrol,2,hatchback,manual,regular,Chennai,2022,2025.0,9.0
+14597495,Maruti Suzuki,Ciaz,Alpha Petrol,105429,2018,683000.0,petrol,1,sedan,manual,regular,Chennai,2018,2025.0,12.0
+16284554,Volkswagen,Ameo,Highline1.5L (D),121222,2017,521000.0,diesel,1,sedan,manual,regular,Chennai,2018,2025.0,12.0
+17309052,Volkswagen,Polo,Highline 1.5 (D),115922,2016,499000.0,diesel,1,hatchback,manual,regular,Chennai,2016,2025.0,12.0
+13956638,Volkswagen,Vento,1.5L Highline Diesel AT,127729,2016,602000.0,diesel,1,sedan,automatic,DSG,Chennai,2016,2025.0,12.0
+17459525,Honda,WR-V,Edge Edition i-VTEC S,24447,2018,597000.0,petrol,2,suv,manual,regular,Chennai,2018,2025.0,12.0
+16919114,Hyundai,Verna,SX Opt Turbo Petrol,24916,2020,1140000.0,petrol,2,sedan,automatic,,Chennai,2021,2025.0,4.0
+16836349,Maruti Suzuki,Ciaz,Alpha Petrol,42910,2019,795000.0,petrol,1,sedan,manual,regular,Chennai,2019,2025.0,6.0
+16925021,Hyundai,Verna,SX Opt Turbo Petrol,33252,2022,1342000.0,petrol,1,sedan,automatic,,Chennai,2022,2025.0,10.0
+16936661,Hyundai,Venue,SX 1.5 CRDI,77793,2021,939000.0,diesel,1,suv,manual,regular,Chennai,2021,2025.0,12.0
+17399611,Maruti Suzuki,S-Presso,VXI Opt CNG,8202,2022,574000.0,petrol+cng,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17347184,Maruti Suzuki,S-Presso,VXI,66423,2022,412000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,10.0
+17205804,Maruti Suzuki,Swift,VXI AMT,52871,2018,589000.0,petrol,1,hatchback,automatic,AMT,Chennai,2018,2025.0,12.0
+16833478,Maruti Suzuki,S-Presso,VXI Plus,35965,2022,468000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+18058752,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,42235,2018,469000.0,petrol,2,hatchback,manual,regular,Chennai,2018,2025.0,10.0
+17809382,Renault,Kwid,1.0 RXT Opt,39016,2020,398000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,11.0
+17761964,Tata,Nexon,XMA AMT S,10366,2021,856000.0,petrol,1,suv,automatic,AMT,Chennai,2021,,
+17524439,Maruti Suzuki,S-Presso,VXI Plus AMT,14631,2022,526000.0,petrol,1,hatchback,automatic,AMT,Chennai,2022,2025.0,12.0
+17250857,Mahindra,XUV500,W7,45128,2019,1140193.0,diesel,2,suv,manual,regular,Chennai,2019,2025.0,4.0
+16884977,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,14687,2018,534000.0,petrol,1,hatchback,manual,regular,Chennai,2018,,
+17566630,Maruti Suzuki,Alto 800,VXI (O),92763,2016,298000.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,10.0
+16179265,Datsun,Redi-GO,S 1.0,64834,2019,308000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,12.0
+12700813,Mahindra,XUV 300,W8 (O) Diesel,61781,2019,857000.0,diesel,1,suv,manual,regular,Chennai,2019,2025.0,12.0
+17526209,Hyundai,New Santro 1.1,Sportz AMT,104848,2021,474000.0,petrol,1,hatchback,automatic,AMT,Chennai,2021,2025.0,12.0
+15029634,Hyundai,Creta,1.6 SX Plus Auto Petrol,76964,2017,731000.0,petrol,3,suv,automatic,Torque Convertor,Chennai,2017,2025.0,12.0
+17809382,Renault,Kwid,1.0 RXT Opt,39016,2020,398000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,11.0
+17761964,Tata,Nexon,XMA AMT S,10366,2021,856000.0,petrol,1,suv,automatic,AMT,Chennai,2021,,
+17524439,Maruti Suzuki,S-Presso,VXI Plus AMT,14631,2022,526000.0,petrol,1,hatchback,automatic,AMT,Chennai,2022,2025.0,12.0
+17250857,Mahindra,XUV500,W7,45128,2019,1140193.0,diesel,2,suv,manual,regular,Chennai,2019,2025.0,4.0
+16884977,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,14687,2018,534000.0,petrol,1,hatchback,manual,regular,Chennai,2018,,
+16870895,Maruti Suzuki,Celerio,ZXI (O),25990,2019,442000.0,petrol,2,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+17627521,Tata,Altroz,XZ 1.5,31037,2022,854000.0,diesel,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17480951,Ford,EcoSport,Titanium 1.5L Ti-VCT,22623,2021,872000.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,3.0
+17309837,Maruti Suzuki,S-Presso,VXI Plus,6748,2022,483000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+18013301,Maruti Suzuki,Baleno,Zeta Petrol,25220,2021,719000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,7.0
+17576955,Maruti Suzuki,S-Presso,VXI Plus,30764,2021,454000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17647683,Renault,Kwid,RXT 1.0 SCE Special (O),30669,2019,382000.0,petrol,2,hatchback,manual,regular,Chennai,2019,2025.0,6.0
+17308222,Hyundai,Grand i10,Asta (O) AT 1.2 kappa VTVT,53259,2016,508000.0,petrol,1,hatchback,automatic,AMT,Chennai,2016,2025.0,8.0
+17574525,Maruti Suzuki,S-Presso,VXI Plus AMT,26381,2022,520000.0,petrol,1,hatchback,automatic,AMT,Chennai,2022,2025.0,12.0
+17729449,Datsun,GO,T (O),36029,2019,389000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,6.0
+17642678,Tata,Tiago,Revotron XZ Plus,25344,2022,621000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17318300,Ford,EcoSport,Titanium 1.5L TDCi,110588,2016,562000.0,diesel,1,suv,manual,regular,Chennai,2016,2025.0,12.0
+16497466,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,99869,2014,339000.0,petrol,2,hatchback,manual,regular,Chennai,2014,2025.0,8.0
+17207320,Maruti Suzuki,Alto 800,VXI,73349,2018,253000.0,petrol,3,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+17760030,Maruti Suzuki,Celerio,VXI AMT,54957,2016,349000.0,petrol,3,hatchback,automatic,AMT,Chennai,2016,2025.0,8.0
+17576955,Maruti Suzuki,S-Presso,VXI Plus,30764,2021,454000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17647683,Renault,Kwid,RXT 1.0 SCE Special (O),30669,2019,382000.0,petrol,2,hatchback,manual,regular,Chennai,2019,2025.0,6.0
+17308222,Hyundai,Grand i10,Asta (O) AT 1.2 kappa VTVT,53259,2016,508000.0,petrol,1,hatchback,automatic,AMT,Chennai,2016,2025.0,8.0
+17574525,Maruti Suzuki,S-Presso,VXI Plus AMT,26381,2022,520000.0,petrol,1,hatchback,automatic,AMT,Chennai,2022,2025.0,12.0
+17729449,Datsun,GO,T (O),36029,2019,389000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,6.0
+17642678,Tata,Tiago,Revotron XZ Plus,25344,2022,621000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17245946,Renault,Kwid,CLIMBER 1.0 AMT,20922,2018,388000.0,petrol,2,hatchback,automatic,AMT,Chennai,2018,2025.0,9.0
+16997645,Renault,Kwid,1.0 RXT AMT,84021,2017,347000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,2025.0,7.0
+16524784,Nissan,Magnite,XV Premium Turbo (O),27933,2020,720000.0,petrol,1,suv,manual,regular,Chennai,2020,2025.0,12.0
+17469758,Hyundai,Verna,1.6 VTVT SX + AT,67091,2019,925000.0,petrol,1,sedan,automatic,,Chennai,2019,2025.0,12.0
+17440028,Maruti Suzuki,Baleno,Alpha AT Petrol,46735,2019,689000.0,petrol,1,hatchback,automatic,CVT,Chennai,2019,2025.0,7.0
+18112494,Maruti Suzuki,Ignis,Zeta AMT Petrol,86367,2019,521000.0,petrol,1,hatchback,automatic,AMT,Chennai,2020,2025.0,12.0
+17648085,Honda,City,ZX,30345,2021,1217000.0,petrol,1,sedan,manual,regular,Chennai,2021,2025.0,10.0
+17107726,Maruti Suzuki,Celerio,ZXI,19941,2022,512000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17800269,Maruti Suzuki,Swift,ZXI Plus,30598,2023,787000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17587967,Renault,Kwid,RXL,23450,2019,371000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,4.0
+14046379,Skoda,Superb,L&K TSI AT,98691,2016,1189902.0,petrol,1,sedan,automatic,DSG,Chennai,2016,2025.0,12.0
+14893289,Tata,Altroz,XT 1.5,39194,2021,715000.0,diesel,1,hatchback,manual,regular,Chennai,2021,2025.0,12.0
+13186282,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,126914,2015,417000.0,petrol,1,hatchback,automatic,AMT,Chennai,2015,2025.0,12.0
+15303496,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,26904,2019,527000.0,petrol,2,hatchback,manual,regular,Chennai,2019,,
+17440028,Maruti Suzuki,Baleno,Alpha AT Petrol,46735,2019,689000.0,petrol,1,hatchback,automatic,CVT,Chennai,2019,2025.0,7.0
+18112494,Maruti Suzuki,Ignis,Zeta AMT Petrol,86367,2019,521000.0,petrol,1,hatchback,automatic,AMT,Chennai,2020,2025.0,12.0
+17648085,Honda,City,ZX,30345,2021,1217000.0,petrol,1,sedan,manual,regular,Chennai,2021,2025.0,10.0
+17107726,Maruti Suzuki,Celerio,ZXI,19941,2022,512000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17800269,Maruti Suzuki,Swift,ZXI Plus,30598,2023,787000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17587967,Renault,Kwid,RXL,23450,2019,371000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,4.0
+14228668,Mahindra,Thar,LX 4 STR Convertible Petrol AT 4WD,15652,2021,1261000.0,petrol,2,suv,automatic,Torque Convertor,Chennai,2021,2025.0,12.0
+18014741,Renault,Kwid,1.0 RXT AMT Opt,30580,2018,408000.0,petrol,1,hatchback,automatic,AMT,Chennai,2018,2025.0,12.0
+17646133,Maruti Suzuki,Swift,ZXI,73005,2014,449000.0,petrol,1,hatchback,manual,regular,Chennai,2014,2025.0,5.0
+16325175,Tata,Nexon,XZA Plus Dual Tone Roof AMT Petrol,49107,2019,795000.0,petrol,1,suv,automatic,AMT,Chennai,2019,,
+18026313,Volkswagen,Polo,Highline1.2L (P),64345,2013,418000.0,petrol,1,hatchback,manual,regular,Chennai,2013,2025.0,12.0
+17772980,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,12750,2022,675000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,5.0
+17621813,Hyundai,New Santro 1.1,Sportz MT,23078,2022,531000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16943773,Mahindra,XUV 300,W8 (O) Diesel,26104,2022,1176553.0,diesel,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+16730310,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,38797,2018,532000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,7.0
+17812206,Maruti Suzuki,Swift,ZXI AMT,25028,2022,758000.0,petrol,1,hatchback,automatic,AMT,Chennai,2022,2025.0,7.0
+17577776,Renault,Kwid,1.0 RXT AMT,58266,2017,366000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,2025.0,9.0
+16055691,Maruti Suzuki,Alto 800,VXI,25602,2018,290000.0,petrol,3,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+16188964,Honda,City,VX CVT,146652,2015,572000.0,petrol,2,sedan,automatic,CVT,Chennai,2015,2025.0,12.0
+15786278,Skoda,Rapid,Style Plus AT Diesel,128170,2016,549000.0,diesel,1,sedan,automatic,DSG,Chennai,2016,2025.0,12.0
+18026313,Volkswagen,Polo,Highline1.2L (P),64345,2013,418000.0,petrol,1,hatchback,manual,regular,Chennai,2013,2025.0,12.0
+17772980,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,12750,2022,675000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,5.0
+17621813,Hyundai,New Santro 1.1,Sportz MT,23078,2022,531000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16943773,Mahindra,XUV 300,W8 (O) Diesel,26104,2022,1176553.0,diesel,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+16730310,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,38797,2018,532000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,7.0
+17812206,Maruti Suzuki,Swift,ZXI AMT,25028,2022,758000.0,petrol,1,hatchback,automatic,AMT,Chennai,2022,2025.0,7.0
+17577776,Renault,Kwid,1.0 RXT AMT,58266,2017,366000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,2025.0,9.0
+16258027,Hyundai,New i20,Asta 1.0 Turbo IMT,46520,2021,806000.0,petrol,1,hatchback,manual,iMT,Chennai,2021,2025.0,12.0
+16055563,Tata,Tigor,Revotron XZA Plus,72555,2019,561000.0,petrol,1,sedan,automatic,AMT,Chennai,2019,2025.0,12.0
+16474349,Maruti Suzuki,Ertiga,ZDi,79075,2013,642000.0,diesel,1,muv,manual,regular,Chennai,2013,2025.0,12.0
+17472586,Hyundai,Xcent,S Petrol,25707,2019,530000.0,petrol,2,sedan,manual,regular,Chennai,2019,2025.0,12.0
+18278545,Hyundai,Grand i10 Nios,Sportz 1.0 Turbo GDI,14382,2022,728000.0,petrol,1,hatchback,manual,regular,Chennai,2022,,
+17771913,Kia,Carens,Prestige Plus 1.5 Turbo Petrol iMT 7 STR,10440,2023,1443193.0,petrol,1,muv,manual,iMT,Chennai,2023,2025.0,12.0
+16393004,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,61973,2017,480000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+16217850,Honda,WR-V,i-DTEC SV,46648,2021,895000.0,diesel,1,suv,manual,regular,Chennai,2021,2025.0,12.0
+17706412,Renault,Kwid,1.0 RXT AMT,55263,2017,356000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,2025.0,6.0
+17480157,Hyundai,Eon,Magna +,47823,2018,382000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,4.0
+17553403,Maruti Suzuki,Alto 800,LXI Opt S-CNG,36932,2022,432000.0,petrol+cng,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+10818026,Skoda,Octavia,Style Plus 1.8 TSI AT,63844,2016,1118902.0,petrol,2,sedan,automatic,DSG,Chennai,2016,2025.0,12.0
+17061663,Hyundai,Elite i20,Sportz Plus 1.2,106816,2020,627000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,12.0
+17472586,Hyundai,Xcent,S Petrol,25707,2019,530000.0,petrol,2,sedan,manual,regular,Chennai,2019,2025.0,12.0
+18278545,Hyundai,Grand i10 Nios,Sportz 1.0 Turbo GDI,14382,2022,728000.0,petrol,1,hatchback,manual,regular,Chennai,2022,,
+17771913,Kia,Carens,Prestige Plus 1.5 Turbo Petrol iMT 7 STR,10440,2023,1443193.0,petrol,1,muv,manual,iMT,Chennai,2023,2025.0,12.0
+16393004,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,61973,2017,480000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+16217850,Honda,WR-V,i-DTEC SV,46648,2021,895000.0,diesel,1,suv,manual,regular,Chennai,2021,2025.0,12.0
+17706412,Renault,Kwid,1.0 RXT AMT,55263,2017,356000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,2025.0,6.0
+17480157,Hyundai,Eon,Magna +,47823,2018,382000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,4.0
+17553403,Maruti Suzuki,Alto 800,LXI Opt S-CNG,36932,2022,432000.0,petrol+cng,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16353641,Maruti Suzuki,Alto K10,VXI Plus,9728,2023,500000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17792797,Renault,Kwid,1.0L RXT(O) AMT,9959,2019,436000.0,petrol,1,hatchback,automatic,,Chennai,2020,2025.0,12.0
+14601969,Nissan,Magnite,XV Premium Turbo CVT,26218,2021,873000.0,petrol,1,suv,automatic,CVT,Chennai,2021,2025.0,12.0
+16563281,Kia,Seltos,HTX G,9167,2020,1196708.0,petrol,1,suv,manual,regular,Chennai,2020,2025.0,12.0
+17240579,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,55842,2018,479571.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,7.0
+17838462,Volkswagen,Polo,Comfortline 1.2L (P),44514,2014,426000.0,petrol,1,hatchback,manual,regular,Chennai,2014,2025.0,7.0
+17920886,Maruti Suzuki,S-Presso,VXI Plus,42688,2021,435000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,8.0
+16290727,Tata,Tiago,Revotron XZ Plus,23415,2023,662000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2026.0,4.0
+17672054,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,64923,2019,474000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+17128792,Renault,Kwid,RXL(O) 1.0 Petrol MT SCE,5072,2023,479000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2026.0,10.0
+16876542,Maruti Suzuki,Dzire,ZXI Plus AMT,47416,2019,697000.0,petrol,1,sedan,automatic,AMT,Chennai,2019,2025.0,5.0
+13410821,Renault,Kwid,1.0 RXT AMT,85816,2016,316000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,,
+14601969,Nissan,Magnite,XV Premium Turbo CVT,26218,2021,873000.0,petrol,1,suv,automatic,CVT,Chennai,2021,2025.0,12.0
+16563281,Kia,Seltos,HTX G,9167,2020,1196708.0,petrol,1,suv,manual,regular,Chennai,2020,2025.0,12.0
+17240579,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,55842,2018,479571.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,7.0
+17838462,Volkswagen,Polo,Comfortline 1.2L (P),44514,2014,426000.0,petrol,1,hatchback,manual,regular,Chennai,2014,2025.0,7.0
+17920886,Maruti Suzuki,S-Presso,VXI Plus,42688,2021,435000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,8.0
+16290727,Tata,Tiago,Revotron XZ Plus,23415,2023,662000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2026.0,4.0
+17672054,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,64923,2019,474000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+17128792,Renault,Kwid,RXL(O) 1.0 Petrol MT SCE,5072,2023,479000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2026.0,10.0
+16876542,Maruti Suzuki,Dzire,ZXI Plus AMT,47416,2019,697000.0,petrol,1,sedan,automatic,AMT,Chennai,2019,2025.0,5.0
+17784606,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,25284,2018,568000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,10.0
+17786627,Maruti Suzuki,Celerio,VXI AMT,48609,2022,495000.0,petrol,1,hatchback,automatic,AMT,Chennai,2023,2025.0,3.0
+17967730,Hyundai,New i20,Asta (O) 1.0 Turbo DCT,34883,2021,859000.0,petrol,2,hatchback,automatic,DCT,Chennai,2021,2025.0,12.0
+17387107,Mahindra,XUV700,AX 5 Diesel MT 7 STR,16410,2023,1908000.0,diesel,1,suv,manual,regular,Chennai,2023,2025.0,12.0
+17787522,Renault,Kwid,1.0 RXT AMT,29495,2017,354000.0,petrol,2,hatchback,automatic,AMT,Chennai,2017,2025.0,9.0
+16205854,Tata,Tigor,Revotron XZA plus AMT,22003,2021,687000.0,petrol,1,sedan,automatic,AMT,Chennai,2021,2025.0,4.0
+16970076,Maruti Suzuki,Ciaz,Alpha Petrol,30190,2022,979758.0,petrol,1,sedan,manual,regular,Chennai,2022,2025.0,4.0
+17098318,Maruti Suzuki,S-Presso,VXI Plus AMT,46926,2020,443000.0,petrol,1,hatchback,automatic,AMT,Chennai,2020,2025.0,12.0
+17829204,Honda,City,V CVT,14248,2022,1224955.0,petrol,1,sedan,automatic,CVT,Chennai,2022,2025.0,12.0
+17832793,Renault,Kwid,RXL,35718,2016,302000.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,9.0
+17005580,Tata,Tiago,Revotron XZ,72830,2017,398000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+17786627,Maruti Suzuki,Celerio,VXI AMT,48609,2022,495000.0,petrol,1,hatchback,automatic,AMT,Chennai,2023,2025.0,3.0
+17967730,Hyundai,New i20,Asta (O) 1.0 Turbo DCT,34883,2021,859000.0,petrol,2,hatchback,automatic,DCT,Chennai,2021,2025.0,12.0
+17387107,Mahindra,XUV700,AX 5 Diesel MT 7 STR,16410,2023,1908000.0,diesel,1,suv,manual,regular,Chennai,2023,2025.0,12.0
+17787522,Renault,Kwid,1.0 RXT AMT,29495,2017,354000.0,petrol,2,hatchback,automatic,AMT,Chennai,2017,2025.0,9.0
+16205854,Tata,Tigor,Revotron XZA plus AMT,22003,2021,687000.0,petrol,1,sedan,automatic,AMT,Chennai,2021,2025.0,4.0
+16970076,Maruti Suzuki,Ciaz,Alpha Petrol,30190,2022,979758.0,petrol,1,sedan,manual,regular,Chennai,2022,2025.0,4.0
+17098318,Maruti Suzuki,S-Presso,VXI Plus AMT,46926,2020,443000.0,petrol,1,hatchback,automatic,AMT,Chennai,2020,2025.0,12.0
+17829204,Honda,City,V CVT,14248,2022,1224955.0,petrol,1,sedan,automatic,CVT,Chennai,2022,2025.0,12.0
+17832793,Renault,Kwid,RXL,35718,2016,302000.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,9.0
+17005580,Tata,Tiago,Revotron XZ,72830,2017,398000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+17457260,Maruti Suzuki,Alto 800,VXI,13366,2018,319000.0,petrol,2,hatchback,manual,regular,Chennai,2018,2025.0,6.0
+12957001,Renault,Kwid,RXL 1.0 SCE,15148,2022,445000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16785593,Maruti Suzuki,Swift,ZXI,24320,2022,703000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17646867,Renault,Kiger,RXZ 1.0 Turbo MT,73457,2022,678000.0,petrol,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+16558019,Hyundai,New Santro 1.1,Sportz MT,43968,2021,477000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,12.0
+17519930,Mahindra,XUV500,W11 AT,56922,2021,1593683.0,diesel,1,suv,automatic,,Chennai,2021,2025.0,7.0
+16029021,Renault,Kwid,1.0 RXT SCE,5048,2022,482000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16439857,Skoda,Kushaq,Style 1.5L TSI DSG (6 Airbags),49366,2022,1496723.0,petrol,1,suv,automatic,DSG,Chennai,2022,2025.0,7.0
+17303651,Hyundai,Xcent,SX Petrol,36540,2016,466000.0,petrol,1,sedan,manual,regular,Chennai,2016,2025.0,12.0
+15480538,Maruti Suzuki,Celerio,ZXI Plus,22336,2022,566000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17457260,Maruti Suzuki,Alto 800,VXI,13366,2018,319000.0,petrol,2,hatchback,manual,regular,Chennai,2018,2025.0,6.0
+12957001,Renault,Kwid,RXL 1.0 SCE,15148,2022,445000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16785593,Maruti Suzuki,Swift,ZXI,24320,2022,703000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17646867,Renault,Kiger,RXZ 1.0 Turbo MT,73457,2022,678000.0,petrol,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+16558019,Hyundai,New Santro 1.1,Sportz MT,43968,2021,477000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,12.0
+17519930,Mahindra,XUV500,W11 AT,56922,2021,1593683.0,diesel,1,suv,automatic,,Chennai,2021,2025.0,7.0
+16029021,Renault,Kwid,1.0 RXT SCE,5048,2022,482000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16439857,Skoda,Kushaq,Style 1.5L TSI DSG (6 Airbags),49366,2022,1496723.0,petrol,1,suv,automatic,DSG,Chennai,2022,2025.0,7.0
+17303651,Hyundai,Xcent,SX Petrol,36540,2016,466000.0,petrol,1,sedan,manual,regular,Chennai,2016,2025.0,12.0
+15480538,Maruti Suzuki,Celerio,ZXI Plus,22336,2022,566000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17448193,Maruti Suzuki,Celerio,ZXI Plus AMT,25921,2022,629000.0,petrol,1,hatchback,automatic,AMT,Chennai,2022,2025.0,8.0
+17604562,Maruti Suzuki,Celerio,ZXI (O) AMT,62120,2017,427000.0,petrol,2,hatchback,automatic,AMT,Chennai,2017,2025.0,3.0
+17386734,Kia,Sonet,GTX Plus 1.0 DCT,44494,2023,1290683.0,petrol,1,suv,automatic,DCT,Chennai,2023,2026.0,2.0
+17539799,Renault,Kwid,1.0 RXT AMT,44437,2017,379000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,2025.0,12.0
+17778801,Datsun,Redi-GO,T(O) 1.0 AMT,9922,2019,371000.0,petrol,1,hatchback,automatic,AMT,Chennai,2019,2025.0,6.0
+16387560,Honda,Jazz,V,19845,2022,705000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,10.0
+17590704,Maruti Suzuki,Ciaz,Zeta Petrol AT,68202,2017,675000.0,petrol,1,sedan,automatic,Torque Convertor,Chennai,2017,2025.0,12.0
+17595706,Maruti Suzuki,Swift Dzire,VXI AT,82852,2013,414000.0,petrol,1,sedan,automatic,,Chennai,2013,2025.0,12.0
+17684014,MG Motors,Hector,1.5 Smart DCT,23553,2020,1277508.0,petrol,1,suv,automatic,DCT,Chennai,2020,2025.0,12.0
+17510221,Maruti Suzuki,Alto 800,LXI,16516,2018,332000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+17448193,Maruti Suzuki,Celerio,ZXI Plus AMT,25921,2022,629000.0,petrol,1,hatchback,automatic,AMT,Chennai,2022,2025.0,8.0
+17604562,Maruti Suzuki,Celerio,ZXI (O) AMT,62120,2017,427000.0,petrol,2,hatchback,automatic,AMT,Chennai,2017,2025.0,3.0
+17386734,Kia,Sonet,GTX Plus 1.0 DCT,44494,2023,1290683.0,petrol,1,suv,automatic,DCT,Chennai,2023,2026.0,2.0
+17539799,Renault,Kwid,1.0 RXT AMT,44437,2017,379000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,2025.0,12.0
+17778801,Datsun,Redi-GO,T(O) 1.0 AMT,9922,2019,371000.0,petrol,1,hatchback,automatic,AMT,Chennai,2019,2025.0,6.0
+16387560,Honda,Jazz,V,19845,2022,705000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,10.0
+17590704,Maruti Suzuki,Ciaz,Zeta Petrol AT,68202,2017,675000.0,petrol,1,sedan,automatic,Torque Convertor,Chennai,2017,2025.0,12.0
+17595706,Maruti Suzuki,Swift Dzire,VXI AT,82852,2013,414000.0,petrol,1,sedan,automatic,,Chennai,2013,2025.0,12.0
+17684014,MG Motors,Hector,1.5 Smart DCT,23553,2020,1277508.0,petrol,1,suv,automatic,DCT,Chennai,2020,2025.0,12.0
+17510221,Maruti Suzuki,Alto 800,LXI,16516,2018,332000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+15852118,Hyundai,Xcent,SX Petrol,22321,2018,515000.0,petrol,2,sedan,manual,regular,Chennai,2018,2025.0,8.0
+17638623,Maruti Suzuki,Eeco,AC(O) CNG 5 STR,27320,2022,565000.0,petrol+cng,1,muv,manual,regular,Chennai,2022,2025.0,4.0
+17707431,Renault,Triber,RXZ AMT Dual Tone,20421,2021,725000.0,petrol,1,muv,automatic,AMT,Chennai,2021,2025.0,12.0
+17741120,Maruti Suzuki,Alto 800,VXI,21080,2021,365000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,9.0
+17343274,Maruti Suzuki,Swift,ZXI Plus AMT Dual Tone,36361,2021,706000.0,petrol,2,hatchback,automatic,AMT,Chennai,2021,2025.0,4.0
+17014273,Hyundai,New Santro 1.1,Magna,40127,2020,459000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,9.0
+17793819,Tata,Zest,XM Petrol,33144,2016,429000.0,petrol,1,sedan,manual,regular,Chennai,2016,,
+17361038,Hyundai,New Santro 1.1,Sportz AMT,9561,2021,566000.0,petrol,1,hatchback,automatic,AMT,Chennai,2021,2025.0,12.0
+17212083,Renault,Kiger,RXT 1.0 Turbo MT,31359,2021,677000.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,4.0
+15842603,Hyundai,Elite i20,Asta 1.2 (O),72576,2016,550000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,7.0
+15852118,Hyundai,Xcent,SX Petrol,22321,2018,515000.0,petrol,2,sedan,manual,regular,Chennai,2018,2025.0,8.0
+17638623,Maruti Suzuki,Eeco,AC(O) CNG 5 STR,27320,2022,565000.0,petrol+cng,1,muv,manual,regular,Chennai,2022,2025.0,4.0
+17707431,Renault,Triber,RXZ AMT Dual Tone,20421,2021,725000.0,petrol,1,muv,automatic,AMT,Chennai,2021,2025.0,12.0
+17741120,Maruti Suzuki,Alto 800,VXI,21080,2021,365000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,9.0
+17343274,Maruti Suzuki,Swift,ZXI Plus AMT Dual Tone,36361,2021,706000.0,petrol,2,hatchback,automatic,AMT,Chennai,2021,2025.0,4.0
+17014273,Hyundai,New Santro 1.1,Magna,40127,2020,459000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,9.0
+17793819,Tata,Zest,XM Petrol,33144,2016,429000.0,petrol,1,sedan,manual,regular,Chennai,2016,,
+17361038,Hyundai,New Santro 1.1,Sportz AMT,9561,2021,566000.0,petrol,1,hatchback,automatic,AMT,Chennai,2021,2025.0,12.0
+17212083,Renault,Kiger,RXT 1.0 Turbo MT,31359,2021,677000.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,4.0
+15842603,Hyundai,Elite i20,Asta 1.2 (O),72576,2016,550000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,7.0
+15501864,Maruti Suzuki,Alto K10,VXI,16541,2023,450000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17926456,Hyundai,Venue,SX 1.2 Petrol,26627,2022,995000.0,petrol,1,suv,manual,regular,Chennai,2023,2026.0,5.0
+16285298,Maruti Suzuki,Vitara Brezza,ZXI Plus,21542,2022,967000.0,petrol,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+17947534,Renault,Kwid,RXT,86095,2017,297000.0,petrol,2,hatchback,manual,regular,Chennai,2017,2032.0,9.0
+17394193,Datsun,Redi-GO,T,6184,2021,342000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,12.0
+16991723,Maruti Suzuki,Alto 800,VXI Plus,26823,2020,375000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,9.0
+16880366,Hyundai,Elite i20,Asta 1.2,21872,2017,631000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,5.0
+16697958,Renault,Kwid,RXT Opt,36242,2018,368000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,8.0
+17675356,Renault,Kwid,RXT,36606,2018,366000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+17874104,Hyundai,Creta,SX+ SE,88537,2017,777000.0,petrol,1,suv,manual,regular,Chennai,2017,2025.0,10.0
+15501864,Maruti Suzuki,Alto K10,VXI,16541,2023,450000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17926456,Hyundai,Venue,SX 1.2 Petrol,26627,2022,995000.0,petrol,1,suv,manual,regular,Chennai,2023,2026.0,5.0
+16285298,Maruti Suzuki,Vitara Brezza,ZXI Plus,21542,2022,967000.0,petrol,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+17947534,Renault,Kwid,RXT,86095,2017,297000.0,petrol,2,hatchback,manual,regular,Chennai,2017,2032.0,9.0
+17394193,Datsun,Redi-GO,T,6184,2021,342000.0,petrol,1,hatchback,manual,regular,Chennai,2021,2025.0,12.0
+16991723,Maruti Suzuki,Alto 800,VXI Plus,26823,2020,375000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,9.0
+16880366,Hyundai,Elite i20,Asta 1.2,21872,2017,631000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,5.0
+16697958,Renault,Kwid,RXT Opt,36242,2018,368000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,8.0
+17675356,Renault,Kwid,RXT,36606,2018,366000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+17874104,Hyundai,Creta,SX+ SE,88537,2017,777000.0,petrol,1,suv,manual,regular,Chennai,2017,2025.0,10.0
+16719815,Maruti Suzuki,Baleno,Alpha Petrol,48108,2015,557000.0,petrol,1,hatchback,manual,regular,Chennai,2015,2025.0,12.0
+17414826,Hyundai,Elite i20,Asta (O) CVT,52856,2019,736000.0,petrol,1,hatchback,automatic,CVT,Chennai,2019,2025.0,9.0
+17723636,Maruti Suzuki,Alto 800,LXI,26715,2020,346000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,12.0
+17263484,Maruti Suzuki,Swift,VXI AMT,17066,2023,736000.0,petrol,1,hatchback,automatic,AMT,Chennai,2023,2025.0,7.0
+17780889,Maruti Suzuki,Alto 800,VXI,29426,2017,326000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+17211189,Maruti Suzuki,Ignis,Zeta MT Petrol,4850,2023,660000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17800745,Maruti Suzuki,Alto 800,LXI,45679,2016,307000.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,12.0
+16539963,Mahindra,XUV500,W8 AT,74552,2017,1082623.0,diesel,2,suv,automatic,,Chennai,2017,2025.0,9.0
+16909577,Renault,Kiger,RXT AMT,14397,2022,692000.0,petrol,1,suv,automatic,AMT,Chennai,2022,2025.0,12.0
+13712899,Hyundai,Creta,SX OPT IVT Petrol,45160,2020,1446223.0,petrol,1,suv,automatic,CVT,Chennai,2020,2025.0,12.0
+16719815,Maruti Suzuki,Baleno,Alpha Petrol,48108,2015,557000.0,petrol,1,hatchback,manual,regular,Chennai,2015,2025.0,12.0
+17414826,Hyundai,Elite i20,Asta (O) CVT,52856,2019,736000.0,petrol,1,hatchback,automatic,CVT,Chennai,2019,2025.0,9.0
+17723636,Maruti Suzuki,Alto 800,LXI,26715,2020,346000.0,petrol,1,hatchback,manual,regular,Chennai,2020,2025.0,12.0
+17263484,Maruti Suzuki,Swift,VXI AMT,17066,2023,736000.0,petrol,1,hatchback,automatic,AMT,Chennai,2023,2025.0,7.0
+17780889,Maruti Suzuki,Alto 800,VXI,29426,2017,326000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+17211189,Maruti Suzuki,Ignis,Zeta MT Petrol,4850,2023,660000.0,petrol,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+17800745,Maruti Suzuki,Alto 800,LXI,45679,2016,307000.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,12.0
+16539963,Mahindra,XUV500,W8 AT,74552,2017,1082623.0,diesel,2,suv,automatic,,Chennai,2017,2025.0,9.0
+16909577,Renault,Kiger,RXT AMT,14397,2022,692000.0,petrol,1,suv,automatic,AMT,Chennai,2022,2025.0,12.0
+13712899,Hyundai,Creta,SX OPT IVT Petrol,45160,2020,1446223.0,petrol,1,suv,automatic,CVT,Chennai,2020,2025.0,12.0
+16834076,Hyundai,Eon,Magna + (O) 1.0,42119,2016,345000.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,12.0
+15634276,Maruti Suzuki,Swift,ZXI Plus AMT,32535,2018,676000.0,petrol,1,hatchback,automatic,AMT,Chennai,2019,2025.0,12.0
+17405631,Maruti Suzuki,Alto 800,LXI (O),36982,2017,287000.0,petrol,2,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+17354369,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,35491,2018,532000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,4.0
+16961115,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,54074,2015,472000.0,petrol,1,hatchback,automatic,AMT,Chennai,2016,2025.0,8.0
+17568474,Maruti Suzuki,S-Presso,VXI Opt CNG,15616,2022,510000.0,petrol+cng,2,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16420848,Mahindra,XUV700,AX 5 Diesel MT 7 STR,23273,2022,1817000.0,diesel,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+16567564,Toyota,Etios,VX,39412,2018,699000.0,petrol,1,sedan,manual,regular,Chennai,2018,2025.0,4.0
+15925073,Renault,Kwid,1.0 RXT AMT,41407,2017,368000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,2025.0,7.0
+15299062,Mahindra,Scorpio N,Z8 L Diesel 6 STR,30769,2022,1943000.0,diesel,1,suv,manual,regular,Chennai,2023,2025.0,12.0
+16834076,Hyundai,Eon,Magna + (O) 1.0,42119,2016,345000.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,12.0
+15634276,Maruti Suzuki,Swift,ZXI Plus AMT,32535,2018,676000.0,petrol,1,hatchback,automatic,AMT,Chennai,2019,2025.0,12.0
+17405631,Maruti Suzuki,Alto 800,LXI (O),36982,2017,287000.0,petrol,2,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+17354369,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,35491,2018,532000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,4.0
+16961115,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,54074,2015,472000.0,petrol,1,hatchback,automatic,AMT,Chennai,2016,2025.0,8.0
+17568474,Maruti Suzuki,S-Presso,VXI Opt CNG,15616,2022,510000.0,petrol+cng,2,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16420848,Mahindra,XUV700,AX 5 Diesel MT 7 STR,23273,2022,1817000.0,diesel,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+16567564,Toyota,Etios,VX,39412,2018,699000.0,petrol,1,sedan,manual,regular,Chennai,2018,2025.0,4.0
+15925073,Renault,Kwid,1.0 RXT AMT,41407,2017,368000.0,petrol,1,hatchback,automatic,AMT,Chennai,2017,2025.0,7.0
+15299062,Mahindra,Scorpio N,Z8 L Diesel 6 STR,30769,2022,1943000.0,diesel,1,suv,manual,regular,Chennai,2023,2025.0,12.0
+17734303,Honda,City,VX,31017,2021,1160393.0,petrol,1,sedan,manual,regular,Chennai,2021,2025.0,12.0
+16789068,Hyundai,Grand i10 Nios,Magna 1.2 Kappa VTVT,50652,2022,544000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,6.0
+11596321,Renault,Kiger,RXZ Turbo CVT,25183,2021,849000.0,petrol,1,suv,automatic,CVT,Chennai,2021,2025.0,12.0
+17418530,Maruti Suzuki,Alto 800,LXI,39644,2017,324000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,10.0
+16831276,Renault,Kwid,1.0 RXT SCE,13260,2022,480000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16132146,Ford,EcoSport,Titanium + 1.5L Ti-VCT AT,57969,2018,684000.0,petrol,2,suv,automatic,Torque Convertor,Chennai,2018,2025.0,12.0
+15861378,Kia,Seltos,HTX D,38039,2022,1355955.0,diesel,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+17032753,Maruti Suzuki,Alto 800,LXI,26759,2017,299000.0,petrol,2,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+13155501,Mahindra,XUV 300,W6 AMT Diesel,85554,2019,738000.0,diesel,1,suv,automatic,AMT,Chennai,2019,2025.0,12.0
+15634263,Maruti Suzuki,S-Presso,VXI (O),32988,2022,461000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17734303,Honda,City,VX,31017,2021,1160393.0,petrol,1,sedan,manual,regular,Chennai,2021,2025.0,12.0
+16789068,Hyundai,Grand i10 Nios,Magna 1.2 Kappa VTVT,50652,2022,544000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,6.0
+11596321,Renault,Kiger,RXZ Turbo CVT,25183,2021,849000.0,petrol,1,suv,automatic,CVT,Chennai,2021,2025.0,12.0
+17418530,Maruti Suzuki,Alto 800,LXI,39644,2017,324000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,10.0
+16831276,Renault,Kwid,1.0 RXT SCE,13260,2022,480000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+16132146,Ford,EcoSport,Titanium + 1.5L Ti-VCT AT,57969,2018,684000.0,petrol,2,suv,automatic,Torque Convertor,Chennai,2018,2025.0,12.0
+15861378,Kia,Seltos,HTX D,38039,2022,1355955.0,diesel,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+17032753,Maruti Suzuki,Alto 800,LXI,26759,2017,299000.0,petrol,2,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+13155501,Mahindra,XUV 300,W6 AMT Diesel,85554,2019,738000.0,diesel,1,suv,automatic,AMT,Chennai,2019,2025.0,12.0
+15634263,Maruti Suzuki,S-Presso,VXI (O),32988,2022,461000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+15861760,Honda,Jazz,VX CVT,31317,2021,776000.0,petrol,1,hatchback,automatic,CVT,Chennai,2021,2025.0,6.0
+17797102,Maruti Suzuki,Celerio,ZXI Plus,6886,2022,597000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+14626110,Hyundai,i20 N Line,N8 1.0 Turbo DCT,33709,2021,993000.0,petrol,1,hatchback,automatic,DCT,Chennai,2021,2025.0,12.0
+17348705,Skoda,Kushaq,Style 1.0L TSI MT,25121,2021,1252000.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,8.0
+17334771,Volkswagen,Polo,Highline Plus 1.0 MPI,47689,2018,651000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+15603451,Hyundai,Verna,SX Opt IVT Petrol,33263,2021,1030000.0,petrol,3,sedan,automatic,CVT,Chennai,2021,2025.0,12.0
+15634271,Maruti Suzuki,S-Presso,VXI Plus,42967,2022,450000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17336631,Maruti Suzuki,Dzire,ZXI Plus AMT,49802,2021,759000.0,petrol,1,sedan,automatic,AMT,Chennai,2021,2025.0,12.0
+15924203,Tata,Altroz,XZ Plus (S),25078,2023,958000.0,diesel,1,hatchback,manual,regular,Chennai,2023,2026.0,8.0
+14479930,Volkswagen,Vento,Highline 1.0L TSI,37896,2021,853000.0,petrol,1,sedan,automatic,,Chennai,2021,2025.0,12.0
+15861760,Honda,Jazz,VX CVT,31317,2021,776000.0,petrol,1,hatchback,automatic,CVT,Chennai,2021,2025.0,6.0
+17797102,Maruti Suzuki,Celerio,ZXI Plus,6886,2022,597000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+14626110,Hyundai,i20 N Line,N8 1.0 Turbo DCT,33709,2021,993000.0,petrol,1,hatchback,automatic,DCT,Chennai,2021,2025.0,12.0
+17348705,Skoda,Kushaq,Style 1.0L TSI MT,25121,2021,1252000.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,8.0
+17334771,Volkswagen,Polo,Highline Plus 1.0 MPI,47689,2018,651000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+15603451,Hyundai,Verna,SX Opt IVT Petrol,33263,2021,1030000.0,petrol,3,sedan,automatic,CVT,Chennai,2021,2025.0,12.0
+15634271,Maruti Suzuki,S-Presso,VXI Plus,42967,2022,450000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17336631,Maruti Suzuki,Dzire,ZXI Plus AMT,49802,2021,759000.0,petrol,1,sedan,automatic,AMT,Chennai,2021,2025.0,12.0
+15924203,Tata,Altroz,XZ Plus (S),25078,2023,958000.0,diesel,1,hatchback,manual,regular,Chennai,2023,2026.0,8.0
+14479930,Volkswagen,Vento,Highline 1.0L TSI,37896,2021,853000.0,petrol,1,sedan,automatic,,Chennai,2021,2025.0,12.0
+17317873,Maruti Suzuki,Alto 800,LXI,71273,2018,297000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,6.0
+17181593,Renault,Kwid,Climber 1.0l SCE Petrol MT,12016,2023,537000.0,petrol,1,hatchback,manual,regular,Chennai,2024,2025.0,6.0
+13917700,Hyundai,Venue,SX Plus 1.0 Turbo DCT,41265,2020,911000.0,petrol,1,suv,automatic,DCT,Chennai,2020,2025.0,12.0
+16970305,Renault,Kwid,1.0 RXT AMT Opt,53528,2018,405000.0,petrol,1,hatchback,automatic,AMT,Chennai,2018,2025.0,10.0
+13114554,Honda,City,VX Petrol MT,13678,2023,1296955.0,petrol,1,sedan,manual,regular,Chennai,2023,2025.0,12.0
+16559948,Hyundai,Eon,Sportz,15038,2017,395000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+16283382,Hyundai,Grand i10 Nios,Sportz 1.2 AMT,12469,2023,743000.0,petrol,1,hatchback,automatic,AMT,Chennai,2023,2026.0,2.0
+17351985,Hyundai,Elite i20,Magna Executive 1.2,38031,2017,532000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+15577137,Maruti Suzuki,S-Presso,VXI (O),10620,2022,429000.0,petrol,2,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17128709,Maruti Suzuki,Alto 800,VXI,31763,2014,284000.0,petrol,1,hatchback,manual,regular,Chennai,2014,,
+17317873,Maruti Suzuki,Alto 800,LXI,71273,2018,297000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,6.0
+17181593,Renault,Kwid,Climber 1.0l SCE Petrol MT,12016,2023,537000.0,petrol,1,hatchback,manual,regular,Chennai,2024,2025.0,6.0
+13917700,Hyundai,Venue,SX Plus 1.0 Turbo DCT,41265,2020,911000.0,petrol,1,suv,automatic,DCT,Chennai,2020,2025.0,12.0
+16970305,Renault,Kwid,1.0 RXT AMT Opt,53528,2018,405000.0,petrol,1,hatchback,automatic,AMT,Chennai,2018,2025.0,10.0
+13114554,Honda,City,VX Petrol MT,13678,2023,1296955.0,petrol,1,sedan,manual,regular,Chennai,2023,2025.0,12.0
+16559948,Hyundai,Eon,Sportz,15038,2017,395000.0,petrol,1,hatchback,manual,regular,Chennai,2018,2025.0,12.0
+16283382,Hyundai,Grand i10 Nios,Sportz 1.2 AMT,12469,2023,743000.0,petrol,1,hatchback,automatic,AMT,Chennai,2023,2026.0,2.0
+17351985,Hyundai,Elite i20,Magna Executive 1.2,38031,2017,532000.0,petrol,1,hatchback,manual,regular,Chennai,2017,2025.0,12.0
+15577137,Maruti Suzuki,S-Presso,VXI (O),10620,2022,429000.0,petrol,2,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17128709,Maruti Suzuki,Alto 800,VXI,31763,2014,284000.0,petrol,1,hatchback,manual,regular,Chennai,2014,,
+16724013,Maruti Suzuki,Alto 800,VXI,80933,2014,257000.0,petrol,1,hatchback,manual,regular,Chennai,2014,2025.0,8.0
+12270595,Nissan,Sunny,XV Diesel,52812,2020,780000.0,diesel,1,sedan,manual,regular,Chennai,2020,2025.0,12.0
+12514024,Mahindra,XUV700,AX 5 Petrol AT 5 STR,29366,2022,1746000.0,petrol,1,suv,automatic,Torque Convertor,Chennai,2022,2025.0,12.0
+15744090,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,21886,2019,601000.0,petrol,1,hatchback,automatic,Torque Convertor,Chennai,2019,2025.0,6.0
+15020764,Maruti Suzuki,Dzire,ZXI AMT,63524,2018,646000.0,petrol,1,sedan,automatic,AMT,Chennai,2018,2025.0,12.0
+15730300,Maruti Suzuki,Celerio,VXI,68940,2022,434000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17027176,Honda,Jazz,VX,50329,2016,552722.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,12.0
+18250293,Hyundai,Venue,S+ 1.2,46080,2021,752000.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,12.0
+17332079,Tata,Altroz,XZ 1.5,20421,2023,877000.0,diesel,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+15543207,Renault,Kiger,RXZ Turbo CVT,20521,2022,897000.0,petrol,1,suv,automatic,CVT,Chennai,2022,2025.0,12.0
+16724013,Maruti Suzuki,Alto 800,VXI,80933,2014,257000.0,petrol,1,hatchback,manual,regular,Chennai,2014,2025.0,8.0
+12270595,Nissan,Sunny,XV Diesel,52812,2020,780000.0,diesel,1,sedan,manual,regular,Chennai,2020,2025.0,12.0
+12514024,Mahindra,XUV700,AX 5 Petrol AT 5 STR,29366,2022,1746000.0,petrol,1,suv,automatic,Torque Convertor,Chennai,2022,2025.0,12.0
+15744090,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,21886,2019,601000.0,petrol,1,hatchback,automatic,Torque Convertor,Chennai,2019,2025.0,6.0
+15020764,Maruti Suzuki,Dzire,ZXI AMT,63524,2018,646000.0,petrol,1,sedan,automatic,AMT,Chennai,2018,2025.0,12.0
+15730300,Maruti Suzuki,Celerio,VXI,68940,2022,434000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17027176,Honda,Jazz,VX,50329,2016,552722.0,petrol,1,hatchback,manual,regular,Chennai,2016,2025.0,12.0
+18250293,Hyundai,Venue,S+ 1.2,46080,2021,752000.0,petrol,1,suv,manual,regular,Chennai,2021,2025.0,12.0
+17332079,Tata,Altroz,XZ 1.5,20421,2023,877000.0,diesel,1,hatchback,manual,regular,Chennai,2023,2025.0,12.0
+15543207,Renault,Kiger,RXZ Turbo CVT,20521,2022,897000.0,petrol,1,suv,automatic,CVT,Chennai,2022,2025.0,12.0
+17051920,Volkswagen,Vento,1.6L All Star Petrol,62716,2017,612000.0,petrol,1,sedan,manual,regular,Chennai,2018,2025.0,12.0
+15602012,Renault,Triber,RXZ AMT,26872,2022,747000.0,petrol,1,muv,automatic,AMT,Chennai,2022,2025.0,12.0
+15303017,Maruti Suzuki,Baleno,Zeta AT Petrol,52504,2018,650000.0,petrol,1,hatchback,automatic,CVT,Chennai,2018,2025.0,12.0
+17317857,Maruti Suzuki,Alto 800,LXI,60904,2013,249000.0,petrol,1,hatchback,manual,regular,Chennai,2013,2025.0,8.0
+12333941,Renault,Kiger,RXZ 1.0 Turbo MT,23849,2023,819000.0,petrol,1,suv,manual,regular,Chennai,2023,2025.0,12.0
+17704795,Kia,Seltos,GTX Plus,50186,2021,1362348.0,petrol,1,suv,manual,regular,Chennai,2021,,
+15135977,Maruti Suzuki,Swift Dzire,VXI (O),39463,2016,511000.0,petrol,1,sedan,manual,regular,Chennai,2016,2025.0,12.0
+14990076,Maruti Suzuki,Baleno,Zeta AT Petrol,40250,2018,667000.0,petrol,1,hatchback,automatic,CVT,Chennai,2018,2025.0,12.0
+16193099,Maruti Suzuki,Swift,ZXI Plus,30698,2022,747000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17174475,Skoda,Slavia,Ambition 1.0L TSI MT,26004,2023,1196000.0,petrol,1,sedan,manual,regular,Chennai,2023,2025.0,5.0
+17051920,Volkswagen,Vento,1.6L All Star Petrol,62716,2017,612000.0,petrol,1,sedan,manual,regular,Chennai,2018,2025.0,12.0
+15602012,Renault,Triber,RXZ AMT,26872,2022,747000.0,petrol,1,muv,automatic,AMT,Chennai,2022,2025.0,12.0
+15303017,Maruti Suzuki,Baleno,Zeta AT Petrol,52504,2018,650000.0,petrol,1,hatchback,automatic,CVT,Chennai,2018,2025.0,12.0
+17317857,Maruti Suzuki,Alto 800,LXI,60904,2013,249000.0,petrol,1,hatchback,manual,regular,Chennai,2013,2025.0,8.0
+12333941,Renault,Kiger,RXZ 1.0 Turbo MT,23849,2023,819000.0,petrol,1,suv,manual,regular,Chennai,2023,2025.0,12.0
+17704795,Kia,Seltos,GTX Plus,50186,2021,1362348.0,petrol,1,suv,manual,regular,Chennai,2021,,
+15135977,Maruti Suzuki,Swift Dzire,VXI (O),39463,2016,511000.0,petrol,1,sedan,manual,regular,Chennai,2016,2025.0,12.0
+14990076,Maruti Suzuki,Baleno,Zeta AT Petrol,40250,2018,667000.0,petrol,1,hatchback,automatic,CVT,Chennai,2018,2025.0,12.0
+16193099,Maruti Suzuki,Swift,ZXI Plus,30698,2022,747000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17174475,Skoda,Slavia,Ambition 1.0L TSI MT,26004,2023,1196000.0,petrol,1,sedan,manual,regular,Chennai,2023,2025.0,5.0
+14746995,Maruti Suzuki,Alto K10,VXI Plus,8453,2024,516000.0,petrol,1,hatchback,manual,regular,Chennai,2024,2027.0,1.0
+13807488,Maruti Suzuki,Alto 800,VXI,27367,2019,346000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+12977985,Hyundai,Creta,SX OPT Turbo DCT Petrol,77532,2020,1274000.0,petrol,1,suv,automatic,DCT,Chennai,2020,2025.0,12.0
+17645267,Tata,Punch,Accomplished AMT,14743,2023,794000.0,petrol,1,suv,automatic,AMT,Chennai,2023,2025.0,12.0
+16680446,Honda,Jazz,V CVT,29331,2017,564000.0,petrol,2,hatchback,automatic,CVT,Chennai,2017,2025.0,7.0
+12428191,Renault,Kwid,1.0 RXT SCE,22441,2022,457000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+13440920,Hyundai,Creta,SX OPT Turbo DCT Petrol,25214,2021,1513000.0,petrol,1,suv,automatic,DCT,Chennai,2021,2025.0,12.0
+17889903,Tata,Altroz,XT 1.2,14943,2022,698000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17392939,Honda,Amaze,1.2 V CVT Petrol,70836,2018,602000.0,petrol,1,sedan,automatic,CVT,Chennai,2019,2025.0,12.0
+15262748,Maruti Suzuki,Alto K10,VXI,71064,2013,248000.0,petrol,1,hatchback,manual,regular,Chennai,2013,2025.0,12.0
+14746995,Maruti Suzuki,Alto K10,VXI Plus,8453,2024,516000.0,petrol,1,hatchback,manual,regular,Chennai,2024,2027.0,1.0
+13807488,Maruti Suzuki,Alto 800,VXI,27367,2019,346000.0,petrol,1,hatchback,manual,regular,Chennai,2019,2025.0,12.0
+12977985,Hyundai,Creta,SX OPT Turbo DCT Petrol,77532,2020,1274000.0,petrol,1,suv,automatic,DCT,Chennai,2020,2025.0,12.0
+17645267,Tata,Punch,Accomplished AMT,14743,2023,794000.0,petrol,1,suv,automatic,AMT,Chennai,2023,2025.0,12.0
+16680446,Honda,Jazz,V CVT,29331,2017,564000.0,petrol,2,hatchback,automatic,CVT,Chennai,2017,2025.0,7.0
+12428191,Renault,Kwid,1.0 RXT SCE,22441,2022,457000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+13440920,Hyundai,Creta,SX OPT Turbo DCT Petrol,25214,2021,1513000.0,petrol,1,suv,automatic,DCT,Chennai,2021,2025.0,12.0
+17889903,Tata,Altroz,XT 1.2,14943,2022,698000.0,petrol,1,hatchback,manual,regular,Chennai,2022,2025.0,12.0
+17392939,Honda,Amaze,1.2 V CVT Petrol,70836,2018,602000.0,petrol,1,sedan,automatic,CVT,Chennai,2019,2025.0,12.0
+15262748,Maruti Suzuki,Alto K10,VXI,71064,2013,248000.0,petrol,1,hatchback,manual,regular,Chennai,2013,2025.0,12.0
+17965847,Hyundai,New i20,Sportz 1.2 IVT,22077,2021,772000.0,petrol,1,hatchback,automatic,CVT,Chennai,2021,2025.0,9.0
+17681896,Hyundai,Verna,1.6 VTVT SX,58894,2017,752000.0,petrol,1,sedan,manual,regular,Chennai,2017,2025.0,12.0
+17855322,Hyundai,Elite i20,Asta 1.2,76121,2014,385000.0,petrol,3,hatchback,manual,regular,Chennai,2014,2025.0,8.0
+17631050,Mahindra,Scorpio Classic,S MT 9STR,34335,2023,1391683.0,diesel,1,suv,manual,regular,Chennai,2023,2025.0,12.0
+17640559,Hyundai,Verna,SX Petrol,12706,2020,962000.0,petrol,1,sedan,manual,regular,Chennai,2020,2025.0,12.0
+17288586,Kia,Seltos,HTK Plus D,50415,2019,1032000.0,diesel,1,suv,manual,regular,Chennai,2019,2025.0,12.0
+15603882,Tata,Harrier,XM,39052,2019,989000.0,diesel,1,suv,manual,regular,Chennai,2019,2025.0,6.0
+17201635,Maruti Suzuki,New Ertiga,VXI AT,41055,2019,739000.0,petrol,3,muv,automatic,,Chennai,2019,2025.0,7.0
+17838228,Maruti Suzuki,Brezza,ZXI,45093,2022,959000.0,petrol,1,suv,manual,regular,Chennai,2022,2025.0,12.0
+17734796,Volkswagen,Polo,GT TSI 1.0,22912,2021,839000.0,petrol,2,hatchback,automatic,Torque Convertor,Chennai,2021,2025.0,3.0

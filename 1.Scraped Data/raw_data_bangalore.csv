@@ -1,0 +1,1021 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+17272491,Tata,Nexon,XZA Plus AMT Petrol,15239,2022,1038000.0,petrol,1,suv,automatic,AMT,Bangalore,2022,2025.0,12.0
+16287689,Hyundai,Venue,SX Plus 1.0 Turbo DCT,38521,2020,1003066.0,petrol,1,suv,automatic,DCT,Bangalore,2020,2025.0,12.0
+16595658,Hyundai,Venue,SX Plus 1.0 Turbo DCT,46245,2019,956000.0,petrol,1,suv,automatic,DCT,Bangalore,2019,2025.0,12.0
+17077733,Kia,Seltos,HTX G,78235,2020,1100955.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,12.0
+17569302,Renault,Kiger,RXZ Turbo CVT,36150,2022,941000.0,petrol,1,suv,automatic,CVT,Bangalore,2022,2025.0,12.0
+17789871,Kia,Sonet,HTX Plus 1.0 iMT,48032,2020,997000.0,petrol,1,suv,manual,iMT,Bangalore,2020,2025.0,12.0
+17127399,Hyundai,Venue,SX 1.0 (O) Turbo,38727,2019,897000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,12.0
+18150738,Honda,Jazz,ZX,21815,2021,839000.0,petrol,1,hatchback,manual,regular,Bangalore,2021,2025.0,11.0
+17722372,Hyundai,Eon,Era + (O),52108,2016,278000.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17421414,Maruti Suzuki,Ciaz,Alpha AT Petrol,79390,2021,895000.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2021,2025.0,12.0
+17344336,Hyundai,Elite i20,Asta 1.2 (O),103380,2018,648000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,9.0
+17504026,Hyundai,Eon,Magna +,37366,2014,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2014,2025.0,12.0
+13548507,Mahindra,XUV500,W8 AT,70863,2017,1130093.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,12.0
+13386645,Mercedes-Benz,E-Class,E200 Expression,39275,2018,3888358.0,petrol,1,sedan,automatic,,Bangalore,2018,2025.0,12.0
+15212069,Audi,Q3,35 TDI quattro Premium Plus,54556,2017,2090558.0,diesel,2,suv,automatic,,Bangalore,2017,2025.0,12.0
+15326912,Tata EV,Nexon EV,XZ Plus LUX,29694,2020,997000.0,electric,1,suv,automatic,,Bangalore,2021,2025.0,12.0
+13413316,Jaguar,XE,Prestige Diesel,23017,2018,2878358.0,diesel,1,sedan,automatic,,Bangalore,2019,2025.0,12.0
+15597304,Tata EV,Nexon EV,XZ Plus LUX,62965,2021,940000.0,electric,1,suv,automatic,,Bangalore,2021,2025.0,12.0
+16383695,Audi,A3,35 TDI Premium + Sunroof,35731,2015,1494658.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+15675671,Tata EV,Tigor EV,XZ Plus,21123,2022,875000.0,electric,2,sedan,automatic,,Bangalore,2022,2025.0,12.0
+17497619,Kia,Sonet,GTX Plus 1.0 iMT,37060,2022,1176553.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17407051,Renault,Kwid,1.0 RXT AMT Opt,17356,2019,420000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2019,2025.0,9.0
+17640292,Maruti Suzuki,S-Cross,Zeta 1.5 AT,49259,2021,951000.0,petrol,1,suv,automatic,,Bangalore,2021,2025.0,8.0
+16823067,Kia,Sonet,GTX Plus 1.0 iMT,15841,2021,1120000.0,petrol,1,suv,manual,iMT,Bangalore,2021,2025.0,12.0
+17993947,Hyundai,Venue,SX 1.0  Turbo iMT,15547,2021,958000.0,petrol,1,suv,manual,iMT,Bangalore,2021,2025.0,12.0
+16478512,Hyundai,Venue,SX 1.0  Turbo iMT,30268,2021,908000.0,petrol,1,suv,manual,iMT,Bangalore,2021,2025.0,12.0
+16403925,Hyundai,Venue,SX Plus 1.0 Turbo DCT,32827,2019,997000.0,petrol,1,suv,automatic,DCT,Bangalore,2020,2025.0,3.0
+17853995,Kia,Seltos,GTX Plus DCT,46632,2019,1342148.0,petrol,1,suv,automatic,DCT,Bangalore,2019,2025.0,12.0
+16236036,Kia,Seltos,GTX Plus DCT,98792,2020,1311000.0,petrol,1,suv,automatic,DCT,Bangalore,2020,2025.0,7.0
+16973887,Honda,BR-V,V CVT Petrol,131702,2016,639000.0,petrol,1,suv,automatic,CVT,Bangalore,2016,2025.0,9.0
+17685337,Hyundai,Verna,1.6 VTVT SX (O) AT,115082,2018,862000.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2018,2025.0,7.0
+17696230,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,37002,2018,526000.0,petrol,2,hatchback,manual,regular,Bangalore,2019,2025.0,12.0
+15306963,Maruti Suzuki,Baleno,Zeta Petrol,66280,2017,619000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+15212069,Audi,Q3,35 TDI quattro Premium Plus,54556,2017,2090558.0,diesel,2,suv,automatic,,Bangalore,2017,2025.0,12.0
+15326912,Tata EV,Nexon EV,XZ Plus LUX,29694,2020,997000.0,electric,1,suv,automatic,,Bangalore,2021,2025.0,12.0
+13413316,Jaguar,XE,Prestige Diesel,23017,2018,2878358.0,diesel,1,sedan,automatic,,Bangalore,2019,2025.0,12.0
+15597304,Tata EV,Nexon EV,XZ Plus LUX,62965,2021,940000.0,electric,1,suv,automatic,,Bangalore,2021,2025.0,12.0
+16383695,Audi,A3,35 TDI Premium + Sunroof,35731,2015,1494658.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+15675671,Tata EV,Tigor EV,XZ Plus,21123,2022,875000.0,electric,2,sedan,automatic,,Bangalore,2022,2025.0,12.0
+12924948,Audi,A6,2.0 TDI Premium Plus,39812,2014,1747158.0,diesel,1,sedan,automatic,,Bangalore,2014,2025.0,12.0
+15868974,Hyundai,Elite i20,Sportz 1.2,34544,2017,642000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,,
+16946057,Hyundai,Creta,1.6 SX Plus Auto Petrol,35042,2017,1049000.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,8.0
+17168790,Kia,Sonet,GTX Plus 1.0 iMT,30394,2022,1189654.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+18234385,Renault,Kiger,RXZ Turbo CVT,26164,2021,855000.0,petrol,1,suv,automatic,CVT,Bangalore,2021,2025.0,8.0
+17610013,Maruti Suzuki,Celerio,ZXI (O) AMT,52989,2016,451000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+17354590,Toyota,Glanza,V AMT,89212,2022,801000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,12.0
+17481996,Renault,Kwid,CLIMBER 1.0 AMT,37592,2019,449000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2019,2025.0,10.0
+17939765,Maruti Suzuki,Swift,ZXI Plus,23277,2018,699000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+17702620,Toyota,Glanza,V AMT,30721,2022,795000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2022,2025.0,6.0
+17603598,Kia,Seltos,HTK Plus AT D,117476,2021,1179583.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,7.0
+14682420,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,44396,2017,511000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+16077996,Honda,Brio,S MT,57883,2013,319000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+16302816,Renault,Duster,110 PS RxZ 4x2 MT,146298,2015,526000.0,diesel,2,suv,manual,regular,Bangalore,2015,2025.0,12.0
+15326912,Tata EV,Nexon EV,XZ Plus LUX,29694,2020,997000.0,electric,1,suv,automatic,,Bangalore,2021,2025.0,12.0
+13413316,Jaguar,XE,Prestige Diesel,23017,2018,2878358.0,diesel,1,sedan,automatic,,Bangalore,2019,2025.0,12.0
+15597304,Tata EV,Nexon EV,XZ Plus LUX,62965,2021,940000.0,electric,1,suv,automatic,,Bangalore,2021,2025.0,12.0
+16383695,Audi,A3,35 TDI Premium + Sunroof,35731,2015,1494658.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+15675671,Tata EV,Tigor EV,XZ Plus,21123,2022,875000.0,electric,2,sedan,automatic,,Bangalore,2022,2025.0,12.0
+12924948,Audi,A6,2.0 TDI Premium Plus,39812,2014,1747158.0,diesel,1,sedan,automatic,,Bangalore,2014,2025.0,12.0
+15693704,Jeep,Compass,Model S (O) 1.4 Petrol DCT,27368,2021,2393558.0,petrol,1,suv,automatic,DCT,Bangalore,2021,2025.0,12.0
+17212544,Tata,Altroz,XZ Plus 1.2 Turbo DT,18795,2021,833000.0,petrol,1,hatchback,manual,regular,Bangalore,2021,2025.0,12.0
+17467364,Hyundai,Venue,SX Plus 1.0 Turbo DCT,40278,2020,1030971.0,petrol,1,suv,automatic,DCT,Bangalore,2020,2025.0,12.0
+18154865,Honda,Jazz,V,49829,2016,503000.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,5.0
+11907569,Hyundai,Venue,SX 1.0 (O) Turbo iMT,50322,2020,946000.0,petrol,1,suv,manual,iMT,Bangalore,2020,2025.0,12.0
+18175095,Hyundai,Creta,1.6 SX Plus Petrol,59309,2017,874000.0,petrol,2,suv,manual,regular,Bangalore,2017,2025.0,8.0
+18092106,Maruti Suzuki,Celerio,VXI (O),42163,2017,432000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,4.0
+17268379,Maruti Suzuki,Ciaz,ZXI+ RS,87878,2016,604000.0,petrol,1,sedan,manual,regular,Bangalore,2016,2025.0,9.0
+17333425,Honda,Jazz,V,64427,2016,494000.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,9.0
+17710304,Hyundai,i20,Asta 1.2,51737,2012,402000.0,petrol,2,hatchback,manual,regular,Bangalore,2012,2025.0,8.0
+15284633,Renault,Kwid,CLIMBER 1.0,43364,2018,327000.0,petrol,3,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+17054101,Hyundai,Elite i20,Asta 1.2,92863,2015,558000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,10.0
+15325053,Skoda,Fabia,Elegance 1.2 MPI,102632,2013,381000.0,petrol,1,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17222560,Renault,Duster,85 PS RxL,111462,2015,587000.0,diesel,1,suv,manual,regular,Bangalore,2015,2025.0,7.0
+13413316,Jaguar,XE,Prestige Diesel,23017,2018,2878358.0,diesel,1,sedan,automatic,,Bangalore,2019,2025.0,12.0
+15597304,Tata EV,Nexon EV,XZ Plus LUX,62965,2021,940000.0,electric,1,suv,automatic,,Bangalore,2021,2025.0,12.0
+16383695,Audi,A3,35 TDI Premium + Sunroof,35731,2015,1494658.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+15675671,Tata EV,Tigor EV,XZ Plus,21123,2022,875000.0,electric,2,sedan,automatic,,Bangalore,2022,2025.0,12.0
+12924948,Audi,A6,2.0 TDI Premium Plus,39812,2014,1747158.0,diesel,1,sedan,automatic,,Bangalore,2014,2025.0,12.0
+15693704,Jeep,Compass,Model S (O) 1.4 Petrol DCT,27368,2021,2393558.0,petrol,1,suv,automatic,DCT,Bangalore,2021,2025.0,12.0
+15469838,Audi,A4,35 TDI S Line,47551,2014,1706758.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+17808682,Maruti Suzuki,Wagon R 1.0,VXI AMT,37185,2016,458000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,7.0
+17692533,Renault,Kiger,RXZ Turbo CVT,26881,2021,861000.0,petrol,1,suv,automatic,CVT,Bangalore,2021,2025.0,11.0
+17870393,Skoda,Slavia,Ambition 1.0L TSI MT,22580,2022,1193694.0,petrol,1,sedan,manual,regular,Bangalore,2022,2025.0,12.0
+18110406,Hyundai,Venue,SX 1.0  Turbo iMT,35151,2021,926000.0,petrol,1,suv,manual,iMT,Bangalore,2021,2025.0,8.0
+16027837,Hyundai,Venue,SX 1.0  Turbo iMT,44292,2021,898000.0,petrol,1,suv,manual,iMT,Bangalore,2021,2025.0,4.0
+18208190,Honda,BR-V,VX MT Petrol,61339,2017,781000.0,petrol,2,suv,manual,regular,Bangalore,2017,2025.0,10.0
+17327733,Hyundai,Creta,1.6 SX AT VTVT,83373,2019,1111000.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2019,2025.0,12.0
+17460137,Renault,Duster,85 PS RXZ 4X2 MT,89386,2017,729000.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,5.0
+15793565,Hyundai,Creta,1.6 SX Plus,111147,2016,854000.0,diesel,1,suv,manual,regular,Bangalore,2016,2025.0,12.0
+16199986,Mahindra,Scorpio N,Z8 L 4WD Diesel AT 7 STR,31087,2022,2058902.0,diesel,2,suv,automatic,Torque Convertor,Bangalore,2023,2025.0,12.0
+15824754,Maruti Suzuki,Dzire,VXI AMT,102454,2019,597000.0,petrol,1,sedan,automatic,AMT,Bangalore,2019,2025.0,12.0
+18065714,Maruti Suzuki,Vitara Brezza,ZDI PLUS AT,91738,2018,847000.0,diesel,1,suv,automatic,AMT,Bangalore,2018,2025.0,6.0
+17946941,Hyundai,Grand i10,Sportz (O) AT 1.2 Kappa VTVT,45271,2017,539000.0,petrol,2,hatchback,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+15597304,Tata EV,Nexon EV,XZ Plus LUX,62965,2021,940000.0,electric,1,suv,automatic,,Bangalore,2021,2025.0,12.0
+16383695,Audi,A3,35 TDI Premium + Sunroof,35731,2015,1494658.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+15675671,Tata EV,Tigor EV,XZ Plus,21123,2022,875000.0,electric,2,sedan,automatic,,Bangalore,2022,2025.0,12.0
+12924948,Audi,A6,2.0 TDI Premium Plus,39812,2014,1747158.0,diesel,1,sedan,automatic,,Bangalore,2014,2025.0,12.0
+15693704,Jeep,Compass,Model S (O) 1.4 Petrol DCT,27368,2021,2393558.0,petrol,1,suv,automatic,DCT,Bangalore,2021,2025.0,12.0
+15469838,Audi,A4,35 TDI S Line,47551,2014,1706758.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+15255752,Audi,Q5,2.0 TDI quattro Technology Pack,45096,2015,2373358.0,diesel,1,suv,automatic,,Bangalore,2016,2025.0,7.0
+16107080,Kia,Sonet,HTX 1.0 iMT,3344,2023,1160393.0,petrol,1,suv,manual,iMT,Bangalore,2023,2026.0,3.0
+18106724,Kia,Sonet,HTX 1.0 iMT,17481,2022,1073533.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17225881,Hyundai,Venue,S 1.0 Turbo DCT,30595,2020,862000.0,petrol,1,suv,automatic,DCT,Bangalore,2020,2025.0,12.0
+17901119,Renault,Kwid,RXT,28971,2016,308000.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,8.0
+15257973,Maruti Suzuki,Baleno,Alpha Petrol,29557,2016,639000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+16040955,Maruti Suzuki,S-Presso,VXI Opt CNG,26129,2021,527000.0,petrol+cng,1,hatchback,manual,regular,Bangalore,2021,2025.0,8.0
+17156143,Datsun,GO,Remix,52743,2018,325000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,7.0
+17874556,Maruti Suzuki,Baleno,Zeta Petrol,58780,2017,615000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,5.0
+17766556,Volkswagen,Polo,Comfortline 1.2L (P),98079,2013,385000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,9.0
+16445561,Maruti Suzuki,Celerio,ZXI (O) AMT,51549,2018,509000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2019,2025.0,12.0
+17991640,Hyundai,Creta,1.6 SX AT VTVT,61301,2019,1078583.0,petrol,2,suv,automatic,Torque Convertor,Bangalore,2019,2025.0,3.0
+17788008,Hyundai,Eon,Era +,61798,2015,257000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17852107,Maruti Suzuki,Celerio,ZXI (O) AMT,45846,2017,405000.0,petrol,3,hatchback,automatic,AMT,Bangalore,2017,2025.0,12.0
+16383695,Audi,A3,35 TDI Premium + Sunroof,35731,2015,1494658.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+15675671,Tata EV,Tigor EV,XZ Plus,21123,2022,875000.0,electric,2,sedan,automatic,,Bangalore,2022,2025.0,12.0
+12924948,Audi,A6,2.0 TDI Premium Plus,39812,2014,1747158.0,diesel,1,sedan,automatic,,Bangalore,2014,2025.0,12.0
+15693704,Jeep,Compass,Model S (O) 1.4 Petrol DCT,27368,2021,2393558.0,petrol,1,suv,automatic,DCT,Bangalore,2021,2025.0,12.0
+15469838,Audi,A4,35 TDI S Line,47551,2014,1706758.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+15255752,Audi,Q5,2.0 TDI quattro Technology Pack,45096,2015,2373358.0,diesel,1,suv,automatic,,Bangalore,2016,2025.0,7.0
+15572285,BMW,3 Series,320d Sport Line,69201,2015,1868358.0,diesel,2,sedan,automatic,,Bangalore,2015,2025.0,12.0
+18059275,Honda,Jazz,V,41252,2016,507000.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,5.0
+17900561,Hyundai,Creta,1.6 SX AT VTVT,49382,2019,1196655.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2019,2025.0,12.0
+16705303,Hyundai,Venue,SX 1.0  Turbo iMT,19502,2022,1005047.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,5.0
+17159107,Maruti Suzuki,Ciaz,Alpha AT Petrol,53536,2019,859000.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2019,2025.0,12.0
+14715387,Renault,Duster,110 PS RXZ 4X2 MT,56252,2017,795000.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,8.0
+17776157,Kia,Seltos,GTX Plus DCT,43987,2021,1534093.0,petrol,1,suv,automatic,DCT,Bangalore,2021,2025.0,12.0
+17234226,Renault,Kwid,1.0L RXT(O) AMT,16521,2022,553427.0,petrol,1,hatchback,automatic,,Bangalore,2022,2025.0,12.0
+17119584,Hyundai,Verna,SX IVT Petrol,28763,2021,1195000.0,petrol,1,sedan,automatic,CVT,Bangalore,2021,2025.0,8.0
+17700580,Renault,Kwid,RXT 1.0 SCE Special,50023,2018,332000.0,petrol,3,hatchback,manual,regular,Bangalore,2018,2025.0,6.0
+17913618,Renault,Duster,RxE Petrol,95553,2014,423000.0,petrol,1,suv,manual,regular,Bangalore,2015,2025.0,12.0
+15931483,Hyundai,Creta,1.6 SX Plus Petrol,142693,2015,753000.0,petrol,1,suv,manual,regular,Bangalore,2016,2025.0,12.0
+16256847,Ford,EcoSport,Ambiente 1.5L Ti-VCT,119377,2017,637000.0,petrol,1,suv,manual,regular,Bangalore,2017,2025.0,3.0
+15804978,Honda,City,VX CVT,97225,2014,597000.0,petrol,1,sedan,automatic,CVT,Bangalore,2014,2025.0,12.0
+15675671,Tata EV,Tigor EV,XZ Plus,21123,2022,875000.0,electric,2,sedan,automatic,,Bangalore,2022,2025.0,12.0
+12924948,Audi,A6,2.0 TDI Premium Plus,39812,2014,1747158.0,diesel,1,sedan,automatic,,Bangalore,2014,2025.0,12.0
+15693704,Jeep,Compass,Model S (O) 1.4 Petrol DCT,27368,2021,2393558.0,petrol,1,suv,automatic,DCT,Bangalore,2021,2025.0,12.0
+15469838,Audi,A4,35 TDI S Line,47551,2014,1706758.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+15255752,Audi,Q5,2.0 TDI quattro Technology Pack,45096,2015,2373358.0,diesel,1,suv,automatic,,Bangalore,2016,2025.0,7.0
+15572285,BMW,3 Series,320d Sport Line,69201,2015,1868358.0,diesel,2,sedan,automatic,,Bangalore,2015,2025.0,12.0
+14267526,Volvo,S60,Momentum,62346,2015,1514858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+17349105,Renault,Kwid,1.0 RXL,44114,2017,329000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,8.0
+16865757,Maruti Suzuki,Ciaz,ZXI,42945,2015,612000.0,petrol,1,sedan,manual,regular,Bangalore,2015,2025.0,4.0
+17224045,Maruti Suzuki,Baleno,Alpha AT Petrol,53224,2018,668000.0,petrol,2,hatchback,automatic,CVT,Bangalore,2018,2025.0,9.0
+14988668,Volkswagen,Ameo,Highline1.2L (P),30308,2017,584000.0,petrol,1,sedan,manual,regular,Bangalore,2017,2025.0,12.0
+17881298,Hyundai,Exter,SX(O) Connect 1.2 Petrol AMT Dual Tone,17965,2023,978000.0,petrol,1,suv,automatic,AMT,Bangalore,2023,2025.0,12.0
+17393535,Kia,Sonet,GTX Plus 1.0 DCT,9636,2021,1236000.0,petrol,1,suv,automatic,DCT,Bangalore,2021,2025.0,12.0
+15623227,Hyundai,Creta,1.6 SX Plus Petrol,69807,2016,836000.0,petrol,1,suv,manual,regular,Bangalore,2016,2025.0,12.0
+16380394,Volkswagen,Polo,Comfortline 1.2L (P),46524,2016,575000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+17864927,Hyundai,Verna,Fluidic 1.6 VTVT SX,79124,2013,419000.0,petrol,3,sedan,manual,regular,Bangalore,2013,2025.0,12.0
+17829807,Maruti Suzuki,Celerio,VXI AMT,57989,2014,368000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2014,2025.0,11.0
+17690293,Hyundai,i20 Active,1.2 SX,40952,2016,607000.0,petrol,1,crossover,manual,regular,Bangalore,2016,2025.0,12.0
+14883980,Renault,Duster,110 PS RXZ 4X2 AMT,115789,2016,712000.0,diesel,1,suv,automatic,AMT,Bangalore,2017,2025.0,12.0
+17275404,Volkswagen,Polo,Highline1.2L (P),86977,2015,498000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,7.0
+12924948,Audi,A6,2.0 TDI Premium Plus,39812,2014,1747158.0,diesel,1,sedan,automatic,,Bangalore,2014,2025.0,12.0
+15693704,Jeep,Compass,Model S (O) 1.4 Petrol DCT,27368,2021,2393558.0,petrol,1,suv,automatic,DCT,Bangalore,2021,2025.0,12.0
+15469838,Audi,A4,35 TDI S Line,47551,2014,1706758.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+15255752,Audi,Q5,2.0 TDI quattro Technology Pack,45096,2015,2373358.0,diesel,1,suv,automatic,,Bangalore,2016,2025.0,7.0
+15572285,BMW,3 Series,320d Sport Line,69201,2015,1868358.0,diesel,2,sedan,automatic,,Bangalore,2015,2025.0,12.0
+14267526,Volvo,S60,Momentum,62346,2015,1514858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+14572153,BMW,3 Series,320d Prestige,71563,2016,1817858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+17578536,Kia,Sonet,GTX Plus 1.5 AT,84130,2021,1140193.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,12.0
+17201354,Renault,Kwid,1.0 RXT AMT Opt,40950,2018,419000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2019,2025.0,8.0
+17864426,Ford,EcoSport,Thunder Edition Petrol,36373,2020,957000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,12.0
+13826901,MG Motors,Gloster,Savvy 2.0 Twin Turbo 6 STR 4WD,58858,2021,3469621.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,12.0
+17672667,Honda,Mobilio,V Petrol,69257,2015,537000.0,petrol,2,muv,manual,regular,Bangalore,2015,2025.0,12.0
+17861814,Hyundai,Elite i20,Asta 1.2 (O),45078,2015,632000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,11.0
+18064210,Mahindra,Thar,LX 4 STR Convertible Petrol AT 4WD,25689,2021,1391683.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,8.0
+15561189,Maruti Suzuki,Ciaz,Alpha AT Petrol,31435,2018,839000.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2019,2025.0,12.0
+17943346,Ford,EcoSport,Titanium 1.5L Ti-VCT,35303,2019,861000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,12.0
+16457555,Hyundai,i10,Era Petrol,42642,2012,302000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17807212,Maruti Suzuki,Wagon R 1.0,VXI (O) AMT,91872,2018,460000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2018,2025.0,12.0
+17930861,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,48672,2013,405000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2013,2025.0,12.0
+13559820,Hyundai,Creta,1.6 SX,102641,2015,795000.0,diesel,1,suv,manual,regular,Bangalore,2015,2025.0,12.0
+16201980,Renault,Kwid,RXT Opt,35685,2015,296000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+15693704,Jeep,Compass,Model S (O) 1.4 Petrol DCT,27368,2021,2393558.0,petrol,1,suv,automatic,DCT,Bangalore,2021,2025.0,12.0
+15469838,Audi,A4,35 TDI S Line,47551,2014,1706758.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+15255752,Audi,Q5,2.0 TDI quattro Technology Pack,45096,2015,2373358.0,diesel,1,suv,automatic,,Bangalore,2016,2025.0,7.0
+15572285,BMW,3 Series,320d Sport Line,69201,2015,1868358.0,diesel,2,sedan,automatic,,Bangalore,2015,2025.0,12.0
+14267526,Volvo,S60,Momentum,62346,2015,1514858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+14572153,BMW,3 Series,320d Prestige,71563,2016,1817858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+9402516,Hyundai,Creta,1.6 SX Plus Petrol,72073,2016,877000.0,petrol,1,suv,manual,regular,Bangalore,2016,2025.0,4.0
+17454244,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,58145,2017,514000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,6.0
+17566886,Maruti Suzuki,Vitara Brezza,ZDi Plus,72140,2017,849000.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+16536046,Renault,Kiger,RXZ MT,21008,2023,784000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17647327,Maruti Suzuki,Ciaz,Alpha AT Petrol,27202,2020,963000.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,5.0
+17804086,Mahindra,KUV100 NXT,K2+ 6 STR,27699,2019,419000.0,petrol,2,crossover,manual,regular,Bangalore,2019,2025.0,12.0
+17234223,Renault,Kwid,1.0L RXT(O) AMT,11910,2022,534000.0,petrol,1,hatchback,automatic,,Bangalore,2022,2025.0,12.0
+17934913,Kia,Sonet,HTX 1.0 iMT,44757,2021,944000.0,petrol,1,suv,manual,iMT,Bangalore,2021,2025.0,12.0
+16961983,Maruti Suzuki,Ciaz,ZXI,82681,2016,578000.0,petrol,1,sedan,manual,regular,Bangalore,2016,2025.0,12.0
+17159640,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,111301,2017,389000.0,petrol,2,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+17383212,Hyundai,Elite i20,Asta (O) CVT,75668,2019,695000.0,petrol,2,hatchback,automatic,CVT,Bangalore,2019,2025.0,9.0
+17543322,Mahindra,KUV100 NXT,K4+ 6 STR,32500,2019,438000.0,petrol,2,crossover,manual,regular,Bangalore,2019,2025.0,12.0
+18047739,Maruti Suzuki,Alto 800,LXI,62125,2014,231000.0,petrol,3,hatchback,manual,regular,Bangalore,2014,2026.0,1.0
+15592333,Hyundai,Eon,Magna + (O),52694,2018,317000.0,petrol,3,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+15469838,Audi,A4,35 TDI S Line,47551,2014,1706758.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+15255752,Audi,Q5,2.0 TDI quattro Technology Pack,45096,2015,2373358.0,diesel,1,suv,automatic,,Bangalore,2016,2025.0,7.0
+15572285,BMW,3 Series,320d Sport Line,69201,2015,1868358.0,diesel,2,sedan,automatic,,Bangalore,2015,2025.0,12.0
+14267526,Volvo,S60,Momentum,62346,2015,1514858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+14572153,BMW,3 Series,320d Prestige,71563,2016,1817858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+13884177,Mercedes-Benz,GLA,200d Sport,97809,2018,2120858.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+15169878,Renault,Triber,RXT,23981,2022,653000.0,petrol,1,muv,manual,regular,Bangalore,2022,2025.0,6.0
+18142918,Hyundai,Xcent,S Petrol,39334,2019,579000.0,petrol,1,sedan,manual,regular,Bangalore,2019,2025.0,12.0
+17876816,Maruti Suzuki,S-Presso,VXI+ Petrol +CNG(outside fitted),21417,2022,512000.0,petrol+cng,1,hatchback,manual,regular,Bangalore,2022,2025.0,12.0
+16310504,Renault,Kwid,RXT 1.0 SCE Special,50592,2018,375000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+16748072,Maruti Suzuki,Baleno,Zeta AT Petrol,23690,2017,676000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2017,2025.0,12.0
+17242288,Maruti Suzuki,Celerio,ZXI AMT,63567,2017,427000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2017,2025.0,12.0
+17125800,Renault,Kiger,RXZ Turbo CVT,23382,2022,924000.0,petrol,1,suv,automatic,CVT,Bangalore,2022,2025.0,12.0
+17300836,Renault,Kwid,RXL,60051,2019,354000.0,petrol,1,hatchback,manual,regular,Bangalore,2019,2025.0,12.0
+16792895,Hyundai,Xcent,S AT Petrol,64266,2019,627000.0,petrol,1,sedan,automatic,,Bangalore,2019,2025.0,5.0
+17297654,Honda,City,VX CVT,102516,2015,597000.0,petrol,2,sedan,automatic,CVT,Bangalore,2015,2025.0,9.0
+16118952,Maruti Suzuki,Dzire,ZDi Plus AMT,99211,2018,720000.0,diesel,1,sedan,automatic,AMT,Bangalore,2018,2025.0,12.0
+18025914,Maruti Suzuki,Ritz,VXI,61997,2010,291000.0,petrol,1,hatchback,manual,regular,Bangalore,2011,2025.0,12.0
+16434423,Volkswagen,Vento,1.2L Highline Petrol AT,44723,2016,659000.0,petrol,2,sedan,automatic,DSG,Bangalore,2016,,
+17826274,Maruti Suzuki,Ciaz,Alpha Petrol,122454,2020,795000.0,petrol,1,sedan,manual,regular,Bangalore,2020,2025.0,12.0
+15255752,Audi,Q5,2.0 TDI quattro Technology Pack,45096,2015,2373358.0,diesel,1,suv,automatic,,Bangalore,2016,2025.0,7.0
+15572285,BMW,3 Series,320d Sport Line,69201,2015,1868358.0,diesel,2,sedan,automatic,,Bangalore,2015,2025.0,12.0
+14267526,Volvo,S60,Momentum,62346,2015,1514858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+14572153,BMW,3 Series,320d Prestige,71563,2016,1817858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+13884177,Mercedes-Benz,GLA,200d Sport,97809,2018,2120858.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+14601531,Audi,A4,35 TDI Premium Plus Sunroof,43603,2015,1817858.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+16590610,Hyundai,Aura,SX 1.2 (O) Petrol,18781,2023,837000.0,petrol,1,sedan,manual,regular,Bangalore,2023,,
+17221405,Tata,Safari,XZA Plus Gold 6 STR,41362,2021,1929000.0,diesel,1,suv,automatic,,Bangalore,2021,2025.0,12.0
+17908830,Renault,Kwid,CLIMBER 1.0 Opt,21456,2021,474000.0,petrol,1,hatchback,manual,regular,Bangalore,2021,2025.0,12.0
+18089559,Renault,Triber,RXZ,32597,2022,697000.0,petrol,1,muv,manual,regular,Bangalore,2022,2025.0,8.0
+17697187,Renault,Triber,RXZ,25513,2022,729000.0,petrol,1,muv,manual,regular,Bangalore,2022,2025.0,12.0
+18182869,Hyundai,Aura,SX Plus 1.2 AMT Petrol,30958,2020,639000.0,petrol,2,sedan,automatic,AMT,Bangalore,2020,2025.0,5.0
+18232603,Hyundai,Creta,1.6 SX AT VTVT,29536,2019,1243115.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2019,2025.0,12.0
+16530180,Renault,Kwid,1.0 RXT AMT SCE,7878,2022,545000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,12.0
+17697807,Maruti Suzuki,Baleno,Zeta AT Petrol,37351,2018,720000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2019,2025.0,12.0
+16105993,Tata,Tiago,Revotron XZA AMT,125889,2017,466000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2017,2025.0,12.0
+17275407,Volkswagen,Polo,Comfortline 1.2L (P),111041,2013,396000.0,petrol,1,hatchback,manual,regular,Bangalore,2013,2025.0,10.0
+16345712,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,77261,2014,423000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2014,2025.0,12.0
+17862975,Honda,BR-V,V CVT Petrol,110722,2016,754000.0,petrol,1,suv,automatic,CVT,Bangalore,2017,2025.0,12.0
+17513388,Hyundai,i10,Magna 1.2 Petrol,94777,2012,267000.0,petrol,2,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+15572285,BMW,3 Series,320d Sport Line,69201,2015,1868358.0,diesel,2,sedan,automatic,,Bangalore,2015,2025.0,12.0
+14267526,Volvo,S60,Momentum,62346,2015,1514858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+14572153,BMW,3 Series,320d Prestige,71563,2016,1817858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+13884177,Mercedes-Benz,GLA,200d Sport,97809,2018,2120858.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+14601531,Audi,A4,35 TDI Premium Plus Sunroof,43603,2015,1817858.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+11584069,BMW,X1,sDrive20d xLine,80866,2017,2423858.0,diesel,1,suv,automatic,,Bangalore,2018,2025.0,12.0
+17463200,Maruti Suzuki,Ciaz,Alpha Petrol AT,44400,2017,744000.0,petrol,1,sedan,automatic,AMT,Bangalore,2017,2025.0,10.0
+17402194,Honda,City,V 4th Gen,25291,2022,925000.0,petrol,1,sedan,manual,regular,Bangalore,2022,2025.0,12.0
+13322146,Ford,EcoSport,Sports Petrol,40703,2020,950000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+16653879,Maruti Suzuki,Ciaz,Alpha AT Petrol,60344,2018,795000.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2018,2025.0,12.0
+17805420,Honda,City,ZX,27147,2022,1160348.0,petrol,2,sedan,manual,regular,Bangalore,2022,2025.0,12.0
+16724418,Maruti Suzuki,Alto K10,VXI (O),43348,2018,376000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+15854650,Maruti Suzuki,Vitara Brezza,ZDI PLUS AT Dual Tone,79059,2018,856000.0,diesel,1,suv,automatic,AMT,Bangalore,2018,2025.0,12.0
+18139692,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,18470,2022,672000.0,petrol,1,hatchback,manual,regular,Bangalore,2022,2025.0,7.0
+16979791,Tata,Nexon,XZA Plus AMT Petrol,52275,2019,858000.0,petrol,1,suv,automatic,AMT,Bangalore,2019,2025.0,8.0
+17708133,Renault,Kwid,RXT Opt,49803,2019,362000.0,petrol,2,hatchback,manual,regular,Bangalore,2019,2025.0,12.0
+17153694,Maruti Suzuki,Celerio,VXI AMT,102667,2014,357000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2014,2025.0,9.0
+17921033,Maruti Suzuki,Alto K10,VXI AMT,20831,2016,332000.0,petrol,3,hatchback,automatic,AMT,Bangalore,2017,2025.0,6.0
+15127722,Toyota,Etios Liva,G,66390,2012,344000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17398263,Hyundai,Creta,1.6 SX AT,123191,2019,1170493.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2019,2025.0,4.0
+14267526,Volvo,S60,Momentum,62346,2015,1514858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+14572153,BMW,3 Series,320d Prestige,71563,2016,1817858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+13884177,Mercedes-Benz,GLA,200d Sport,97809,2018,2120858.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+14601531,Audi,A4,35 TDI Premium Plus Sunroof,43603,2015,1817858.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+11584069,BMW,X1,sDrive20d xLine,80866,2017,2423858.0,diesel,1,suv,automatic,,Bangalore,2018,2025.0,12.0
+9056141,Land Rover,Discovery Sport,HSE,51220,2017,2999558.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+17817688,Hyundai,Verna,SX Petrol,30707,2020,1042178.0,petrol,1,sedan,manual,regular,Bangalore,2020,2025.0,12.0
+17696129,Volkswagen,Vento,1.6L Highline Petrol,20242,2016,681000.0,petrol,1,sedan,manual,regular,Bangalore,2016,2025.0,4.0
+17654546,Renault,Kwid,RXT 1.0 SCE Special,63190,2018,369000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,5.0
+17861830,Maruti Suzuki,Dzire,ZXI Plus AMT,60902,2019,729000.0,petrol,1,sedan,automatic,AMT,Bangalore,2019,2025.0,4.0
+17948625,Kia,Sonet,GTX Plus 1.5,19385,2021,1237153.0,diesel,1,suv,manual,regular,Bangalore,2021,2025.0,6.0
+17815250,Volkswagen,Polo,Highline1.2L (P),67184,2016,576000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,5.0
+17241271,Hyundai,Creta,1.6 SX Plus Auto Petrol,48785,2017,1059295.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+16561372,Hyundai,Venue,SX 1.5 CRDI,33125,2022,1103955.0,diesel,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+17996050,Renault,Kwid,1.0 RXT AMT SCE,13307,2022,545000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,7.0
+17699235,Maruti Suzuki,Baleno,Alpha AT Petrol,112294,2018,648000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2019,2025.0,12.0
+16992112,Hyundai,i10,Magna 1.2 Petrol,55833,2011,289000.0,petrol,1,hatchback,manual,regular,Bangalore,2011,2025.0,9.0
+16187349,Honda,Brio,S MT,62107,2012,289000.0,petrol,2,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17496084,Hyundai,i20,Asta 1.2,85739,2011,290000.0,petrol,3,hatchback,manual,regular,Bangalore,2011,2025.0,12.0
+16557529,Skoda,Rapid,Elegance Plus Diesel MT,104042,2014,477000.0,diesel,1,sedan,manual,regular,Bangalore,2015,2025.0,12.0
+14572153,BMW,3 Series,320d Prestige,71563,2016,1817858.0,diesel,2,sedan,automatic,,Bangalore,2016,2025.0,12.0
+13884177,Mercedes-Benz,GLA,200d Sport,97809,2018,2120858.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+14601531,Audi,A4,35 TDI Premium Plus Sunroof,43603,2015,1817858.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+11584069,BMW,X1,sDrive20d xLine,80866,2017,2423858.0,diesel,1,suv,automatic,,Bangalore,2018,2025.0,12.0
+9056141,Land Rover,Discovery Sport,HSE,51220,2017,2999558.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+11129103,Land Rover,Discovery Sport,HSE 7-Seater,54452,2017,3029858.0,diesel,2,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+17371732,Tata,Nexon,XZA Plus AMT Petrol,47137,2019,871000.0,petrol,1,suv,automatic,AMT,Bangalore,2019,2025.0,8.0
+17945999,Hyundai,Elite i20,Sportz Plus 1.2 Dual Tone,31455,2020,739000.0,petrol,1,hatchback,manual,regular,Bangalore,2020,2025.0,12.0
+17920698,Maruti Suzuki,Dzire,ZXI AMT,70910,2017,596000.0,petrol,1,sedan,automatic,AMT,Bangalore,2017,2025.0,12.0
+15978045,Kia,Sonet,HTK Plus 1.5 AT,38943,2021,1116000.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,4.0
+15707130,Hyundai,Creta,1.6 SX Plus Auto Petrol,62161,2017,996000.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+15869095,Renault,Duster,110 PS RXZ 4X2 AMT,72093,2017,819000.0,diesel,1,suv,automatic,AMT,Bangalore,2018,2025.0,12.0
+16713065,Maruti Suzuki,Ciaz,Alpha Petrol,89124,2018,672000.0,petrol,1,sedan,manual,regular,Bangalore,2018,2025.0,10.0
+17861003,Maruti Suzuki,Wagon R 1.0,VXI AMT,43909,2016,448000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2017,2025.0,12.0
+17855287,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,56565,2015,444000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+17797472,Hyundai,i20 N Line,N8 1.0 Turbo iMT,17656,2021,950000.0,petrol,1,hatchback,manual,iMT,Bangalore,2021,2025.0,11.0
+17846147,Hyundai,i20,Asta 1.4 CRDI,143523,2013,446000.0,diesel,1,hatchback,manual,regular,Bangalore,2013,2025.0,10.0
+17428697,Renault,Triber,RXZ,93525,2020,559000.0,petrol,1,muv,manual,regular,Bangalore,2021,2025.0,9.0
+14725014,Hyundai,Elite i20,Sportz 1.4 CRDI,91635,2016,598000.0,diesel,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17442696,Hyundai,i10,Era Petrol,66849,2011,265000.0,petrol,1,hatchback,manual,regular,Bangalore,2011,2025.0,10.0
+13884177,Mercedes-Benz,GLA,200d Sport,97809,2018,2120858.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+14601531,Audi,A4,35 TDI Premium Plus Sunroof,43603,2015,1817858.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+11584069,BMW,X1,sDrive20d xLine,80866,2017,2423858.0,diesel,1,suv,automatic,,Bangalore,2018,2025.0,12.0
+9056141,Land Rover,Discovery Sport,HSE,51220,2017,2999558.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+11129103,Land Rover,Discovery Sport,HSE 7-Seater,54452,2017,3029858.0,diesel,2,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+17500495,Jeep,Compass,Model S (O) 1.4 Petrol DCT,13450,2022,2110758.0,petrol,2,suv,automatic,DCT,Bangalore,2022,2025.0,12.0
+16855388,Renault,Duster,RXS Sandstorm edition 110PS,71334,2017,789000.0,diesel,1,suv,manual,regular,Bangalore,2018,2025.0,12.0
+17869967,Renault,Kwid,1.0L RXT(O) AMT,30226,2019,393000.0,petrol,2,hatchback,automatic,,Bangalore,2019,2025.0,10.0
+17318086,Honda,Mobilio,V Diesel,61383,2015,663000.0,diesel,1,muv,manual,regular,Bangalore,2015,2025.0,12.0
+17873364,Hyundai,Elite i20,Asta 1.2,74855,2014,526000.0,petrol,1,hatchback,manual,regular,Bangalore,2014,2025.0,9.0
+17944359,Renault,Kwid,CLIMBER 1.0 Opt,28770,2021,466000.0,petrol,1,hatchback,manual,regular,Bangalore,2021,2025.0,12.0
+17077266,Kia,Sonet,HTX 1.0 iMT,9495,2023,1150293.0,petrol,1,suv,manual,iMT,Bangalore,2023,2025.0,12.0
+17464044,Maruti Suzuki,Celerio,ZXI AMT,26327,2019,573000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2019,2025.0,5.0
+17800346,Hyundai,Venue,S 1.0 Turbo DCT,35966,2020,874000.0,petrol,1,suv,automatic,DCT,Bangalore,2020,2025.0,9.0
+17907519,Maruti Suzuki,Baleno,Zeta AT Petrol,44324,2016,632000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2017,2025.0,12.0
+17874830,Renault,Duster,RXS Opt CVT,16147,2019,742000.0,petrol,2,suv,automatic,CVT,Bangalore,2019,2025.0,12.0
+14982005,Chevrolet,Beat,LT Petrol,43597,2016,307000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17809431,Chevrolet,Beat,LS Petrol,57575,2015,232000.0,petrol,3,hatchback,manual,regular,Bangalore,2015,2025.0,5.0
+15443958,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,42169,2015,439000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+17509032,Maruti Suzuki,Ritz,VXI,24063,2010,267000.0,petrol,2,hatchback,manual,regular,Bangalore,2011,2025.0,12.0
+14601531,Audi,A4,35 TDI Premium Plus Sunroof,43603,2015,1817858.0,diesel,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+11584069,BMW,X1,sDrive20d xLine,80866,2017,2423858.0,diesel,1,suv,automatic,,Bangalore,2018,2025.0,12.0
+9056141,Land Rover,Discovery Sport,HSE,51220,2017,2999558.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+11129103,Land Rover,Discovery Sport,HSE 7-Seater,54452,2017,3029858.0,diesel,2,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+17500495,Jeep,Compass,Model S (O) 1.4 Petrol DCT,13450,2022,2110758.0,petrol,2,suv,automatic,DCT,Bangalore,2022,2025.0,12.0
+15787647,Audi,A3,35 TDI Premium Plus + Sunroof,56825,2015,1484558.0,diesel,2,sedan,automatic,DCT,Bangalore,2016,2025.0,12.0
+16638689,Renault,Duster,110 PS RXS 4X2 AMT,62132,2019,910000.0,diesel,1,suv,automatic,AMT,Bangalore,2019,2025.0,12.0
+17815245,Volkswagen,Polo,Comfortline 1.2L (P),70168,2017,588000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+12486790,Maruti Suzuki,Ciaz,Delta AT Petrol,19263,2019,822000.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2019,2025.0,7.0
+17722986,Maruti Suzuki,Swift,ZXI Plus,28406,2018,669000.0,petrol,2,hatchback,manual,regular,Bangalore,2018,2025.0,4.0
+17145356,Maruti Suzuki,S-Presso,VXI AMT,14809,2020,468000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2020,2025.0,9.0
+17888354,Volkswagen,Polo,Comfortline 1.2L (P),50326,2015,547000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,8.0
+18206659,Renault,Kwid,1.0 RXT AMT Opt,35959,2019,412000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2019,2025.0,12.0
+17674646,Hyundai,New i20,Asta (O) 1.0 Turbo DCT,32356,2023,1110000.0,petrol,1,hatchback,automatic,DCT,Bangalore,2023,2025.0,6.0
+18138366,Hyundai,Grand i10 Nios,Sportz AMT 1.2 Kappa VTVT,8803,2022,765000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,12.0
+17611809,Honda,Amaze,1.2 VX CVT i-VTEC,20829,2021,819000.0,petrol,1,sedan,automatic,CVT,Bangalore,2021,2025.0,10.0
+17012457,Hyundai,Creta,1.6 SX AT VTVT,92942,2019,1125955.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2019,2025.0,12.0
+17954905,Maruti Suzuki,Celerio,ZXI AMT,96616,2015,336000.0,petrol,3,hatchback,automatic,AMT,Bangalore,2015,2025.0,7.0
+16452538,Volkswagen,Polo,Highline 1.5 (D),114584,2015,613000.0,diesel,1,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+17270707,Skoda,Rapid,Elegance Plus Diesel MT,59446,2014,498000.0,diesel,2,sedan,manual,regular,Bangalore,2014,2025.0,10.0
+11584069,BMW,X1,sDrive20d xLine,80866,2017,2423858.0,diesel,1,suv,automatic,,Bangalore,2018,2025.0,12.0
+9056141,Land Rover,Discovery Sport,HSE,51220,2017,2999558.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+11129103,Land Rover,Discovery Sport,HSE 7-Seater,54452,2017,3029858.0,diesel,2,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+17500495,Jeep,Compass,Model S (O) 1.4 Petrol DCT,13450,2022,2110758.0,petrol,2,suv,automatic,DCT,Bangalore,2022,2025.0,12.0
+15787647,Audi,A3,35 TDI Premium Plus + Sunroof,56825,2015,1484558.0,diesel,2,sedan,automatic,DCT,Bangalore,2016,2025.0,12.0
+17087848,Jeep,Compass,Model S (O) Diesel 4x4 AT,28616,2022,2625858.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2022,2025.0,12.0
+17968960,Maruti Suzuki,Alto K10,VXI AMT,37469,2016,350000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2016,2025.0,6.0
+17232341,Renault,Kiger,RXZ AMT,35626,2022,765000.0,petrol,1,suv,automatic,AMT,Bangalore,2022,2025.0,4.0
+17002086,Hyundai,Creta,1.6 SX Plus Auto Petrol,51210,2016,890000.0,petrol,2,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+17888649,Renault,Kwid,1.0 RXT AMT SCE,25071,2022,535000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,11.0
+15743188,Honda,Brio,S MT,30908,2013,351000.0,petrol,1,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17847533,Renault,Kwid,CLIMBER 1.0 AMT Dual Tone,16444,2022,578000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,9.0
+18050014,Hyundai,Elite i20,Sportz 1.2,31189,2017,624000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,4.0
+17904304,Tata,Tiago NRG,XZ AMT,15371,2024,767000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2024,2027.0,2.0
+17626717,Maruti Suzuki,Alto 800,VXI,63339,2014,283000.0,petrol,1,hatchback,manual,regular,Bangalore,2014,2025.0,12.0
+17650030,Maruti Suzuki,S-Presso,VXI Plus,14708,2021,489000.0,petrol,1,hatchback,manual,regular,Bangalore,2022,2025.0,12.0
+14073129,Honda,City,VX CVT,144539,2015,633000.0,petrol,1,sedan,automatic,CVT,Bangalore,2015,2025.0,12.0
+17717746,Hyundai,Verna,Fluidic 1.6 VTVT SX Opt AT,105334,2011,393000.0,petrol,3,sedan,automatic,,Bangalore,2012,2025.0,12.0
+16404062,Renault,Duster,110 PS RXZ 4X2 AMT,70709,2016,712000.0,diesel,2,suv,automatic,AMT,Bangalore,2016,2025.0,12.0
+10668118,Tata,Nexon,XZ Plus Diesel,80297,2018,784000.0,diesel,1,suv,manual,regular,Bangalore,2018,2025.0,12.0
+9056141,Land Rover,Discovery Sport,HSE,51220,2017,2999558.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+11129103,Land Rover,Discovery Sport,HSE 7-Seater,54452,2017,3029858.0,diesel,2,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+17500495,Jeep,Compass,Model S (O) 1.4 Petrol DCT,13450,2022,2110758.0,petrol,2,suv,automatic,DCT,Bangalore,2022,2025.0,12.0
+15787647,Audi,A3,35 TDI Premium Plus + Sunroof,56825,2015,1484558.0,diesel,2,sedan,automatic,DCT,Bangalore,2016,2025.0,12.0
+17087848,Jeep,Compass,Model S (O) Diesel 4x4 AT,28616,2022,2625858.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2022,2025.0,12.0
+15614715,Audi,Q3,35 TDI quattro Technology,48742,2017,2449108.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+15426359,Maruti Suzuki,Baleno,Alpha Petrol,66215,2016,609000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+15403370,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,17661,2014,459000.0,petrol,1,hatchback,manual,regular,Bangalore,2014,2025.0,12.0
+18041594,Tata,Punch,Creative AMT Dual Tone,14278,2023,895000.0,petrol,1,suv,automatic,AMT,Bangalore,2023,2025.0,12.0
+17901063,Maruti Suzuki,Wagon R 1.0,VXI AMT,42384,2016,453000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,,
+17552695,Maruti Suzuki,Swift,ZXI Plus AMT,22299,2020,792000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2021,,
+17304389,Hyundai,Venue,SX 1.0  Turbo iMT,14746,2021,977000.0,petrol,1,suv,manual,iMT,Bangalore,2021,2025.0,12.0
+17403092,Maruti Suzuki,Celerio,ZXI AMT,49957,2018,509000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2018,2025.0,12.0
+16964144,Honda,City,V 4th Gen,75155,2022,917000.0,petrol,1,sedan,manual,regular,Bangalore,2022,2025.0,12.0
+14980123,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,36064,2014,427000.0,petrol,1,hatchback,manual,regular,Bangalore,2014,2025.0,12.0
+17843508,Maruti Suzuki,Baleno,Zeta Petrol,33268,2016,612000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,6.0
+15942525,Maruti Suzuki,Dzire,VDi AMT,38912,2017,612000.0,diesel,2,sedan,automatic,AMT,Bangalore,2017,2025.0,7.0
+14876492,Honda,Amaze,1.2 VX AT i-VTEC,114218,2013,422000.0,petrol,1,sedan,automatic,,Bangalore,2014,2025.0,12.0
+16698615,Honda,City,VX CVT,90882,2016,689000.0,petrol,1,sedan,automatic,CVT,Bangalore,2016,2025.0,6.0
+14738508,Maruti Suzuki,Baleno,Alpha AT Petrol,90488,2018,655000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2018,2025.0,12.0
+11129103,Land Rover,Discovery Sport,HSE 7-Seater,54452,2017,3029858.0,diesel,2,suv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+17500495,Jeep,Compass,Model S (O) 1.4 Petrol DCT,13450,2022,2110758.0,petrol,2,suv,automatic,DCT,Bangalore,2022,2025.0,12.0
+15787647,Audi,A3,35 TDI Premium Plus + Sunroof,56825,2015,1484558.0,diesel,2,sedan,automatic,DCT,Bangalore,2016,2025.0,12.0
+17087848,Jeep,Compass,Model S (O) Diesel 4x4 AT,28616,2022,2625858.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2022,2025.0,12.0
+15614715,Audi,Q3,35 TDI quattro Technology,48742,2017,2449108.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+15638604,BMW,X1,sDrive20d Expedition,55040,2017,2090558.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+17340806,Kia,Sonet,GTX Plus 1.5 AT,75805,2020,1102955.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2020,2025.0,12.0
+17527795,Maruti Suzuki,Baleno,Delta AT Petrol,22789,2018,674000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2018,2025.0,7.0
+15171338,Skoda,Kushaq,Ambition 1.0L TSI MT,15762,2023,1278971.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+16732721,Hyundai,Grand i10 Nios,Sportz 1.0 Turbo GDI,14610,2022,757000.0,petrol,1,hatchback,manual,regular,Bangalore,2022,2025.0,12.0
+18003415,Maruti Suzuki,Celerio,ZXI AMT,19693,2017,494000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2017,2025.0,6.0
+17580069,Hyundai,Creta,SX (O) 1.5 Diesel,13101,2023,2046000.0,diesel,1,suv,manual,regular,Bangalore,2023,2025.0,8.0
+17863658,Hyundai,New i20,Sportz 1.0 Turbo IMT,36408,2021,753000.0,petrol,1,hatchback,manual,iMT,Bangalore,2021,2025.0,12.0
+17957918,Renault,Kwid,1.0 RXT Opt,7650,2021,468000.0,petrol,1,hatchback,manual,regular,Bangalore,2021,2025.0,12.0
+17763435,Maruti Suzuki,Baleno,Alpha AT Petrol,76103,2018,629000.0,petrol,2,hatchback,automatic,CVT,Bangalore,2019,2025.0,9.0
+15895840,Kia,Seltos,HTX G,48045,2020,1177000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,6.0
+17498626,Honda,Jazz,V,49331,2016,547000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17415054,Renault,Duster,RXZ Petrol,55165,2021,829000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,10.0
+14118301,Skoda,Rapid,Elegance Black Package Diesel MT,118521,2015,517000.0,diesel,1,sedan,manual,regular,Bangalore,2015,2025.0,12.0
+16229124,Maruti Suzuki,Swift,VXI,78201,2013,349000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17500495,Jeep,Compass,Model S (O) 1.4 Petrol DCT,13450,2022,2110758.0,petrol,2,suv,automatic,DCT,Bangalore,2022,2025.0,12.0
+15787647,Audi,A3,35 TDI Premium Plus + Sunroof,56825,2015,1484558.0,diesel,2,sedan,automatic,DCT,Bangalore,2016,2025.0,12.0
+17087848,Jeep,Compass,Model S (O) Diesel 4x4 AT,28616,2022,2625858.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2022,2025.0,12.0
+15614715,Audi,Q3,35 TDI quattro Technology,48742,2017,2449108.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+15638604,BMW,X1,sDrive20d Expedition,55040,2017,2090558.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+13285102,Mercedes-Benz,GLA,200 CDI Sport,81182,2017,2423858.0,diesel,1,suv,automatic,DCT,Bangalore,2017,2025.0,12.0
+17498626,Honda,Jazz,V,49331,2016,547000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+14743909,Honda,City,VX CVT,77807,2017,810000.0,petrol,1,sedan,automatic,CVT,Bangalore,2017,2025.0,12.0
+16723855,Tata,Safari,XZ,42387,2021,1674000.0,diesel,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17179212,Maruti Suzuki,Grand Vitara,Zeta Smart Hybrid,25659,2023,1343000.0,petrol,1,suv,manual,regular,Bangalore,2023,2026.0,2.0
+17649262,Hyundai,Venue,SX Plus 1.0 Turbo DCT,28929,2019,924000.0,petrol,2,suv,automatic,DCT,Bangalore,2019,2025.0,11.0
+17172165,Renault,Kwid,CLIMBER 1.0,22883,2018,403000.0,petrol,1,hatchback,manual,regular,Bangalore,2019,2025.0,12.0
+17922158,Maruti Suzuki,Baleno,Alpha Petrol,34666,2020,751000.0,petrol,1,hatchback,manual,regular,Bangalore,2020,2025.0,12.0
+18194212,Maruti Suzuki,Grand Vitara,Delta Smart Hybrid AT,37074,2023,1271448.0,petrol,1,suv,automatic,,Bangalore,2023,2025.0,12.0
+17420257,Volkswagen,Ameo,Highline1.2L (P),78551,2016,486000.0,petrol,2,sedan,manual,regular,Bangalore,2016,2025.0,12.0
+18002917,Maruti Suzuki,Celerio,ZXI (O) AMT,72902,2017,458000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2017,2025.0,12.0
+17924685,Renault,Kwid,1.0 RXT AMT SCE,13996,2022,526000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,4.0
+14614321,Ford,EcoSport,Titanium 1.5L Ti-VCT AT,82950,2015,589000.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2015,2025.0,12.0
+15624449,Mahindra,XUV500,W8,102903,2014,693000.0,diesel,2,suv,manual,regular,Bangalore,2014,2025.0,12.0
+15838739,Maruti Suzuki,Swift Dzire,VDI,71626,2012,462000.0,diesel,1,sedan,manual,regular,Bangalore,2012,2025.0,4.0
+15762653,Hyundai,Verna,1.6 CRDI SX + AT,94100,2017,895000.0,diesel,1,sedan,automatic,,Bangalore,2017,2025.0,12.0
+15787647,Audi,A3,35 TDI Premium Plus + Sunroof,56825,2015,1484558.0,diesel,2,sedan,automatic,DCT,Bangalore,2016,2025.0,12.0
+17087848,Jeep,Compass,Model S (O) Diesel 4x4 AT,28616,2022,2625858.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2022,2025.0,12.0
+15614715,Audi,Q3,35 TDI quattro Technology,48742,2017,2449108.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+15638604,BMW,X1,sDrive20d Expedition,55040,2017,2090558.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+13285102,Mercedes-Benz,GLA,200 CDI Sport,81182,2017,2423858.0,diesel,1,suv,automatic,DCT,Bangalore,2017,2025.0,12.0
+17924685,Renault,Kwid,1.0 RXT AMT SCE,13996,2022,526000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,4.0
+14614321,Ford,EcoSport,Titanium 1.5L Ti-VCT AT,82950,2015,589000.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2015,2025.0,12.0
+16400241,Hyundai,Elite i20,Sportz 1.2,70694,2017,612000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+17387771,Kia,Sonet,GTX Plus 1.0 DCT,39958,2020,1106000.0,petrol,1,suv,automatic,DCT,Bangalore,2020,2025.0,12.0
+17994657,Kia,Seltos,GTX Plus AT D,51488,2022,1645148.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2022,2025.0,12.0
+15600399,Hyundai,Venue,SX 1.0  Turbo,10855,2022,1026971.0,petrol,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+18193169,Renault,Kwid,1.0 RXT Opt,18006,2022,489000.0,petrol,1,hatchback,manual,regular,Bangalore,2022,2025.0,12.0
+17896699,Mahindra,KUV100,K8 D 6 STR,62631,2016,419000.0,diesel,1,crossover,manual,regular,Bangalore,2016,2025.0,12.0
+16962251,Volkswagen,Polo,Comfortline 1.0L (P),32315,2018,636000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+17743863,Volkswagen,Ameo,Comfortline 1.2L (P),83366,2016,457000.0,petrol,1,sedan,manual,regular,Bangalore,2016,2025.0,12.0
+17725307,Hyundai,Verna,SX Opt Turbo Petrol,28092,2022,1437104.0,petrol,1,sedan,automatic,,Bangalore,2022,2025.0,12.0
+17608824,Honda,City,SV CVT,80634,2016,579000.0,petrol,2,sedan,automatic,CVT,Bangalore,2016,2025.0,6.0
+17337801,Maruti Suzuki,Dzire,VXI AMT,117290,2019,611000.0,petrol,1,sedan,automatic,AMT,Bangalore,2019,2025.0,8.0
+15225539,Ford,EcoSport,Titanium 1.5L TDCi,113137,2014,464000.0,diesel,2,suv,manual,regular,Bangalore,2014,2025.0,12.0
+15241125,Maruti Suzuki,Swift Dzire,VXI 1.2,119029,2012,375000.0,petrol,1,sedan,manual,regular,Bangalore,2012,2025.0,12.0
+17087848,Jeep,Compass,Model S (O) Diesel 4x4 AT,28616,2022,2625858.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2022,2025.0,12.0
+15614715,Audi,Q3,35 TDI quattro Technology,48742,2017,2449108.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+15638604,BMW,X1,sDrive20d Expedition,55040,2017,2090558.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+13285102,Mercedes-Benz,GLA,200 CDI Sport,81182,2017,2423858.0,diesel,1,suv,automatic,DCT,Bangalore,2017,2025.0,12.0
+15380383,Jeep,Compass,Longitude (O) 2.0 Diesel,61710,2017,1343158.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+17725307,Hyundai,Verna,SX Opt Turbo Petrol,28092,2022,1437104.0,petrol,1,sedan,automatic,,Bangalore,2022,2025.0,12.0
+17608824,Honda,City,SV CVT,80634,2016,579000.0,petrol,2,sedan,automatic,CVT,Bangalore,2016,2025.0,6.0
+12683826,Hyundai,Creta,1.6 SX Plus Auto Petrol,72238,2016,908000.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2016,2025.0,12.0
+16561504,Honda,City,VX CVT,84221,2014,639000.0,petrol,1,sedan,automatic,CVT,Bangalore,2014,2025.0,12.0
+17863209,Renault,Triber,RXZ AMT,4071,2020,697000.0,petrol,1,muv,automatic,AMT,Bangalore,2020,2025.0,10.0
+15581134,Renault,Duster,110 PS RXZ 4X2 AMT,43970,2018,903000.0,diesel,1,suv,automatic,AMT,Bangalore,2018,2025.0,8.0
+17930874,Hyundai,Elite i20,Asta 1.4 CRDI,77339,2018,721000.0,diesel,1,hatchback,manual,regular,Bangalore,2019,2025.0,12.0
+17786145,Renault,Kwid,1.0L RXT(O) AMT,12948,2021,488000.0,petrol,1,hatchback,automatic,,Bangalore,2021,2025.0,10.0
+13704671,MG Motors,Gloster,Savvy 2.0 Twin Turbo 6 STR 4WD,43799,2021,3345902.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,12.0
+15317101,Renault,Kwid,RXT 1.0 SCE Special,47274,2017,361000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+17070730,Honda,City,ZX,41938,2021,1163955.0,petrol,1,sedan,manual,regular,Bangalore,2021,2025.0,12.0
+17892147,Hyundai,i10,Sportz 1.1 Petrol,82011,2015,351000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18052608,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,34589,2015,530000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2015,2025.0,11.0
+13604129,Datsun,GO,T,47315,2018,325000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+9654501,Mahindra,XUV500,W11,74407,2018,1361285.0,diesel,1,suv,manual,regular,Bangalore,2018,2025.0,12.0
+15614715,Audi,Q3,35 TDI quattro Technology,48742,2017,2449108.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+15638604,BMW,X1,sDrive20d Expedition,55040,2017,2090558.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+13285102,Mercedes-Benz,GLA,200 CDI Sport,81182,2017,2423858.0,diesel,1,suv,automatic,DCT,Bangalore,2017,2025.0,12.0
+15380383,Jeep,Compass,Longitude (O) 2.0 Diesel,61710,2017,1343158.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+17770509,Jeep,Compass,80 Anniversary 1.4 Petrol DCT,29323,2021,2322858.0,petrol,1,suv,automatic,DCT,Bangalore,2021,,
+17070730,Honda,City,ZX,41938,2021,1163955.0,petrol,1,sedan,manual,regular,Bangalore,2021,2025.0,12.0
+17892147,Hyundai,i10,Sportz 1.1 Petrol,82011,2015,351000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18052608,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,34589,2015,530000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2015,2025.0,11.0
+17411130,Ford,EcoSport,Trend  1.5L Ti-VCT AT,65464,2017,697000.0,petrol,1,suv,automatic,,Bangalore,2017,2025.0,12.0
+17644831,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT Dual Tone,492,2019,619000.0,petrol,1,hatchback,manual,regular,Bangalore,2019,2025.0,12.0
+17234132,Maruti Suzuki,Baleno,Zeta AT Petrol,48212,2019,693000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2019,2025.0,6.0
+17763758,Mahindra,KUV100 NXT,K4+ 6 STR,41730,2018,472000.0,petrol,1,crossover,manual,regular,Bangalore,2018,2025.0,4.0
+12564154,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,17813,2022,851000.0,petrol,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+17263417,Hyundai,Elite i20,Sportz Plus CVT,44296,2019,750006.0,petrol,1,hatchback,automatic,CVT,Bangalore,2019,2025.0,8.0
+13655704,Mahindra,XUV 300,W8 (O) Petrol,16525,2023,1160000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17309881,Maruti Suzuki,Baleno,Alpha Petrol,16017,2021,848000.0,petrol,1,hatchback,manual,regular,Bangalore,2021,2025.0,12.0
+16861956,Honda,City,VX CVT,67509,2017,835000.0,petrol,1,sedan,automatic,CVT,Bangalore,2017,2025.0,5.0
+17386153,Maruti Suzuki,Ertiga,VXI AT,82830,2017,794000.0,petrol,1,muv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+16930539,Volkswagen,Polo,Comfortline 1.0L (P),77905,2018,561000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+15790502,Chevrolet,Beat,LT Petrol,60094,2011,201000.0,petrol,2,hatchback,manual,regular,Bangalore,2011,2025.0,12.0
+15638604,BMW,X1,sDrive20d Expedition,55040,2017,2090558.0,diesel,2,suv,automatic,,Bangalore,2018,2025.0,12.0
+13285102,Mercedes-Benz,GLA,200 CDI Sport,81182,2017,2423858.0,diesel,1,suv,automatic,DCT,Bangalore,2017,2025.0,12.0
+15380383,Jeep,Compass,Longitude (O) 2.0 Diesel,61710,2017,1343158.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+17770509,Jeep,Compass,80 Anniversary 1.4 Petrol DCT,29323,2021,2322858.0,petrol,1,suv,automatic,DCT,Bangalore,2021,,
+17019288,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,34110,2021,2474358.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,9.0
+17309881,Maruti Suzuki,Baleno,Alpha Petrol,16017,2021,848000.0,petrol,1,hatchback,manual,regular,Bangalore,2021,2025.0,12.0
+16861956,Honda,City,VX CVT,67509,2017,835000.0,petrol,1,sedan,automatic,CVT,Bangalore,2017,2025.0,5.0
+17386153,Maruti Suzuki,Ertiga,VXI AT,82830,2017,794000.0,petrol,1,muv,automatic,Torque Convertor,Bangalore,2017,2025.0,12.0
+17461562,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,42939,2015,489000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2015,2025.0,6.0
+13834784,Renault,Kiger,RXZ Turbo CVT,24223,2022,916000.0,petrol,1,suv,automatic,CVT,Bangalore,2022,2025.0,12.0
+17826703,Maruti Suzuki,S-Cross,Alpha 1.5 AT,15631,2021,1167000.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,10.0
+17095617,Renault,Triber,RXZ Dual Tone,26537,2022,722000.0,petrol,1,muv,manual,regular,Bangalore,2022,2025.0,12.0
+18047536,Maruti Suzuki,Celerio,VXI (O) AMT,44209,2019,471000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2019,2025.0,7.0
+17477393,Hyundai,i10,Sportz 1.1 Petrol,54602,2015,392000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+14808763,Maruti Suzuki,Dzire,ZXI Plus AMT,38108,2020,776000.0,petrol,1,sedan,automatic,AMT,Bangalore,2020,2025.0,12.0
+15884787,Tata,Safari,XZ Plus 6 STR,43402,2021,1799723.0,diesel,1,suv,manual,regular,Bangalore,2021,2025.0,12.0
+17059371,Tata,Nexon,1.5L CREATIVE+ S 6MT BS6 PH2,16557,2023,1339000.0,diesel,1,suv,manual,regular,Bangalore,2024,2027.0,1.0
+18027347,Honda,City,ZX CVT,22097,2021,1362393.0,petrol,1,sedan,automatic,CVT,Bangalore,2021,2025.0,11.0
+17181511,Mahindra,XUV500,W10 AT,47130,2016,1170395.0,diesel,1,suv,automatic,,Bangalore,2016,2025.0,12.0
+16693467,MG Motors,Hector,2.0 Sharp Diesel Turbo,69644,2022,1691555.0,diesel,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+17926517,Hyundai,i10,Sportz 1.2 AT,70982,2010,249000.0,petrol,3,hatchback,automatic,,Bangalore,2010,2025.0,12.0
+13285102,Mercedes-Benz,GLA,200 CDI Sport,81182,2017,2423858.0,diesel,1,suv,automatic,DCT,Bangalore,2017,2025.0,12.0
+15380383,Jeep,Compass,Longitude (O) 2.0 Diesel,61710,2017,1343158.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+17770509,Jeep,Compass,80 Anniversary 1.4 Petrol DCT,29323,2021,2322858.0,petrol,1,suv,automatic,DCT,Bangalore,2021,,
+17019288,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,34110,2021,2474358.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,9.0
+15884787,Tata,Safari,XZ Plus 6 STR,43402,2021,1799723.0,diesel,1,suv,manual,regular,Bangalore,2021,2025.0,12.0
+17059371,Tata,Nexon,1.5L CREATIVE+ S 6MT BS6 PH2,16557,2023,1339000.0,diesel,1,suv,manual,regular,Bangalore,2024,2027.0,1.0
+18027347,Honda,City,ZX CVT,22097,2021,1362393.0,petrol,1,sedan,automatic,CVT,Bangalore,2021,2025.0,11.0
+17181511,Mahindra,XUV500,W10 AT,47130,2016,1170395.0,diesel,1,suv,automatic,,Bangalore,2016,2025.0,12.0
+16693467,MG Motors,Hector,2.0 Sharp Diesel Turbo,69644,2022,1691555.0,diesel,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+17424544,Tata,Harrier,XZA,43614,2021,1691653.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,7.0
+16665456,Hyundai,Aura,SX Plus 1.0 Petrol,24044,2020,723000.0,petrol,1,sedan,manual,regular,Bangalore,2021,2025.0,12.0
+16854039,Renault,Kwid,1.0 RXT AMT SCE,26945,2022,526000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,11.0
+16571453,Maruti Suzuki,Vitara Brezza,VDi (O),39851,2018,759000.0,diesel,1,suv,manual,regular,Bangalore,2018,2025.0,12.0
+17469083,Hyundai,New Santro 1.1,Sportz MT,14414,2020,528000.0,petrol,1,hatchback,manual,regular,Bangalore,2020,2025.0,9.0
+17323397,Tata,Zest,XM Petrol,49445,2014,389559.0,petrol,1,sedan,manual,regular,Bangalore,2014,2025.0,12.0
+17329273,Maruti Suzuki,Ciaz,Alpha Petrol,27916,2020,875000.0,petrol,1,sedan,manual,regular,Bangalore,2020,2025.0,12.0
+16290892,Renault,Kwid,RXT 1.0 SCE Special,61279,2018,336000.0,petrol,2,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+13792945,Kia,Sonet,GTX Plus 1.0 iMT,14005,2020,972000.0,petrol,2,suv,manual,iMT,Bangalore,2020,2025.0,12.0
+17873036,Hyundai,Eon,Magna +,36154,2013,286000.0,petrol,1,hatchback,manual,regular,Bangalore,2013,2025.0,10.0
+17528105,Maruti Suzuki,Wagon R 1.0,VXI AMT,46432,2016,397000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2016,2025.0,7.0
+18248608,Hyundai,Elite i20,Asta CVT,27965,2018,756000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2018,2025.0,8.0
+18097530,Ford,EcoSport,Titanium+ 1.0L EcoBoost,59560,2016,661000.0,petrol,1,suv,manual,regular,Bangalore,2016,2025.0,6.0
+17856611,Maruti Suzuki,Alto K10,VXI,47112,2013,255000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+15380383,Jeep,Compass,Longitude (O) 2.0 Diesel,61710,2017,1343158.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+17323397,Tata,Zest,XM Petrol,49445,2014,389559.0,petrol,1,sedan,manual,regular,Bangalore,2014,2025.0,12.0
+17329273,Maruti Suzuki,Ciaz,Alpha Petrol,27916,2020,875000.0,petrol,1,sedan,manual,regular,Bangalore,2020,2025.0,12.0
+16290892,Renault,Kwid,RXT 1.0 SCE Special,61279,2018,336000.0,petrol,2,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+13792945,Kia,Sonet,GTX Plus 1.0 iMT,14005,2020,972000.0,petrol,2,suv,manual,iMT,Bangalore,2020,2025.0,12.0
+17873036,Hyundai,Eon,Magna +,36154,2013,286000.0,petrol,1,hatchback,manual,regular,Bangalore,2013,2025.0,10.0
+17528105,Maruti Suzuki,Wagon R 1.0,VXI AMT,46432,2016,397000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2016,2025.0,7.0
+18248608,Hyundai,Elite i20,Asta CVT,27965,2018,756000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2018,2025.0,8.0
+18097530,Ford,EcoSport,Titanium+ 1.0L EcoBoost,59560,2016,661000.0,petrol,1,suv,manual,regular,Bangalore,2016,2025.0,6.0
+17856611,Maruti Suzuki,Alto K10,VXI,47112,2013,255000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+18014608,Hyundai,Venue,SX 1.0  Turbo,16117,2019,866000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,12.0
+17619474,Renault,Kwid,1.0 RXT AMT Opt,21961,2018,434000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2019,2025.0,12.0
+17800049,Maruti Suzuki,Ciaz,ZXI AT,72980,2015,618000.0,petrol,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+17650465,Maruti Suzuki,Dzire,ZDi AMT,86893,2017,672000.0,diesel,1,sedan,automatic,AMT,Bangalore,2017,2025.0,12.0
+16790848,Renault,Kwid,1.0L RXT(O) AMT,34615,2021,477000.0,petrol,1,hatchback,automatic,,Bangalore,2021,2025.0,12.0
+12729986,Hyundai,New i20,Asta 1.0 Turbo IMT,28905,2021,875000.0,petrol,1,hatchback,manual,iMT,Bangalore,2021,2025.0,12.0
+17886906,Renault,Kwid,1.0 RXT AMT,32803,2017,398000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2017,2025.0,12.0
+16895910,Renault,Kwid,1.0 RXT Opt,46214,2019,388000.0,petrol,1,hatchback,manual,regular,Bangalore,2019,2025.0,5.0
+18231724,Hyundai,Venue,SX(O) 1.4 CRDI,33322,2019,994000.0,diesel,1,suv,manual,regular,Bangalore,2019,2025.0,7.0
+17720942,Tata,Altroz,XZA+ (S) 1.2l Petrol AT,2891,2023,951000.0,petrol,1,hatchback,automatic,DCT,Bangalore,2023,2026.0,7.0
+17770509,Jeep,Compass,80 Anniversary 1.4 Petrol DCT,29323,2021,2322858.0,petrol,1,suv,automatic,DCT,Bangalore,2021,,
+17619474,Renault,Kwid,1.0 RXT AMT Opt,21961,2018,434000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2019,2025.0,12.0
+17800049,Maruti Suzuki,Ciaz,ZXI AT,72980,2015,618000.0,petrol,1,sedan,automatic,,Bangalore,2015,2025.0,12.0
+17650465,Maruti Suzuki,Dzire,ZDi AMT,86893,2017,672000.0,diesel,1,sedan,automatic,AMT,Bangalore,2017,2025.0,12.0
+16790848,Renault,Kwid,1.0L RXT(O) AMT,34615,2021,477000.0,petrol,1,hatchback,automatic,,Bangalore,2021,2025.0,12.0
+12729986,Hyundai,New i20,Asta 1.0 Turbo IMT,28905,2021,875000.0,petrol,1,hatchback,manual,iMT,Bangalore,2021,2025.0,12.0
+17886906,Renault,Kwid,1.0 RXT AMT,32803,2017,398000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2017,2025.0,12.0
+16895910,Renault,Kwid,1.0 RXT Opt,46214,2019,388000.0,petrol,1,hatchback,manual,regular,Bangalore,2019,2025.0,5.0
+18231724,Hyundai,Venue,SX(O) 1.4 CRDI,33322,2019,994000.0,diesel,1,suv,manual,regular,Bangalore,2019,2025.0,7.0
+17720942,Tata,Altroz,XZA+ (S) 1.2l Petrol AT,2891,2023,951000.0,petrol,1,hatchback,automatic,DCT,Bangalore,2023,2026.0,7.0
+17738821,Hyundai,i20,Asta 1.4 CRDI,77694,2013,489000.0,diesel,1,hatchback,manual,regular,Bangalore,2013,2025.0,9.0
+17258822,Renault,Triber,RXT AMT,25665,2021,612000.0,petrol,2,muv,automatic,AMT,Bangalore,2021,2025.0,6.0
+17507493,Chevrolet,Beat,LS Petrol,54327,2015,275000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17397667,Datsun,Redi-GO,T(O) 1.0 AMT,29598,2018,333000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2018,2025.0,12.0
+16893950,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,27390,2023,742000.0,petrol,1,hatchback,manual,regular,Bangalore,2023,,
+17987656,Tata,Harrier,XZ Plus Dark Edition,48268,2021,1698723.0,diesel,1,suv,manual,regular,Bangalore,2021,2025.0,8.0
+17610895,Maruti Suzuki,Ertiga,VDi,40594,2013,629000.0,diesel,1,muv,manual,regular,Bangalore,2013,,
+17201356,Renault,Kwid,CLIMBER 1.0 AMT,8274,2023,614000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2023,2025.0,7.0
+18110934,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,27907,2018,611000.0,petrol,1,hatchback,automatic,Torque Convertor,Bangalore,2018,2025.0,11.0
+17527191,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,66540,2014,431000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2014,2025.0,12.0
+17019288,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,34110,2021,2474358.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,9.0
+17258822,Renault,Triber,RXT AMT,25665,2021,612000.0,petrol,2,muv,automatic,AMT,Bangalore,2021,2025.0,6.0
+17507493,Chevrolet,Beat,LS Petrol,54327,2015,275000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17397667,Datsun,Redi-GO,T(O) 1.0 AMT,29598,2018,333000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2018,2025.0,12.0
+16893950,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,27390,2023,742000.0,petrol,1,hatchback,manual,regular,Bangalore,2023,,
+17987656,Tata,Harrier,XZ Plus Dark Edition,48268,2021,1698723.0,diesel,1,suv,manual,regular,Bangalore,2021,2025.0,8.0
+17610895,Maruti Suzuki,Ertiga,VDi,40594,2013,629000.0,diesel,1,muv,manual,regular,Bangalore,2013,,
+17201356,Renault,Kwid,CLIMBER 1.0 AMT,8274,2023,614000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2023,2025.0,7.0
+18110934,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,27907,2018,611000.0,petrol,1,hatchback,automatic,Torque Convertor,Bangalore,2018,2025.0,11.0
+17527191,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,66540,2014,431000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2014,2025.0,12.0
+17795807,Ford,EcoSport,Trend 1.5L TDCi,71910,2018,712000.0,diesel,1,suv,manual,regular,Bangalore,2018,2025.0,9.0
+17734826,Maruti Suzuki,Alto 800,LXI,31803,2018,339000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+17626964,Mahindra,Scorpio N,Z8 L Diesel AT 7 STR,14605,2023,2297653.0,diesel,1,suv,automatic,,Bangalore,2023,2025.0,8.0
+15449826,Hyundai,i10,magna 1.1,62791,2015,351000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+17674651,Renault,Kiger,RXZ Turbo CVT Dual Tone,34418,2022,921000.0,petrol,1,suv,automatic,CVT,Bangalore,2022,2025.0,12.0
+18105726,Maruti Suzuki,Swift,ZXI AMT,25650,2022,778000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,12.0
+16773559,Volkswagen,Ameo,Highline1.2L (P),67771,2017,545000.0,petrol,1,sedan,manual,regular,Bangalore,2017,2025.0,12.0
+16707372,Renault,Kwid,CLIMBER 1.0 AMT,14618,2022,560000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,10.0
+16116761,Hyundai,Elite i20,Sportz 1.4 CRDI,75064,2016,625638.0,diesel,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17286437,Renault,Kwid,1.0 RXT AMT Opt,32263,2019,444000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2019,2025.0,5.0
+16809637,Maruti Suzuki,Eeco,AC CNG 5 STR,79849,2019,479000.0,petrol+cng,1,muv,manual,regular,Bangalore,2019,2025.0,9.0
+17734826,Maruti Suzuki,Alto 800,LXI,31803,2018,339000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,12.0
+17626964,Mahindra,Scorpio N,Z8 L Diesel AT 7 STR,14605,2023,2297653.0,diesel,1,suv,automatic,,Bangalore,2023,2025.0,8.0
+15449826,Hyundai,i10,magna 1.1,62791,2015,351000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+17674651,Renault,Kiger,RXZ Turbo CVT Dual Tone,34418,2022,921000.0,petrol,1,suv,automatic,CVT,Bangalore,2022,2025.0,12.0
+18105726,Maruti Suzuki,Swift,ZXI AMT,25650,2022,778000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,12.0
+16773559,Volkswagen,Ameo,Highline1.2L (P),67771,2017,545000.0,petrol,1,sedan,manual,regular,Bangalore,2017,2025.0,12.0
+16707372,Renault,Kwid,CLIMBER 1.0 AMT,14618,2022,560000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,10.0
+16116761,Hyundai,Elite i20,Sportz 1.4 CRDI,75064,2016,625638.0,diesel,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17286437,Renault,Kwid,1.0 RXT AMT Opt,32263,2019,444000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2019,2025.0,5.0
+16809637,Maruti Suzuki,Eeco,AC CNG 5 STR,79849,2019,479000.0,petrol+cng,1,muv,manual,regular,Bangalore,2019,2025.0,9.0
+17018708,Kia,Sonet,HTX 1.0 iMT,7984,2021,1043210.0,petrol,1,suv,manual,iMT,Bangalore,2021,2025.0,6.0
+16563595,Honda,City,ZX Diesel,52163,2022,1315000.0,diesel,1,sedan,manual,regular,Bangalore,2022,2025.0,12.0
+17709728,Renault,Kwid,RXT 1.0 SCE Special,36923,2017,368000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+14890068,Maruti Suzuki,Ciaz,ZXI+ AT,50743,2016,692000.0,petrol,1,sedan,automatic,,Bangalore,2016,2025.0,6.0
+13257493,Hyundai,Creta,1.6 SX Plus Petrol,48523,2016,882000.0,petrol,1,suv,manual,regular,Bangalore,2016,2025.0,12.0
+15937552,Hyundai,i20 N Line,N8 1.0 Turbo iMT Dual Tone,15710,2022,1049293.0,petrol,1,hatchback,manual,iMT,Bangalore,2022,2025.0,12.0
+18066387,Honda,Brio,S MT,47216,2016,397000.0,petrol,2,hatchback,manual,regular,Bangalore,2016,,
+17645936,Hyundai,Verna,Fluidic 1.6 CRDi SX AT,75890,2013,589000.0,diesel,1,sedan,automatic,,Bangalore,2013,2025.0,12.0
+17649071,Kia,Seltos,HTX Plus D,30101,2022,1588000.0,diesel,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+15675241,Hyundai,Elite i20,Sportz 1.2,49174,2015,565000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+17018708,Kia,Sonet,HTX 1.0 iMT,7984,2021,1043210.0,petrol,1,suv,manual,iMT,Bangalore,2021,2025.0,6.0
+16563595,Honda,City,ZX Diesel,52163,2022,1315000.0,diesel,1,sedan,manual,regular,Bangalore,2022,2025.0,12.0
+17709728,Renault,Kwid,RXT 1.0 SCE Special,36923,2017,368000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+14890068,Maruti Suzuki,Ciaz,ZXI+ AT,50743,2016,692000.0,petrol,1,sedan,automatic,,Bangalore,2016,2025.0,6.0
+13257493,Hyundai,Creta,1.6 SX Plus Petrol,48523,2016,882000.0,petrol,1,suv,manual,regular,Bangalore,2016,2025.0,12.0
+15937552,Hyundai,i20 N Line,N8 1.0 Turbo iMT Dual Tone,15710,2022,1049293.0,petrol,1,hatchback,manual,iMT,Bangalore,2022,2025.0,12.0
+18066387,Honda,Brio,S MT,47216,2016,397000.0,petrol,2,hatchback,manual,regular,Bangalore,2016,,
+17645936,Hyundai,Verna,Fluidic 1.6 CRDi SX AT,75890,2013,589000.0,diesel,1,sedan,automatic,,Bangalore,2013,2025.0,12.0
+17649071,Kia,Seltos,HTX Plus D,30101,2022,1588000.0,diesel,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+15675241,Hyundai,Elite i20,Sportz 1.2,49174,2015,565000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+16975458,Skoda,Kushaq,Style 1.0L TSI MT,13870,2022,1453000.0,petrol,1,suv,manual,regular,Bangalore,2022,2025.0,6.0
+16990271,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,38462,2017,503000.0,petrol,2,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+18030606,Maruti Suzuki,Alto K10,VXI Plus AMT,6410,2023,565000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2023,2025.0,11.0
+17787954,Hyundai,Verna,1.6 VTVT SX (O) AT,40902,2018,997000.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2018,,
+16141669,Hyundai,Creta,1.6 SX Plus Auto Petrol,59580,2016,895000.0,petrol,2,suv,automatic,Torque Convertor,Bangalore,2016,2025.0,4.0
+16353938,Maruti Suzuki,Dzire,VXI AMT,19406,2018,643000.0,petrol,1,sedan,automatic,AMT,Bangalore,2018,2025.0,12.0
+18174428,Honda,Mobilio,V (O) Diesel,58728,2015,610000.0,diesel,2,muv,manual,regular,Bangalore,2015,2025.0,12.0
+14587998,Maruti Suzuki,Vitara Brezza,ZDI PLUS Dual Tone,49791,2018,918000.0,diesel,1,suv,manual,regular,Bangalore,2018,2025.0,12.0
+17126380,Renault,Kwid,RXL,14996,2022,404000.0,petrol,2,hatchback,manual,regular,Bangalore,2022,2025.0,5.0
+18250708,Renault,Kiger,RXZ AMT,11900,2022,778000.0,petrol,1,suv,automatic,AMT,Bangalore,2023,,
+16975458,Skoda,Kushaq,Style 1.0L TSI MT,13870,2022,1453000.0,petrol,1,suv,manual,regular,Bangalore,2022,2025.0,6.0
+16990271,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,38462,2017,503000.0,petrol,2,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+18030606,Maruti Suzuki,Alto K10,VXI Plus AMT,6410,2023,565000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2023,2025.0,11.0
+17787954,Hyundai,Verna,1.6 VTVT SX (O) AT,40902,2018,997000.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2018,,
+16141669,Hyundai,Creta,1.6 SX Plus Auto Petrol,59580,2016,895000.0,petrol,2,suv,automatic,Torque Convertor,Bangalore,2016,2025.0,4.0
+16353938,Maruti Suzuki,Dzire,VXI AMT,19406,2018,643000.0,petrol,1,sedan,automatic,AMT,Bangalore,2018,2025.0,12.0
+18174428,Honda,Mobilio,V (O) Diesel,58728,2015,610000.0,diesel,2,muv,manual,regular,Bangalore,2015,2025.0,12.0
+14587998,Maruti Suzuki,Vitara Brezza,ZDI PLUS Dual Tone,49791,2018,918000.0,diesel,1,suv,manual,regular,Bangalore,2018,2025.0,12.0
+17126380,Renault,Kwid,RXL,14996,2022,404000.0,petrol,2,hatchback,manual,regular,Bangalore,2022,2025.0,5.0
+18250708,Renault,Kiger,RXZ AMT,11900,2022,778000.0,petrol,1,suv,automatic,AMT,Bangalore,2023,,
+17411180,Kia,Seltos,GTX,58962,2020,1280583.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,5.0
+16678246,Maruti Suzuki,Baleno,Zeta AT Petrol,44613,2016,647000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2016,2025.0,7.0
+17226128,Honda,Amaze,1.2 VX i-VTEC,3643,2024,919000.0,petrol,1,sedan,manual,regular,Bangalore,2024,2025.0,7.0
+16034494,Hyundai,Elite i20,Asta 1.2,55445,2017,680000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+14544474,Datsun,Redi-GO,S 1.0,33616,2018,301000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,4.0
+17200888,Renault,Duster,110 PS RXZ 4X2 AMT,57054,2016,733000.0,diesel,2,suv,automatic,AMT,Bangalore,2016,2025.0,6.0
+13595457,Hyundai,Creta,1.6 SX Plus Auto,87300,2015,812000.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2016,2025.0,12.0
+15273072,Hyundai,i10,magna 1.1,44504,2016,398000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17395735,Maruti Suzuki,Baleno,Alpha Petrol,49770,2016,612000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,8.0
+18289710,Renault,Triber,RXZ AMT,12121,2023,832000.0,petrol,1,muv,automatic,AMT,Bangalore,2023,2025.0,12.0
+17411180,Kia,Seltos,GTX,58962,2020,1280583.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,5.0
+16678246,Maruti Suzuki,Baleno,Zeta AT Petrol,44613,2016,647000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2016,2025.0,7.0
+17226128,Honda,Amaze,1.2 VX i-VTEC,3643,2024,919000.0,petrol,1,sedan,manual,regular,Bangalore,2024,2025.0,7.0
+16034494,Hyundai,Elite i20,Asta 1.2,55445,2017,680000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+14544474,Datsun,Redi-GO,S 1.0,33616,2018,301000.0,petrol,1,hatchback,manual,regular,Bangalore,2018,2025.0,4.0
+17200888,Renault,Duster,110 PS RXZ 4X2 AMT,57054,2016,733000.0,diesel,2,suv,automatic,AMT,Bangalore,2016,2025.0,6.0
+13595457,Hyundai,Creta,1.6 SX Plus Auto,87300,2015,812000.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2016,2025.0,12.0
+15273072,Hyundai,i10,magna 1.1,44504,2016,398000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17395735,Maruti Suzuki,Baleno,Alpha Petrol,49770,2016,612000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,8.0
+18289710,Renault,Triber,RXZ AMT,12121,2023,832000.0,petrol,1,muv,automatic,AMT,Bangalore,2023,2025.0,12.0
+15281903,Renault,Kwid,RXT,50918,2017,329000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+17817243,Toyota,Glanza,V,11516,2023,912000.0,petrol,1,hatchback,manual,regular,Bangalore,2023,2025.0,12.0
+15283188,Hyundai,Eon,Sportz,38073,2017,362000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+15706938,Tata,Nexon,XZA Plus AMT Petrol,70864,2018,773000.0,petrol,1,suv,automatic,AMT,Bangalore,2018,2025.0,12.0
+17770996,Ford,EcoSport,Titanium + 1.5L TDCi,64041,2017,736000.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+15317095,Renault,Triber,RXT AMT,39333,2022,672000.0,petrol,1,muv,automatic,AMT,Bangalore,2022,2025.0,12.0
+17942883,Mahindra,Scorpio N,Z8 L 4WD Diesel AT 7 STR,32087,2022,2287553.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2023,2025.0,10.0
+16673991,Mahindra,XUV 300,W8 AMT (O) Diesel,10616,2022,1305000.0,diesel,1,suv,automatic,AMT,Bangalore,2022,2025.0,12.0
+16661344,Mahindra,KUV100,K4+ 6 STR,50109,2016,373000.0,petrol,1,crossover,manual,regular,Bangalore,2016,2025.0,12.0
+16997400,Hyundai,Venue,SX 1.0 (O) Turbo iMT Dual Tone Sport,52319,2020,991726.0,petrol,1,suv,manual,iMT,Bangalore,2020,2025.0,12.0
+15281903,Renault,Kwid,RXT,50918,2017,329000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+17817243,Toyota,Glanza,V,11516,2023,912000.0,petrol,1,hatchback,manual,regular,Bangalore,2023,2025.0,12.0
+15283188,Hyundai,Eon,Sportz,38073,2017,362000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,12.0
+15706938,Tata,Nexon,XZA Plus AMT Petrol,70864,2018,773000.0,petrol,1,suv,automatic,AMT,Bangalore,2018,2025.0,12.0
+17770996,Ford,EcoSport,Titanium + 1.5L TDCi,64041,2017,736000.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+15317095,Renault,Triber,RXT AMT,39333,2022,672000.0,petrol,1,muv,automatic,AMT,Bangalore,2022,2025.0,12.0
+17942883,Mahindra,Scorpio N,Z8 L 4WD Diesel AT 7 STR,32087,2022,2287553.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2023,2025.0,10.0
+16673991,Mahindra,XUV 300,W8 AMT (O) Diesel,10616,2022,1305000.0,diesel,1,suv,automatic,AMT,Bangalore,2022,2025.0,12.0
+16661344,Mahindra,KUV100,K4+ 6 STR,50109,2016,373000.0,petrol,1,crossover,manual,regular,Bangalore,2016,2025.0,12.0
+16997400,Hyundai,Venue,SX 1.0 (O) Turbo iMT Dual Tone Sport,52319,2020,991726.0,petrol,1,suv,manual,iMT,Bangalore,2020,2025.0,12.0
+10275643,Renault,Duster,110 PS RXZ 4X2 AMT,66237,2018,859000.0,diesel,1,suv,automatic,AMT,Bangalore,2018,2025.0,12.0
+16298123,Maruti Suzuki,Celerio,ZXI AMT,27760,2015,439000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2015,2025.0,12.0
+467117,Honda,City,ZX Diesel,49013,2018,1167955.0,diesel,1,sedan,manual,regular,Bangalore,2019,2025.0,12.0
+17762531,Maruti Suzuki,Celerio,VXI AMT,55624,2014,351000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2014,2025.0,12.0
+17903201,Tata,Tiago,Revotron XZA AMT,71718,2018,512000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2018,2025.0,7.0
+18194077,Honda,WR-V,VX i-VTEC,47184,2017,625000.0,petrol,2,suv,manual,regular,Bangalore,2018,2025.0,12.0
+15379085,Renault,Duster,110 PS RXZ 4X2 MT,87303,2017,768000.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+13560885,Maruti Suzuki,S-Cross,Alpha 1.5 AT,37656,2021,1048000.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,12.0
+16399852,Maruti Suzuki,Baleno,Zeta AT Petrol,53588,2016,619000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2016,2025.0,12.0
+17975977,Kia,Seltos,X Line DCT,46677,2021,1492638.0,petrol,1,suv,automatic,DCT,Bangalore,2022,2025.0,12.0
+10275643,Renault,Duster,110 PS RXZ 4X2 AMT,66237,2018,859000.0,diesel,1,suv,automatic,AMT,Bangalore,2018,2025.0,12.0
+16298123,Maruti Suzuki,Celerio,ZXI AMT,27760,2015,439000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2015,2025.0,12.0
+467117,Honda,City,ZX Diesel,49013,2018,1167955.0,diesel,1,sedan,manual,regular,Bangalore,2019,2025.0,12.0
+17762531,Maruti Suzuki,Celerio,VXI AMT,55624,2014,351000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2014,2025.0,12.0
+17903201,Tata,Tiago,Revotron XZA AMT,71718,2018,512000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2018,2025.0,7.0
+18194077,Honda,WR-V,VX i-VTEC,47184,2017,625000.0,petrol,2,suv,manual,regular,Bangalore,2018,2025.0,12.0
+15379085,Renault,Duster,110 PS RXZ 4X2 MT,87303,2017,768000.0,diesel,1,suv,manual,regular,Bangalore,2017,2025.0,12.0
+13560885,Maruti Suzuki,S-Cross,Alpha 1.5 AT,37656,2021,1048000.0,petrol,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,12.0
+16399852,Maruti Suzuki,Baleno,Zeta AT Petrol,53588,2016,619000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2016,2025.0,12.0
+17975977,Kia,Seltos,X Line DCT,46677,2021,1492638.0,petrol,1,suv,automatic,DCT,Bangalore,2022,2025.0,12.0
+18119290,Hyundai,Elite i20,Asta 1.2 (O),44763,2016,663000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+16774999,Hyundai,Venue,SX 1.0 (O) Turbo iMT,20316,2021,1044243.0,petrol,1,suv,manual,iMT,Bangalore,2021,,
+16266376,Hyundai,Venue,SX 1.0  Turbo,32057,2022,928000.0,petrol,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+17907795,Maruti Suzuki,XL6,Alpha AT Petrol,36821,2022,1271493.0,petrol,1,muv,automatic,Torque Convertor,Bangalore,2022,2025.0,5.0
+17707674,Maruti Suzuki,Celerio,VXI AMT,42369,2014,383000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2014,2025.0,12.0
+15566691,Renault,Triber,RXZ AMT,25719,2020,648000.0,petrol,1,muv,automatic,AMT,Bangalore,2020,2025.0,7.0
+12889493,Tata,Harrier,XZ,33133,2019,1488000.0,diesel,1,suv,manual,regular,Bangalore,2019,2025.0,12.0
+16037105,Hyundai,i10,Sportz 1.1 Petrol,36934,2016,425000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+14003287,Maruti Suzuki,Alto K10,VXI,21993,2019,394000.0,petrol,1,hatchback,manual,regular,Bangalore,2019,2025.0,12.0
+17228316,Maruti Suzuki,Baleno,Alpha AT Petrol,41069,2018,725000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2018,2025.0,12.0
+18119290,Hyundai,Elite i20,Asta 1.2 (O),44763,2016,663000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+16774999,Hyundai,Venue,SX 1.0 (O) Turbo iMT,20316,2021,1044243.0,petrol,1,suv,manual,iMT,Bangalore,2021,,
+16266376,Hyundai,Venue,SX 1.0  Turbo,32057,2022,928000.0,petrol,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+17907795,Maruti Suzuki,XL6,Alpha AT Petrol,36821,2022,1271493.0,petrol,1,muv,automatic,Torque Convertor,Bangalore,2022,2025.0,5.0
+17707674,Maruti Suzuki,Celerio,VXI AMT,42369,2014,383000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2014,2025.0,12.0
+15566691,Renault,Triber,RXZ AMT,25719,2020,648000.0,petrol,1,muv,automatic,AMT,Bangalore,2020,2025.0,7.0
+12889493,Tata,Harrier,XZ,33133,2019,1488000.0,diesel,1,suv,manual,regular,Bangalore,2019,2025.0,12.0
+16037105,Hyundai,i10,Sportz 1.1 Petrol,36934,2016,425000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+14003287,Maruti Suzuki,Alto K10,VXI,21993,2019,394000.0,petrol,1,hatchback,manual,regular,Bangalore,2019,2025.0,12.0
+17228316,Maruti Suzuki,Baleno,Alpha AT Petrol,41069,2018,725000.0,petrol,1,hatchback,automatic,CVT,Bangalore,2018,2025.0,12.0
+15413845,Renault,Kwid,1.0 RXT AMT,76888,2017,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2017,2025.0,12.0
+17343857,Hyundai,i20 N Line,N6 1.0 Turbo iMT,7564,2022,921000.0,petrol,1,hatchback,manual,iMT,Bangalore,2022,2025.0,9.0
+10815253,Tata,Nexon,XMA AMT Diesel S,72586,2021,895000.0,diesel,1,suv,automatic,AMT,Bangalore,2021,2025.0,12.0
+14601511,Volkswagen,Vento,1.6L Highline Petrol,33378,2019,808000.0,petrol,1,sedan,manual,regular,Bangalore,2019,2025.0,12.0
+14363673,Mahindra,Scorpio,S9,50664,2022,1523000.0,diesel,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+13513573,Tata,Nexon,XZ Plus Dual Tone roof Petrol,45610,2018,779000.0,petrol,1,suv,manual,regular,Bangalore,2018,2025.0,12.0
+16218765,Renault,Kwid,RXT,45207,2016,302000.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17891778,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,35446,2015,422000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+17204734,Honda,Amaze,1.2 VX i-VTEC,12318,2023,842000.0,petrol,1,sedan,manual,regular,Bangalore,2023,2025.0,12.0
+17513015,Renault,Kwid,CLIMBER 1.0 AMT,35625,2017,389000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2017,2025.0,8.0
+15413845,Renault,Kwid,1.0 RXT AMT,76888,2017,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2017,2025.0,12.0
+17343857,Hyundai,i20 N Line,N6 1.0 Turbo iMT,7564,2022,921000.0,petrol,1,hatchback,manual,iMT,Bangalore,2022,2025.0,9.0
+10815253,Tata,Nexon,XMA AMT Diesel S,72586,2021,895000.0,diesel,1,suv,automatic,AMT,Bangalore,2021,2025.0,12.0
+14601511,Volkswagen,Vento,1.6L Highline Petrol,33378,2019,808000.0,petrol,1,sedan,manual,regular,Bangalore,2019,2025.0,12.0
+14363673,Mahindra,Scorpio,S9,50664,2022,1523000.0,diesel,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+13513573,Tata,Nexon,XZ Plus Dual Tone roof Petrol,45610,2018,779000.0,petrol,1,suv,manual,regular,Bangalore,2018,2025.0,12.0
+16218765,Renault,Kwid,RXT,45207,2016,302000.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+17891778,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,35446,2015,422000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+17204734,Honda,Amaze,1.2 VX i-VTEC,12318,2023,842000.0,petrol,1,sedan,manual,regular,Bangalore,2023,2025.0,12.0
+17513015,Renault,Kwid,CLIMBER 1.0 AMT,35625,2017,389000.0,petrol,2,hatchback,automatic,AMT,Bangalore,2017,2025.0,8.0
+17011835,Hyundai,Elite i20,Sportz 1.2,72937,2015,542000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,4.0
+16785721,Honda,City,VX Diesel,63077,2018,895000.0,diesel,1,sedan,manual,regular,Bangalore,2019,2025.0,6.0
+17860693,Maruti Suzuki,S-Presso,VXI Plus AMT,18059,2020,485000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2020,2025.0,12.0
+17366410,Renault,Kwid,1.0 RXT AMT SCE,26902,2022,529000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,7.0
+17726096,Hyundai,Venue,SX Plus 1.0 Turbo DCT,47504,2019,895000.0,petrol,2,suv,automatic,DCT,Bangalore,2019,2025.0,7.0
+17303219,Hyundai,Aura,SX Plus 1.2 AMT Petrol,13754,2022,825000.0,petrol,1,sedan,automatic,AMT,Bangalore,2022,2025.0,6.0
+17033286,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,79442,2014,467000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2015,2025.0,9.0
+13827103,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,46327,2019,612000.0,petrol,1,hatchback,automatic,Torque Convertor,Bangalore,2019,2025.0,12.0
+15558380,Hyundai,i10,magna 1.1,24406,2015,375000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+14788029,Maruti Suzuki,Swift Dzire,ZXI,14177,2014,516000.0,petrol,1,sedan,manual,regular,Bangalore,2014,2025.0,12.0
+17011835,Hyundai,Elite i20,Sportz 1.2,72937,2015,542000.0,petrol,1,hatchback,manual,regular,Bangalore,2016,2025.0,4.0
+16785721,Honda,City,VX Diesel,63077,2018,895000.0,diesel,1,sedan,manual,regular,Bangalore,2019,2025.0,6.0
+17860693,Maruti Suzuki,S-Presso,VXI Plus AMT,18059,2020,485000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2020,2025.0,12.0
+17366410,Renault,Kwid,1.0 RXT AMT SCE,26902,2022,529000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,7.0
+17726096,Hyundai,Venue,SX Plus 1.0 Turbo DCT,47504,2019,895000.0,petrol,2,suv,automatic,DCT,Bangalore,2019,2025.0,7.0
+17303219,Hyundai,Aura,SX Plus 1.2 AMT Petrol,13754,2022,825000.0,petrol,1,sedan,automatic,AMT,Bangalore,2022,2025.0,6.0
+17033286,Hyundai,Grand i10,Asta AT 1.2 Kappa VTVT,79442,2014,467000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2015,2025.0,9.0
+13827103,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,46327,2019,612000.0,petrol,1,hatchback,automatic,Torque Convertor,Bangalore,2019,2025.0,12.0
+15558380,Hyundai,i10,magna 1.1,24406,2015,375000.0,petrol,1,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+14788029,Maruti Suzuki,Swift Dzire,ZXI,14177,2014,516000.0,petrol,1,sedan,manual,regular,Bangalore,2014,2025.0,12.0
+14011113,Maruti Suzuki,Ciaz,Zeta Petrol AT,62057,2018,679000.0,petrol,2,sedan,automatic,Torque Convertor,Bangalore,2018,2025.0,12.0
+12826344,Maruti Suzuki,Dzire,ZXI Plus AMT,80871,2017,598000.0,petrol,1,sedan,automatic,AMT,Bangalore,2017,2025.0,12.0
+13598248,Mahindra,Thar,LX 4 STR Convertible Diesel AT 4WD,25979,2021,1497000.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,12.0
+17481505,Hyundai,Creta,1.6 SX Plus Auto Petrol,75077,2016,878000.0,petrol,2,suv,automatic,Torque Convertor,Bangalore,2016,2025.0,12.0
+12508267,Maruti Suzuki,Alto K10,VXI AMT,60927,2016,346000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+15487871,Maruti Suzuki,Vitara Brezza,ZDi Plus,61089,2016,747000.0,diesel,2,suv,manual,regular,Bangalore,2016,2025.0,12.0
+17932589,Hyundai,Xcent,SX AT (O) Petrol,43494,2015,498000.0,petrol,2,sedan,automatic,,Bangalore,2015,2025.0,12.0
+12568396,Nissan,Magnite,XL Turbo CVT,30405,2021,726000.0,petrol,1,suv,automatic,CVT,Bangalore,2021,2025.0,12.0
+15808757,Maruti Suzuki,Ritz,VXI,51995,2014,387000.0,petrol,1,hatchback,manual,regular,Bangalore,2014,2025.0,12.0
+17735668,Kia,Sonet,HTX 1.5,18582,2022,1160348.0,diesel,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+14011113,Maruti Suzuki,Ciaz,Zeta Petrol AT,62057,2018,679000.0,petrol,2,sedan,automatic,Torque Convertor,Bangalore,2018,2025.0,12.0
+12826344,Maruti Suzuki,Dzire,ZXI Plus AMT,80871,2017,598000.0,petrol,1,sedan,automatic,AMT,Bangalore,2017,2025.0,12.0
+13598248,Mahindra,Thar,LX 4 STR Convertible Diesel AT 4WD,25979,2021,1497000.0,diesel,1,suv,automatic,Torque Convertor,Bangalore,2021,2025.0,12.0
+17481505,Hyundai,Creta,1.6 SX Plus Auto Petrol,75077,2016,878000.0,petrol,2,suv,automatic,Torque Convertor,Bangalore,2016,2025.0,12.0
+12508267,Maruti Suzuki,Alto K10,VXI AMT,60927,2016,346000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+15487871,Maruti Suzuki,Vitara Brezza,ZDi Plus,61089,2016,747000.0,diesel,2,suv,manual,regular,Bangalore,2016,2025.0,12.0
+17932589,Hyundai,Xcent,SX AT (O) Petrol,43494,2015,498000.0,petrol,2,sedan,automatic,,Bangalore,2015,2025.0,12.0
+12568396,Nissan,Magnite,XL Turbo CVT,30405,2021,726000.0,petrol,1,suv,automatic,CVT,Bangalore,2021,2025.0,12.0
+15808757,Maruti Suzuki,Ritz,VXI,51995,2014,387000.0,petrol,1,hatchback,manual,regular,Bangalore,2014,2025.0,12.0
+17735668,Kia,Sonet,HTX 1.5,18582,2022,1160348.0,diesel,1,suv,manual,regular,Bangalore,2022,2025.0,12.0
+15048775,Hyundai,New i20,Asta 1.0 Turbo IMT,34427,2021,846000.0,petrol,1,hatchback,manual,iMT,Bangalore,2021,2025.0,12.0
+17635763,Hyundai,Grand i10 Nios,Sportz AMT 1.2 Kappa VTVT,18270,2022,742000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,12.0
+16655434,Maruti Suzuki,Baleno,Delta AT Petrol,66576,2016,523000.0,petrol,2,hatchback,automatic,CVT,Bangalore,2016,2025.0,12.0
+18097470,Renault,Triber,RXZ,70716,2019,563000.0,petrol,1,muv,manual,regular,Bangalore,2020,2025.0,12.0
+17660605,Honda,Brio,VX MT,89256,2017,458000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,6.0
+16041157,Maruti Suzuki,Dzire,VXI,67790,2020,643000.0,petrol,1,sedan,manual,regular,Bangalore,2020,2025.0,12.0
+18093162,Honda,Mobilio,S Petrol,27296,2015,567000.0,petrol,1,muv,manual,regular,Bangalore,2016,2025.0,12.0
+18292722,Renault,Triber,RXT AMT,32484,2020,590000.0,petrol,1,muv,automatic,AMT,Bangalore,2021,2025.0,12.0
+18113081,Honda,WR-V,i-VTEC S,33070,2017,575000.0,petrol,1,suv,manual,regular,Bangalore,2017,,
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+15048775,Hyundai,New i20,Asta 1.0 Turbo IMT,34427,2021,846000.0,petrol,1,hatchback,manual,iMT,Bangalore,2021,2025.0,12.0
+17635763,Hyundai,Grand i10 Nios,Sportz AMT 1.2 Kappa VTVT,18270,2022,742000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2022,2025.0,12.0
+16655434,Maruti Suzuki,Baleno,Delta AT Petrol,66576,2016,523000.0,petrol,2,hatchback,automatic,CVT,Bangalore,2016,2025.0,12.0
+18097470,Renault,Triber,RXZ,70716,2019,563000.0,petrol,1,muv,manual,regular,Bangalore,2020,2025.0,12.0
+17660605,Honda,Brio,VX MT,89256,2017,458000.0,petrol,1,hatchback,manual,regular,Bangalore,2017,2025.0,6.0
+16041157,Maruti Suzuki,Dzire,VXI,67790,2020,643000.0,petrol,1,sedan,manual,regular,Bangalore,2020,2025.0,12.0
+18093162,Honda,Mobilio,S Petrol,27296,2015,567000.0,petrol,1,muv,manual,regular,Bangalore,2016,2025.0,12.0
+18292722,Renault,Triber,RXT AMT,32484,2020,590000.0,petrol,1,muv,automatic,AMT,Bangalore,2021,2025.0,12.0
+18113081,Honda,WR-V,i-VTEC S,33070,2017,575000.0,petrol,1,suv,manual,regular,Bangalore,2017,,
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0
+13998786,Mercedes-Benz,A-Class,A 200 CDI Sport,61370,2015,1636058.0,diesel,2,hatchback,automatic,,Bangalore,2017,2025.0,12.0
+17613667,Hyundai,Exter,S 1.2 Petrol MT,15520,2023,719000.0,petrol,1,suv,manual,regular,Bangalore,2023,2025.0,12.0
+17724235,Hyundai,Venue,SX 1.0  Turbo,38613,2020,890000.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18300404,Kia,Seltos,GTX Plus,8834,2020,1473448.0,petrol,1,suv,manual,regular,Bangalore,2020,2025.0,12.0
+18058269,Honda,Brio,VX AT,51333,2015,439000.0,petrol,2,hatchback,automatic,,Bangalore,2015,2025.0,5.0
+17086044,Skoda,Kodiaq,L & K,31580,2022,3371185.0,petrol,1,suv,automatic,,Bangalore,2022,2025.0,12.0
+17632788,Kia,Seltos,X Line (S) 1.5 Turbo Petrol DCT,160,2023,2069348.0,petrol,0,suv,automatic,,Bangalore,2023,2025.0,12.0
+17114042,Renault,Kwid,RXT 1.0 SCE Special,22337,2016,336129.0,petrol,2,hatchback,manual,regular,Bangalore,2016,2025.0,12.0
+18031563,Maruti Suzuki,Alto 800,LXI,30846,2015,268000.0,petrol,2,hatchback,manual,regular,Bangalore,2015,2025.0,12.0
+18266831,Maruti Suzuki,Alto K10,VXI AMT,10788,2015,358000.0,petrol,1,hatchback,automatic,AMT,Bangalore,2016,2025.0,12.0
+18198913,Renault,Kiger,RXZ 1.0 Turbo MT Dual Tone,26519,2021,765000.0,petrol,1,suv,manual,regular,Bangalore,2021,2025.0,4.0
+17625021,Kia,Seltos,HTK Plus iMT,39428,2022,1170493.0,petrol,1,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17943632,Honda,Brio,S MT,26513,2012,319000.0,petrol,1,hatchback,manual,regular,Bangalore,2012,2025.0,12.0
+17508382,Hyundai,Venue,SX (O) 1.0 Turbo iMT,44420,2022,959000.0,petrol,2,suv,manual,iMT,Bangalore,2022,2025.0,12.0
+17377703,Honda,Brio,V MT,46823,2013,326000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17904405,Mercedes-Benz,C-Class,C 200 Progressive,20251,2020,3696458.0,petrol,1,sedan,automatic,Torque Convertor,Bangalore,2020,2025.0,6.0
+17669188,Honda,WR-V,VX i-VTEC,97829,2017,611000.0,petrol,1,suv,manual,regular,Bangalore,2019,2025.0,5.0
+16171386,Nissan,Micra,XL Petrol,77450,2013,275000.0,petrol,2,hatchback,manual,regular,Bangalore,2013,2025.0,12.0
+17419249,Maruti Suzuki,Ciaz,VXI+,76402,2016,463000.0,petrol,3,sedan,manual,regular,Bangalore,2016,2025.0,3.0
+16199838,BMW,X1,sDrive20d xLine,47633,2017,2454158.0,diesel,1,suv,automatic,,Bangalore,2017,2025.0,8.0

@@ -1,0 +1,161 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+15055909,Volkswagen,Taigun,Highline 1.0 TSI AT,34020,2022,1234001.0,petrol,1,suv,automatic,Torque Convertor,Indore,2022,2025.0,12.0
+17358197,Volkswagen,Vento,1.6L Highline Petrol,66025,2016,557590.0,petrol,1,sedan,manual,regular,Indore,2016,2025.0,10.0
+16145528,Hyundai,Elite i20,Sportz Plus 1.2,35310,2020,616000.0,petrol,1,hatchback,manual,regular,Indore,2020,2025.0,12.0
+17189474,Hyundai,i20 N Line,N8 1.0 Turbo DCT,5562,2024,1176000.0,petrol,1,hatchback,automatic,DCT,Indore,2024,2025.0,12.0
+15881120,Hyundai,Elite i20,Asta 1.2 (O),33449,2020,708000.0,petrol,1,hatchback,manual,regular,Indore,2020,2025.0,7.0
+17671091,Volkswagen,Virtus,Topline 1.0 TSI AT,16679,2023,1457925.0,petrol,1,sedan,automatic,Torque Convertor,Indore,2023,2026.0,3.0
+15818505,Kia,Seltos,GTX DCT,26709,2019,1202000.0,petrol,1,suv,automatic,DCT,Indore,2019,2025.0,12.0
+15926428,Mahindra,XUV500,W7,82374,2021,1167002.0,diesel,1,suv,manual,regular,Indore,2021,2025.0,5.0
+17220119,Maruti Suzuki,Vitara Brezza,VXI AT,57488,2021,783475.0,petrol,1,suv,automatic,,Indore,2021,2025.0,8.0
+14114207,Maruti Suzuki,Fronx,Alpha 1.0L Turbo MT,22577,2023,994000.0,petrol,1,suv,manual,regular,Indore,2023,2025.0,5.0
+16974196,Maruti Suzuki,Dzire,VXI AMT,14599,2022,741758.0,petrol,1,sedan,automatic,AMT,Indore,2022,2025.0,12.0
+13542877,MG Motors,Astor,Smart 1.5 MT,52471,2022,1044000.0,petrol,1,suv,manual,CVT,Indore,2022,2025.0,12.0
+15722147,Maruti Suzuki,Dzire,ZDi AMT,58230,2018,693000.0,diesel,1,sedan,automatic,AMT,Indore,2018,2025.0,12.0
+17179962,Hyundai,Elite i20,Asta 1.2,24702,2018,607448.0,petrol,2,hatchback,manual,regular,Indore,2019,2025.0,12.0
+17603582,Tata,Tiago NRG,XZA iCNG,2276,2024,781440.0,petrol+cng,1,hatchback,automatic,,Indore,2024,2025.0,8.0
+16502900,Hyundai,Elite i20,Sportz 1.2,65688,2018,569000.0,petrol,1,hatchback,manual,regular,Indore,2018,2025.0,12.0
+16571386,Mahindra,KUV100,K6+ 6 STR,34878,2017,382580.0,petrol,1,crossover,manual,regular,Indore,2017,2025.0,12.0
+16231771,Toyota,Etios Liva,GD,110267,2017,495000.0,diesel,1,hatchback,manual,regular,Indore,2018,2025.0,12.0
+15034441,Tata,Tigor,Revotron XZ+ CNG,52776,2023,729000.0,petrol+cng,1,sedan,manual,regular,Indore,2023,2025.0,12.0
+16648425,Hyundai,Elite i20,Sportz Plus 1.2,98565,2020,592000.0,petrol,1,hatchback,manual,regular,Indore,2020,2025.0,8.0
+16974196,Maruti Suzuki,Dzire,VXI AMT,14599,2022,741758.0,petrol,1,sedan,automatic,AMT,Indore,2022,2025.0,12.0
+13542877,MG Motors,Astor,Smart 1.5 MT,52471,2022,1044000.0,petrol,1,suv,manual,CVT,Indore,2022,2025.0,12.0
+15722147,Maruti Suzuki,Dzire,ZDi AMT,58230,2018,693000.0,diesel,1,sedan,automatic,AMT,Indore,2018,2025.0,12.0
+17179962,Hyundai,Elite i20,Asta 1.2,24702,2018,607448.0,petrol,2,hatchback,manual,regular,Indore,2019,2025.0,12.0
+17603582,Tata,Tiago NRG,XZA iCNG,2276,2024,781440.0,petrol+cng,1,hatchback,automatic,,Indore,2024,2025.0,8.0
+16502900,Hyundai,Elite i20,Sportz 1.2,65688,2018,569000.0,petrol,1,hatchback,manual,regular,Indore,2018,2025.0,12.0
+16492947,Tata,Hexa,XM,84413,2017,778388.0,diesel,1,suv,manual,regular,Indore,2017,2025.0,12.0
+17069820,Hyundai,Grand i10 Nios,Sportz 1.2 CNG,9623,2023,751932.0,petrol+cng,1,hatchback,manual,regular,Indore,2023,2025.0,12.0
+17529241,Toyota,Etios Liva,VD,35681,2019,686812.0,diesel,1,hatchback,manual,regular,Indore,2020,2025.0,12.0
+17731898,Hyundai,Grand i10 Nios,Sportz AMT 1.2 Kappa VTVT,13798,2022,689865.0,petrol,1,hatchback,automatic,AMT,Indore,2022,2025.0,12.0
+17278786,Hyundai,Elite i20,Sportz Plus 1.2,34341,2019,643060.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,10.0
+16692309,Honda,Brio,S MT,31644,2017,422000.0,petrol,1,hatchback,manual,regular,Indore,2017,2025.0,12.0
+16228063,Mahindra,XUV500,W10,89158,2017,932000.0,diesel,1,suv,manual,regular,Indore,2017,2025.0,12.0
+14906559,Tata,Tigor,Revotron XT,38852,2018,489000.0,petrol,1,sedan,manual,regular,Indore,2018,2025.0,12.0
+15652965,Maruti Suzuki,Ciaz,Alpha Petrol,46170,2017,608000.0,petrol,1,sedan,manual,regular,Indore,2017,2025.0,12.0
+17283511,Renault,Triber,RXZ,13668,2020,625762.0,petrol,1,muv,manual,regular,Indore,2020,,
+15315273,Renault,Kiger,RXZ 1.0 Turbo MT,43425,2021,653000.0,petrol,1,suv,manual,regular,Indore,2023,2025.0,12.0
+16075603,Skoda,Rapid,Elegance Diesel MT,86816,2016,486365.0,diesel,3,sedan,manual,regular,Indore,2017,2025.0,12.0
+17349534,Maruti Suzuki,Swift Dzire,ZDI,62915,2011,360195.0,diesel,1,sedan,manual,regular,Indore,2011,2025.0,12.0
+16054008,Maruti Suzuki,A-Star,VXI,56183,2011,260000.0,petrol,1,hatchback,manual,regular,Indore,2011,2025.0,6.0
+17278786,Hyundai,Elite i20,Sportz Plus 1.2,34341,2019,643060.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,10.0
+16692309,Honda,Brio,S MT,31644,2017,422000.0,petrol,1,hatchback,manual,regular,Indore,2017,2025.0,12.0
+16228063,Mahindra,XUV500,W10,89158,2017,932000.0,diesel,1,suv,manual,regular,Indore,2017,2025.0,12.0
+14906559,Tata,Tigor,Revotron XT,38852,2018,489000.0,petrol,1,sedan,manual,regular,Indore,2018,2025.0,12.0
+15652965,Maruti Suzuki,Ciaz,Alpha Petrol,46170,2017,608000.0,petrol,1,sedan,manual,regular,Indore,2017,2025.0,12.0
+17283511,Renault,Triber,RXZ,13668,2020,625762.0,petrol,1,muv,manual,regular,Indore,2020,,
+15315273,Renault,Kiger,RXZ 1.0 Turbo MT,43425,2021,653000.0,petrol,1,suv,manual,regular,Indore,2023,2025.0,12.0
+12295418,Renault,Kwid,1.0 RXT(O) SCE,24109,2021,399056.0,petrol,2,hatchback,manual,regular,Indore,2021,2025.0,12.0
+14533701,Kia,Sonet,GTX Plus 1.5 AT,39748,2020,1066000.0,diesel,1,suv,automatic,Torque Convertor,Indore,2020,2025.0,12.0
+17481987,Maruti Suzuki,S-Presso,LXI,4297,2021,436508.0,petrol,1,hatchback,manual,regular,Indore,2021,2025.0,12.0
+15610153,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,29754,2019,518000.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,12.0
+16808182,Hyundai,Elite i20,Sportz 1.2,38717,2015,493000.0,petrol,1,hatchback,manual,regular,Indore,2015,2025.0,12.0
+16996430,Volkswagen,Polo,Highline Plus 1.0 TSI,26092,2021,733000.0,petrol,1,hatchback,manual,regular,Indore,2021,2025.0,6.0
+14605949,Maruti Suzuki,Celerio,ZXI Plus,35001,2021,494000.0,petrol,1,hatchback,manual,regular,Indore,2022,2025.0,12.0
+16751245,Maruti Suzuki,Ignis,Zeta MT Petrol,16348,2022,559000.0,petrol,1,hatchback,manual,regular,Indore,2022,2025.0,12.0
+14916491,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,53700,2019,506000.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,5.0
+17516823,Maruti Suzuki,Baleno,Alpha AT Petrol,66923,2018,602360.0,petrol,1,hatchback,automatic,CVT,Indore,2018,2025.0,12.0
+12868201,MG Motors,Astor,Super EX 1.5 MT,8936,2022,1045955.0,petrol,1,suv,manual,regular,Indore,2022,2025.0,12.0
+15450683,Maruti Suzuki,Alto K10,VXI,27559,2012,230000.0,petrol,1,hatchback,manual,regular,Indore,2012,2025.0,7.0
+10660096,Tata,Hexa,XTA,71098,2018,871000.0,diesel,3,suv,automatic,Torque Convertor,Indore,2018,2025.0,12.0
+15610153,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,29754,2019,518000.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,12.0
+16808182,Hyundai,Elite i20,Sportz 1.2,38717,2015,493000.0,petrol,1,hatchback,manual,regular,Indore,2015,2025.0,12.0
+16996430,Volkswagen,Polo,Highline Plus 1.0 TSI,26092,2021,733000.0,petrol,1,hatchback,manual,regular,Indore,2021,2025.0,6.0
+14605949,Maruti Suzuki,Celerio,ZXI Plus,35001,2021,494000.0,petrol,1,hatchback,manual,regular,Indore,2022,2025.0,12.0
+16751245,Maruti Suzuki,Ignis,Zeta MT Petrol,16348,2022,559000.0,petrol,1,hatchback,manual,regular,Indore,2022,2025.0,12.0
+14916491,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,53700,2019,506000.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,5.0
+17516823,Maruti Suzuki,Baleno,Alpha AT Petrol,66923,2018,602360.0,petrol,1,hatchback,automatic,CVT,Indore,2018,2025.0,12.0
+12868201,MG Motors,Astor,Super EX 1.5 MT,8936,2022,1045955.0,petrol,1,suv,manual,regular,Indore,2022,2025.0,12.0
+17507526,MG Motors,Astor,Sharp 1.5 CVT,15876,2022,1141025.0,petrol,1,suv,automatic,CVT,Indore,2022,2025.0,12.0
+16710656,Renault,Kwid,1.0 RXL AMT,27984,2017,325000.0,petrol,1,hatchback,automatic,AMT,Indore,2017,2025.0,12.0
+16518273,Tata,Tiago,Revotorq XZ,61015,2016,438438.0,diesel,1,hatchback,manual,regular,Indore,2017,2025.0,12.0
+16790521,Hyundai,Elite i20,Sportz Plus 1.2,53034,2020,668498.0,petrol,1,hatchback,manual,regular,Indore,2020,2025.0,6.0
+17418951,Tata,Punch,Accomplished MT,10071,2022,690000.0,petrol,1,suv,manual,regular,Indore,2022,2025.0,12.0
+15504306,Toyota,Etios Cross,1.2 G,64591,2015,414000.0,petrol,1,crossover,manual,regular,Indore,2016,2025.0,12.0
+16339125,Mahindra,XUV700,AX 7 Petrol AT 7 STR,30843,2021,1848000.0,petrol,1,suv,automatic,Torque Convertor,Indore,2021,2025.0,12.0
+15734986,Tata,Tigor,Revotron XZ+,20747,2022,635000.0,petrol,1,sedan,manual,regular,Indore,2022,2025.0,12.0
+16951826,Honda,WR-V,i-DTEC SV,60770,2021,890312.0,diesel,1,suv,manual,regular,Indore,2021,2025.0,12.0
+15752169,Honda,City,ZX Diesel,54226,2020,1070955.0,diesel,1,sedan,manual,regular,Indore,2020,2025.0,12.0
+14889407,Toyota,Urban Cruiser Hyryder,V Neodrive AT,65625,2023,1414954.0,petrol,1,suv,automatic,,Indore,2023,2025.0,12.0
+16513552,Tata,Tiago,Revotron XZA AMT,26997,2019,506715.0,petrol,1,hatchback,automatic,AMT,Indore,2019,2025.0,4.0
+16518273,Tata,Tiago,Revotorq XZ,61015,2016,438438.0,diesel,1,hatchback,manual,regular,Indore,2017,2025.0,12.0
+16790521,Hyundai,Elite i20,Sportz Plus 1.2,53034,2020,668498.0,petrol,1,hatchback,manual,regular,Indore,2020,2025.0,6.0
+17418951,Tata,Punch,Accomplished MT,10071,2022,690000.0,petrol,1,suv,manual,regular,Indore,2022,2025.0,12.0
+15504306,Toyota,Etios Cross,1.2 G,64591,2015,414000.0,petrol,1,crossover,manual,regular,Indore,2016,2025.0,12.0
+16339125,Mahindra,XUV700,AX 7 Petrol AT 7 STR,30843,2021,1848000.0,petrol,1,suv,automatic,Torque Convertor,Indore,2021,2025.0,12.0
+15734986,Tata,Tigor,Revotron XZ+,20747,2022,635000.0,petrol,1,sedan,manual,regular,Indore,2022,2025.0,12.0
+16951826,Honda,WR-V,i-DTEC SV,60770,2021,890312.0,diesel,1,suv,manual,regular,Indore,2021,2025.0,12.0
+15752169,Honda,City,ZX Diesel,54226,2020,1070955.0,diesel,1,sedan,manual,regular,Indore,2020,2025.0,12.0
+14889407,Toyota,Urban Cruiser Hyryder,V Neodrive AT,65625,2023,1414954.0,petrol,1,suv,automatic,,Indore,2023,2025.0,12.0
+16513552,Tata,Tiago,Revotron XZA AMT,26997,2019,506715.0,petrol,1,hatchback,automatic,AMT,Indore,2019,2025.0,4.0
+14406954,Maruti Suzuki,Grand Vitara,Zeta Plus Intelligent Hybrid eCVT,28211,2022,1634000.0,hybrid,1,suv,automatic,CVT,Indore,2023,2026.0,1.0
+17156656,Renault,Kwid,1.0 RXT AMT,14514,2020,446682.0,petrol,1,hatchback,automatic,AMT,Indore,2020,2025.0,4.0
+16584592,Maruti Suzuki,S-Cross,Zeta 1.5,20055,2022,842000.0,petrol,1,suv,manual,regular,Indore,2022,2025.0,12.0
+17031386,Maruti Suzuki,Dzire,VXI AMT,11980,2022,762108.0,petrol,1,sedan,automatic,AMT,Indore,2022,2025.0,8.0
+13250904,Hyundai,Tucson,GLS 4WD AT Diesel,59588,2018,1417999.0,diesel,1,suv,automatic,,Indore,2018,2025.0,12.0
+17212954,Tata,Tigor,XZ Petrol,41918,2021,546398.0,petrol,1,sedan,manual,regular,Indore,2021,2025.0,12.0
+16990592,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,47806,2019,496000.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,6.0
+15358651,Renault,Kwid,1.0 RXT AMT Opt,25459,2021,391000.0,petrol,2,hatchback,automatic,AMT,Indore,2021,2025.0,4.0
+13906325,Tata,Hexa,XM,69070,2017,760000.0,diesel,1,suv,manual,regular,Indore,2017,2025.0,12.0
+15912521,Hyundai,i10,magna 1.1,34633,2014,325000.0,petrol,1,hatchback,manual,regular,Indore,2014,2025.0,12.0
+14406954,Maruti Suzuki,Grand Vitara,Zeta Plus Intelligent Hybrid eCVT,28211,2022,1634000.0,hybrid,1,suv,automatic,CVT,Indore,2023,2026.0,1.0
+17156656,Renault,Kwid,1.0 RXT AMT,14514,2020,446682.0,petrol,1,hatchback,automatic,AMT,Indore,2020,2025.0,4.0
+16584592,Maruti Suzuki,S-Cross,Zeta 1.5,20055,2022,842000.0,petrol,1,suv,manual,regular,Indore,2022,2025.0,12.0
+17031386,Maruti Suzuki,Dzire,VXI AMT,11980,2022,762108.0,petrol,1,sedan,automatic,AMT,Indore,2022,2025.0,8.0
+13250904,Hyundai,Tucson,GLS 4WD AT Diesel,59588,2018,1417999.0,diesel,1,suv,automatic,,Indore,2018,2025.0,12.0
+17212954,Tata,Tigor,XZ Petrol,41918,2021,546398.0,petrol,1,sedan,manual,regular,Indore,2021,2025.0,12.0
+16990592,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,47806,2019,496000.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,6.0
+15358651,Renault,Kwid,1.0 RXT AMT Opt,25459,2021,391000.0,petrol,2,hatchback,automatic,AMT,Indore,2021,2025.0,4.0
+13906325,Tata,Hexa,XM,69070,2017,760000.0,diesel,1,suv,manual,regular,Indore,2017,2025.0,12.0
+15912521,Hyundai,i10,magna 1.1,34633,2014,325000.0,petrol,1,hatchback,manual,regular,Indore,2014,2025.0,12.0
+17356840,Maruti Suzuki,Swift,VXI,22401,2017,476190.0,petrol,1,hatchback,manual,regular,Indore,2017,2025.0,8.0
+15482698,Hyundai,Xcent,SX Diesel,43637,2018,599308.0,diesel,2,sedan,manual,regular,Indore,2018,2025.0,4.0
+17388045,Maruti Suzuki,Wagon R 1.0,VXI,47968,2017,389000.0,petrol,1,hatchback,manual,regular,Indore,2017,2025.0,5.0
+16425282,Maruti Suzuki,Alto 800,VXI,45339,2015,284000.0,petrol,1,hatchback,manual,regular,Indore,2015,2025.0,12.0
+16988016,Maruti Suzuki,Ritz,VXI,43577,2014,334758.0,petrol,1,hatchback,manual,regular,Indore,2014,2025.0,12.0
+17697256,Maruti Suzuki,S-Presso,VXI Plus,31641,2022,454822.0,petrol,1,hatchback,manual,regular,Indore,2022,2025.0,4.0
+16680742,Maruti Suzuki,Swift,VXI AMT,37675,2018,551485.0,petrol,1,hatchback,automatic,AMT,Indore,2018,2025.0,8.0
+17732830,Toyota,Etios Cross,1.2 G,30263,2016,497558.0,petrol,1,crossover,manual,regular,Indore,2016,2025.0,12.0
+16231829,Honda,City,ZX CVT,57826,2020,949000.0,petrol,1,sedan,automatic,CVT,Indore,2020,2025.0,8.0
+14382442,Honda,WR-V,i-VTEC SV,14308,2022,777000.0,petrol,1,suv,manual,regular,Indore,2022,2025.0,12.0
+17356840,Maruti Suzuki,Swift,VXI,22401,2017,476190.0,petrol,1,hatchback,manual,regular,Indore,2017,2025.0,8.0
+15482698,Hyundai,Xcent,SX Diesel,43637,2018,599308.0,diesel,2,sedan,manual,regular,Indore,2018,2025.0,4.0
+17388045,Maruti Suzuki,Wagon R 1.0,VXI,47968,2017,389000.0,petrol,1,hatchback,manual,regular,Indore,2017,2025.0,5.0
+16425282,Maruti Suzuki,Alto 800,VXI,45339,2015,284000.0,petrol,1,hatchback,manual,regular,Indore,2015,2025.0,12.0
+16988016,Maruti Suzuki,Ritz,VXI,43577,2014,334758.0,petrol,1,hatchback,manual,regular,Indore,2014,2025.0,12.0
+17697256,Maruti Suzuki,S-Presso,VXI Plus,31641,2022,454822.0,petrol,1,hatchback,manual,regular,Indore,2022,2025.0,4.0
+16680742,Maruti Suzuki,Swift,VXI AMT,37675,2018,551485.0,petrol,1,hatchback,automatic,AMT,Indore,2018,2025.0,8.0
+17732830,Toyota,Etios Cross,1.2 G,30263,2016,497558.0,petrol,1,crossover,manual,regular,Indore,2016,2025.0,12.0
+16231829,Honda,City,ZX CVT,57826,2020,949000.0,petrol,1,sedan,automatic,CVT,Indore,2020,2025.0,8.0
+14382442,Honda,WR-V,i-VTEC SV,14308,2022,777000.0,petrol,1,suv,manual,regular,Indore,2022,2025.0,12.0
+16956634,Maruti Suzuki,Swift,ZXI AMT,17327,2022,767195.0,petrol,1,hatchback,automatic,AMT,Indore,2022,2025.0,12.0
+12886236,Hyundai,Creta,1.6 SX (O),42164,2017,1047902.0,diesel,1,suv,manual,regular,Indore,2017,2025.0,12.0
+17023973,Maruti Suzuki,S-Presso,VXI Plus,28172,2019,395808.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,12.0
+13610946,Skoda,Slavia,Style 1.0L TSI MT,26933,2022,1205971.0,petrol,1,sedan,manual,regular,Indore,2022,2025.0,12.0
+16060260,Renault,Kwid,RXL,26722,2018,307000.0,petrol,1,hatchback,manual,regular,Indore,2018,2025.0,8.0
+16970508,Honda,Brio,VX MT,60915,2016,409000.0,petrol,1,hatchback,manual,regular,Indore,2016,2025.0,8.0
+16410808,Maruti Suzuki,Wagon R 1.0,LXI CNG,33210,2015,395000.0,petrol+cng,1,hatchback,manual,regular,Indore,2015,2025.0,12.0
+16743640,Maruti Suzuki,Wagon R 1.0,VXI,31239,2017,416000.0,petrol,1,hatchback,manual,regular,Indore,2017,2025.0,5.0
+17215035,Maruti Suzuki,Swift,VXI,15641,2020,586000.0,petrol,1,hatchback,manual,regular,Indore,2020,2025.0,12.0
+14942452,Tata,Tigor,Revotron XM (O),29318,2019,498000.0,petrol,1,sedan,manual,regular,Indore,2019,2025.0,12.0
+16956634,Maruti Suzuki,Swift,ZXI AMT,17327,2022,767195.0,petrol,1,hatchback,automatic,AMT,Indore,2022,2025.0,12.0
+12886236,Hyundai,Creta,1.6 SX (O),42164,2017,1047902.0,diesel,1,suv,manual,regular,Indore,2017,2025.0,12.0
+17023973,Maruti Suzuki,S-Presso,VXI Plus,28172,2019,395808.0,petrol,1,hatchback,manual,regular,Indore,2019,2025.0,12.0
+13610946,Skoda,Slavia,Style 1.0L TSI MT,26933,2022,1205971.0,petrol,1,sedan,manual,regular,Indore,2022,2025.0,12.0
+16060260,Renault,Kwid,RXL,26722,2018,307000.0,petrol,1,hatchback,manual,regular,Indore,2018,2025.0,8.0
+16970508,Honda,Brio,VX MT,60915,2016,409000.0,petrol,1,hatchback,manual,regular,Indore,2016,2025.0,8.0
+16410808,Maruti Suzuki,Wagon R 1.0,LXI CNG,33210,2015,395000.0,petrol+cng,1,hatchback,manual,regular,Indore,2015,2025.0,12.0
+16743640,Maruti Suzuki,Wagon R 1.0,VXI,31239,2017,416000.0,petrol,1,hatchback,manual,regular,Indore,2017,2025.0,5.0
+17215035,Maruti Suzuki,Swift,VXI,15641,2020,586000.0,petrol,1,hatchback,manual,regular,Indore,2020,2025.0,12.0
+14942452,Tata,Tigor,Revotron XM (O),29318,2019,498000.0,petrol,1,sedan,manual,regular,Indore,2019,2025.0,12.0
+16438383,Hyundai,Alcazar,Platinum (O) 6 STR 2.0 Petrol AT,35912,2021,1529999.0,petrol,1,suv,automatic,DCT,Indore,2021,2025.0,12.0
+16816851,Hyundai,Eon,Magna +,22159,2016,300162.0,petrol,1,hatchback,manual,regular,Indore,2016,2025.0,12.0
+15414903,Ford,Figo,Titanium Petrol+cng(o/s fitted),45163,2019,486365.0,petrol+cng,1,hatchback,manual,regular,Indore,2019,2025.0,9.0
+17318644,Hyundai,Grand i10,Magna 1.2 Kappa VTVT,30899,2018,497558.0,petrol,1,hatchback,manual,regular,Indore,2018,2025.0,7.0
+14406883,Skoda,Rapid New,Ambition TDI,64758,2019,737000.0,diesel,1,sedan,manual,regular,Indore,2019,2025.0,12.0
+16894027,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT CNG (Outside Fitted),30028,2019,566000.0,petrol+cng,1,hatchback,manual,regular,Indore,2019,2025.0,12.0
+17095102,Maruti Suzuki,S-Presso,VXI Opt CNG,16938,2022,538258.0,petrol+cng,1,hatchback,manual,regular,Indore,2022,2025.0,12.0
+16344728,Tata,Harrier,XZ Plus Dual Tone,25537,2021,1554293.0,diesel,1,suv,manual,regular,Indore,2021,2025.0,6.0
+17243632,Hyundai,Grand i10,Sportz (O) AT 1.2 Kappa VTVT,8902,2018,593000.0,petrol,1,hatchback,automatic,Torque Convertor,Indore,2018,2025.0,7.0
+16003651,Hyundai,i10,Era Petrol,66262,2013,270000.0,petrol,1,hatchback,manual,regular,Indore,2013,2025.0,12.0

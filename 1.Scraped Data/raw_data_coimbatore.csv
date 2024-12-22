@@ -1,0 +1,161 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+17820451,Honda,City,ZX,75082,2020,1088683.0,petrol,1,sedan,manual,regular,Coimbatore,2020,2025.0,12.0
+17262578,Volkswagen,Taigun,Highline 1.0 TSI AT,20381,2021,1251971.0,petrol,1,suv,automatic,Torque Convertor,Coimbatore,2022,2025.0,12.0
+16706121,Maruti Suzuki,Brezza,ZXI Plus Dual Tone,32357,2022,1170448.0,petrol,1,suv,manual,regular,Coimbatore,2022,2025.0,12.0
+17370465,Maruti Suzuki,Ignis,Zeta MT Petrol,12660,2022,612000.0,petrol,1,hatchback,manual,regular,Coimbatore,2022,2025.0,12.0
+18199167,Hyundai,New i20,Asta (O) 1.2 MT,39969,2022,859000.0,petrol,1,hatchback,manual,regular,Coimbatore,2022,2025.0,12.0
+16820967,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,32630,2018,582000.0,petrol,1,hatchback,automatic,Torque Convertor,Coimbatore,2018,2025.0,8.0
+16971371,Maruti Suzuki,Brezza,ZXI Dual Tone,10733,2023,1119000.0,petrol,1,suv,manual,regular,Coimbatore,2023,2025.0,5.0
+18029691,Skoda,Kushaq,Style 1.0L TSI MT,27138,2021,1282603.0,petrol,1,suv,manual,regular,Coimbatore,2021,2025.0,12.0
+17031615,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,22654,2019,631000.0,petrol,1,hatchback,manual,regular,Coimbatore,2020,2025.0,12.0
+17926256,Maruti Suzuki,Fronx,Zeta 1.0L Turbo 6 AT,19231,2023,1115000.0,petrol,1,suv,automatic,,Coimbatore,2024,2027.0,1.0
+17055044,Hyundai,New Santro 1.1,Magna,29708,2022,546000.0,petrol,1,hatchback,manual,regular,Coimbatore,2022,2025.0,6.0
+16664622,Maruti Suzuki,Dzire,ZDi AMT,86971,2017,668000.0,diesel,2,sedan,automatic,AMT,Coimbatore,2017,2025.0,8.0
+15303917,Maruti Suzuki,S-Presso,VXI Plus,8115,2023,531000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+16847015,Maruti Suzuki,Baleno,Delta AT Petrol,39478,2018,620000.0,petrol,1,hatchback,automatic,CVT,Coimbatore,2019,2025.0,12.0
+15624503,Hyundai,Xcent,SX Petrol,72515,2019,547000.0,petrol,1,sedan,manual,regular,Coimbatore,2019,2025.0,12.0
+17946202,Tata,Altroz,XZ 1.5,110136,2020,652000.0,diesel,1,hatchback,manual,regular,Coimbatore,2020,2025.0,9.0
+14441618,Ford,Figo,Duratec Petrol EXI 1.2,49752,2013,235000.0,petrol,2,hatchback,manual,regular,Coimbatore,2013,2025.0,12.0
+17100205,Maruti Suzuki,Celerio,VXI,48159,2019,408000.0,petrol,2,hatchback,manual,regular,Coimbatore,2020,2025.0,12.0
+14968017,Maruti Suzuki,Wagon R 1.0,VXI AMT,30769,2017,437000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2017,2025.0,12.0
+16841825,Renault,Kwid,1.0 RXT AMT Opt,89638,2019,408000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2019,2025.0,12.0
+17055044,Hyundai,New Santro 1.1,Magna,29708,2022,546000.0,petrol,1,hatchback,manual,regular,Coimbatore,2022,2025.0,6.0
+16664622,Maruti Suzuki,Dzire,ZDi AMT,86971,2017,668000.0,diesel,2,sedan,automatic,AMT,Coimbatore,2017,2025.0,8.0
+15303917,Maruti Suzuki,S-Presso,VXI Plus,8115,2023,531000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+16847015,Maruti Suzuki,Baleno,Delta AT Petrol,39478,2018,620000.0,petrol,1,hatchback,automatic,CVT,Coimbatore,2019,2025.0,12.0
+17071822,Kia,Seltos,GTX Plus DCT,28213,2023,1695000.0,petrol,1,suv,automatic,DCT,Coimbatore,2023,2026.0,1.0
+16373926,Maruti Suzuki,Alto K10,VXI Plus AMT,18234,2023,527000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2023,2025.0,4.0
+17479289,Tata,Tiago NRG,XZ AMT,29293,2022,672000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2022,2025.0,7.0
+16321781,Hyundai,Verna,1.6 VTVT SX,76342,2017,725000.0,petrol,1,sedan,manual,regular,Coimbatore,2017,2025.0,12.0
+17315188,Maruti Suzuki,Alto 800,LXI,33845,2017,304000.0,petrol,2,hatchback,manual,regular,Coimbatore,2017,2025.0,12.0
+16515448,Maruti Suzuki,Alto K10,VXI Plus,13938,2023,494000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2026.0,7.0
+18092318,Hyundai,New i20,Asta 1.0 Turbo IMT,52348,2021,778000.0,petrol,1,hatchback,manual,iMT,Coimbatore,2021,2025.0,8.0
+13638991,Mahindra,XUV 300,W8 AMT (O) Diesel,46632,2023,1212000.0,diesel,1,suv,automatic,AMT,Coimbatore,2023,2025.0,12.0
+18065402,Hyundai,New Santro 1.1,Magna,40629,2020,464000.0,petrol,1,hatchback,manual,regular,Coimbatore,2021,2025.0,12.0
+16265915,Maruti Suzuki,S-Presso,VXI,4108,2023,515000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+15214847,Maruti Suzuki,Alto K10,VXI Plus,9281,2023,500000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+16937888,Tata,Nexon,XZA Plus AMT Diesel,109238,2019,748000.0,diesel,1,suv,automatic,AMT,Coimbatore,2019,2025.0,12.0
+16371165,Hyundai,Xcent,S (O) Diesel,105345,2014,419000.0,diesel,1,sedan,manual,regular,Coimbatore,2014,2025.0,4.0
+15470222,Tata,Safari Storme,2.2 VX 4x2,105325,2013,574000.0,diesel,2,suv,manual,regular,Coimbatore,2013,2025.0,12.0
+12524177,Honda,City,ZX Diesel,105183,2017,818000.0,diesel,1,sedan,manual,regular,Coimbatore,2019,2025.0,12.0
+15885996,Tata,Nexon,XM Diesel S,107175,2021,788000.0,diesel,1,suv,manual,regular,Coimbatore,2021,2025.0,7.0
+18092318,Hyundai,New i20,Asta 1.0 Turbo IMT,52348,2021,778000.0,petrol,1,hatchback,manual,iMT,Coimbatore,2021,2025.0,8.0
+13638991,Mahindra,XUV 300,W8 AMT (O) Diesel,46632,2023,1212000.0,diesel,1,suv,automatic,AMT,Coimbatore,2023,2025.0,12.0
+18065402,Hyundai,New Santro 1.1,Magna,40629,2020,464000.0,petrol,1,hatchback,manual,regular,Coimbatore,2021,2025.0,12.0
+16265915,Maruti Suzuki,S-Presso,VXI,4108,2023,515000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+15214847,Maruti Suzuki,Alto K10,VXI Plus,9281,2023,500000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+17691531,Honda,Jazz,ZX CVT,45509,2020,819000.0,petrol,1,hatchback,automatic,CVT,Coimbatore,2021,2025.0,7.0
+15513678,Hyundai,Grand i10 Nios,Sportz 1.0 Turbo GDI,11643,2022,720000.0,petrol,1,hatchback,manual,regular,Coimbatore,2022,2025.0,5.0
+17091883,Hyundai,Alcazar,SIGNATURE (O) 6 STR 1.5 Petrol DCT,15221,2023,1877493.0,petrol,1,suv,automatic,DCT,Coimbatore,2023,2026.0,5.0
+15400295,Hyundai,Venue,SX (O) 1.0 Turbo iMT,33304,2022,1035000.0,petrol,1,suv,manual,iMT,Coimbatore,2022,2025.0,12.0
+16154913,Maruti Suzuki,S-Presso,VXI,25607,2022,454000.0,petrol,1,hatchback,manual,regular,Coimbatore,2022,2025.0,12.0
+17637323,Renault,Kwid,RXL,42273,2018,335000.0,petrol,1,hatchback,manual,regular,Coimbatore,2018,2025.0,12.0
+15701273,Volkswagen,Polo,Comfortline 1.0L (P),54579,2019,620000.0,petrol,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+17643037,Maruti Suzuki,Wagon R 1.0,VXI AMT,51060,2017,459000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2017,2025.0,6.0
+17298543,Hyundai,New Santro 1.1,Magna,32398,2019,436000.0,petrol,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+14632599,Skoda,Slavia,Ambition 1.0L TSI MT,37050,2022,1106000.0,petrol,1,sedan,manual,regular,Coimbatore,2022,2025.0,5.0
+17414414,Maruti Suzuki,Alto 800,VXI,36432,2017,327000.0,petrol,2,hatchback,manual,regular,Coimbatore,2017,2025.0,12.0
+17907609,Maruti Suzuki,Dzire,ZXI Plus,32644,2021,768000.0,petrol,1,sedan,manual,regular,Coimbatore,2021,2025.0,12.0
+14232678,Tata,Zest,XE Petrol,45271,2017,439000.0,petrol,1,sedan,manual,regular,Coimbatore,2018,2025.0,12.0
+17174491,Volkswagen,Polo,Highline 1.5 (D),136534,2015,487000.0,diesel,1,hatchback,manual,regular,Coimbatore,2015,2025.0,5.0
+17914169,Hyundai,i10,Era Petrol,82866,2011,240000.0,petrol,2,hatchback,manual,regular,Coimbatore,2011,2025.0,12.0
+17637323,Renault,Kwid,RXL,42273,2018,335000.0,petrol,1,hatchback,manual,regular,Coimbatore,2018,2025.0,12.0
+15701273,Volkswagen,Polo,Comfortline 1.0L (P),54579,2019,620000.0,petrol,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+17643037,Maruti Suzuki,Wagon R 1.0,VXI AMT,51060,2017,459000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2017,2025.0,6.0
+17298543,Hyundai,New Santro 1.1,Magna,32398,2019,436000.0,petrol,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+14632599,Skoda,Slavia,Ambition 1.0L TSI MT,37050,2022,1106000.0,petrol,1,sedan,manual,regular,Coimbatore,2022,2025.0,5.0
+17414414,Maruti Suzuki,Alto 800,VXI,36432,2017,327000.0,petrol,2,hatchback,manual,regular,Coimbatore,2017,2025.0,12.0
+17907609,Maruti Suzuki,Dzire,ZXI Plus,32644,2021,768000.0,petrol,1,sedan,manual,regular,Coimbatore,2021,2025.0,12.0
+17937896,Ford,Figo,Titanium Petrol,37475,2019,554000.0,petrol,1,hatchback,manual,regular,Coimbatore,2019,2025.0,11.0
+13950132,Mahindra,Scorpio N,Z8 L Petrol 6 STR,9948,2023,1962000.0,petrol,1,suv,manual,regular,Coimbatore,2023,2025.0,12.0
+16552635,Maruti Suzuki,Alto K10,VXI Plus,11471,2023,495000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,,
+17379586,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,49735,2019,572000.0,petrol,2,hatchback,automatic,Torque Convertor,Coimbatore,2019,2025.0,12.0
+10724988,Renault,Kiger,RXZ Turbo CVT,43123,2022,848000.0,petrol,1,suv,automatic,CVT,Coimbatore,2022,2025.0,12.0
+16418148,Tata,Nexon,XZ Plus Diesel,62650,2019,768000.0,diesel,1,suv,manual,regular,Coimbatore,2019,2025.0,12.0
+13934578,Skoda,Kushaq,Style 1.5L TSI DSG,30269,2021,1455955.0,petrol,1,suv,automatic,DSG,Coimbatore,2022,2025.0,12.0
+13229263,Hyundai,Creta,1.6 SX Plus Auto,80865,2016,889000.0,diesel,1,suv,automatic,Torque Convertor,Coimbatore,2016,2025.0,12.0
+17660481,Maruti Suzuki,Alto 800,LXI,49639,2015,329000.0,petrol,1,hatchback,manual,regular,Coimbatore,2015,2025.0,6.0
+14045403,Volkswagen,Virtus,GT Plus 1.5 TSI EVO DSG,47662,2022,1519000.0,petrol,1,sedan,automatic,DSG,Coimbatore,2022,2025.0,12.0
+16332528,Maruti Suzuki,Alto K10,VXI Plus,22027,2023,492000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,8.0
+16845431,Hyundai,Elite i20,Asta 1.2,43807,2014,526000.0,petrol,1,hatchback,manual,regular,Coimbatore,2014,2025.0,12.0
+11513194,Maruti Suzuki,Baleno,RS Petrol,29105,2018,629000.0,petrol,1,hatchback,manual,regular,Coimbatore,2018,2025.0,12.0
+17379586,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,49735,2019,572000.0,petrol,2,hatchback,automatic,Torque Convertor,Coimbatore,2019,2025.0,12.0
+10724988,Renault,Kiger,RXZ Turbo CVT,43123,2022,848000.0,petrol,1,suv,automatic,CVT,Coimbatore,2022,2025.0,12.0
+16418148,Tata,Nexon,XZ Plus Diesel,62650,2019,768000.0,diesel,1,suv,manual,regular,Coimbatore,2019,2025.0,12.0
+13934578,Skoda,Kushaq,Style 1.5L TSI DSG,30269,2021,1455955.0,petrol,1,suv,automatic,DSG,Coimbatore,2022,2025.0,12.0
+13229263,Hyundai,Creta,1.6 SX Plus Auto,80865,2016,889000.0,diesel,1,suv,automatic,Torque Convertor,Coimbatore,2016,2025.0,12.0
+17660481,Maruti Suzuki,Alto 800,LXI,49639,2015,329000.0,petrol,1,hatchback,manual,regular,Coimbatore,2015,2025.0,6.0
+14045403,Volkswagen,Virtus,GT Plus 1.5 TSI EVO DSG,47662,2022,1519000.0,petrol,1,sedan,automatic,DSG,Coimbatore,2022,2025.0,12.0
+16332528,Maruti Suzuki,Alto K10,VXI Plus,22027,2023,492000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,8.0
+16845431,Hyundai,Elite i20,Asta 1.2,43807,2014,526000.0,petrol,1,hatchback,manual,regular,Coimbatore,2014,2025.0,12.0
+16520666,Mahindra,Thar,LX 4 STR Hard Top Petrol AT 4WD,25372,2022,1477000.0,petrol,1,suv,automatic,Torque Convertor,Coimbatore,2022,2025.0,9.0
+17327099,Renault,Kwid,Climber 1.0l SCE Petrol MT Dual Tone,21979,2022,484000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2026.0,1.0
+15892147,Renault,Kwid,RXL 1.0 SCE,22552,2022,426000.0,petrol,1,hatchback,manual,regular,Coimbatore,2022,2025.0,12.0
+15405786,Hyundai,Eon,Sportz,15322,2018,422000.0,petrol,1,hatchback,manual,regular,Coimbatore,2018,2025.0,12.0
+15771408,Maruti Suzuki,S-Presso,VXI,32619,2020,407000.0,petrol,1,hatchback,manual,regular,Coimbatore,2020,2025.0,12.0
+15960406,Hyundai,New Santro 1.1,Asta MT,24098,2021,515000.0,petrol,2,hatchback,manual,regular,Coimbatore,2021,2025.0,12.0
+16295940,Hyundai,Xcent,SX AT (O) Petrol,89965,2015,492000.0,petrol,1,sedan,automatic,,Coimbatore,2016,2025.0,4.0
+13446104,Tata,Tiago,Revotorq XT,42977,2018,522000.0,diesel,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+17855487,Hyundai,Elite i20,Asta 1.2 (O),27958,2019,694000.0,petrol,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+15781555,Maruti Suzuki,S-Presso,VXI CNG,8383,2023,585000.0,petrol+cng,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+18250028,Maruti Suzuki,Celerio,ZXI Plus,10489,2023,639000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+17327099,Renault,Kwid,Climber 1.0l SCE Petrol MT Dual Tone,21979,2022,484000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2026.0,1.0
+15892147,Renault,Kwid,RXL 1.0 SCE,22552,2022,426000.0,petrol,1,hatchback,manual,regular,Coimbatore,2022,2025.0,12.0
+15405786,Hyundai,Eon,Sportz,15322,2018,422000.0,petrol,1,hatchback,manual,regular,Coimbatore,2018,2025.0,12.0
+15771408,Maruti Suzuki,S-Presso,VXI,32619,2020,407000.0,petrol,1,hatchback,manual,regular,Coimbatore,2020,2025.0,12.0
+15960406,Hyundai,New Santro 1.1,Asta MT,24098,2021,515000.0,petrol,2,hatchback,manual,regular,Coimbatore,2021,2025.0,12.0
+16295940,Hyundai,Xcent,SX AT (O) Petrol,89965,2015,492000.0,petrol,1,sedan,automatic,,Coimbatore,2016,2025.0,4.0
+13446104,Tata,Tiago,Revotorq XT,42977,2018,522000.0,diesel,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+17855487,Hyundai,Elite i20,Asta 1.2 (O),27958,2019,694000.0,petrol,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+15781555,Maruti Suzuki,S-Presso,VXI CNG,8383,2023,585000.0,petrol+cng,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+18250028,Maruti Suzuki,Celerio,ZXI Plus,10489,2023,639000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+16386960,Maruti Suzuki,Alto K10,VXI Plus,2979,2023,497000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+18044252,Toyota,Glanza,V AMT,22091,2023,929000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2023,2025.0,12.0
+15461573,Chevrolet,Spark,LT 1.0,34377,2014,231000.0,petrol,2,hatchback,manual,regular,Coimbatore,2014,2025.0,12.0
+17480302,Honda,Jazz,VX,72081,2017,533000.0,petrol,1,hatchback,manual,regular,Coimbatore,2017,2025.0,12.0
+16258605,Hyundai,Xcent,SX Petrol,53055,2018,582000.0,petrol,1,sedan,manual,regular,Coimbatore,2018,2025.0,7.0
+17547591,Hyundai,New Santro 1.1,Era Executive,26313,2019,402000.0,petrol,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+12963135,Honda,Brio,VX MT,24032,2017,498000.0,petrol,1,hatchback,manual,regular,Coimbatore,2017,2025.0,12.0
+15871920,Hyundai,New Santro 1.1,Sportz MT,16408,2021,539000.0,petrol,1,hatchback,manual,regular,Coimbatore,2021,2025.0,9.0
+15891177,Nissan,Magnite,XV Premium Turbo,37941,2022,795000.0,petrol,1,suv,manual,regular,Coimbatore,2022,2025.0,12.0
+16532587,Hyundai,Eon,Magna +,29043,2018,393000.0,petrol,1,hatchback,manual,regular,Coimbatore,2018,2025.0,5.0
+16386960,Maruti Suzuki,Alto K10,VXI Plus,2979,2023,497000.0,petrol,1,hatchback,manual,regular,Coimbatore,2023,2025.0,12.0
+18044252,Toyota,Glanza,V AMT,22091,2023,929000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2023,2025.0,12.0
+15461573,Chevrolet,Spark,LT 1.0,34377,2014,231000.0,petrol,2,hatchback,manual,regular,Coimbatore,2014,2025.0,12.0
+17480302,Honda,Jazz,VX,72081,2017,533000.0,petrol,1,hatchback,manual,regular,Coimbatore,2017,2025.0,12.0
+16258605,Hyundai,Xcent,SX Petrol,53055,2018,582000.0,petrol,1,sedan,manual,regular,Coimbatore,2018,2025.0,7.0
+17547591,Hyundai,New Santro 1.1,Era Executive,26313,2019,402000.0,petrol,1,hatchback,manual,regular,Coimbatore,2019,2025.0,12.0
+12963135,Honda,Brio,VX MT,24032,2017,498000.0,petrol,1,hatchback,manual,regular,Coimbatore,2017,2025.0,12.0
+15871920,Hyundai,New Santro 1.1,Sportz MT,16408,2021,539000.0,petrol,1,hatchback,manual,regular,Coimbatore,2021,2025.0,9.0
+15891177,Nissan,Magnite,XV Premium Turbo,37941,2022,795000.0,petrol,1,suv,manual,regular,Coimbatore,2022,2025.0,12.0
+16532587,Hyundai,Eon,Magna +,29043,2018,393000.0,petrol,1,hatchback,manual,regular,Coimbatore,2018,2025.0,5.0
+18003964,Maruti Suzuki,Brezza,ZXI Plus AT,20417,2022,1261348.0,petrol,1,suv,automatic,Torque Convertor,Coimbatore,2022,2025.0,12.0
+15553125,Kia,Sonet,HTX 1.0 iMT,19089,2021,974000.0,petrol,1,suv,manual,iMT,Coimbatore,2021,2025.0,12.0
+14388338,Hyundai,Alcazar,Signature 6 STR 2.0 Petrol MT,52448,2021,1444902.0,petrol,1,suv,manual,regular,Coimbatore,2021,2025.0,12.0
+16563736,Hyundai,New Santro 1.1,Sportz MT,17622,2021,542000.0,petrol,1,hatchback,manual,regular,Coimbatore,2021,2025.0,8.0
+14299513,Renault,Kwid,CLIMBER 1.0 AMT,50281,2018,388000.0,petrol,2,hatchback,automatic,AMT,Coimbatore,2019,2025.0,12.0
+15072760,Maruti Suzuki,Celerio,ZXI (O) AMT,80506,2017,428000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2017,2025.0,12.0
+11412530,Mahindra,TUV300,T8 mHAWK100,58781,2017,743000.0,diesel,1,suv,manual,regular,Coimbatore,2017,2025.0,12.0
+13913451,Hyundai,Eon,Sportz,71119,2015,298000.0,petrol,1,hatchback,manual,regular,Coimbatore,2015,2025.0,12.0
+16395628,Mahindra,Scorpio Classic,S MT 9STR,30305,2022,1267000.0,diesel,1,suv,manual,regular,Coimbatore,2022,2025.0,12.0
+17206381,Hyundai,i20 Active,1.4 SX,97528,2015,569000.0,diesel,1,crossover,manual,regular,Coimbatore,2015,2025.0,5.0
+18003964,Maruti Suzuki,Brezza,ZXI Plus AT,20417,2022,1261348.0,petrol,1,suv,automatic,Torque Convertor,Coimbatore,2022,2025.0,12.0
+15553125,Kia,Sonet,HTX 1.0 iMT,19089,2021,974000.0,petrol,1,suv,manual,iMT,Coimbatore,2021,2025.0,12.0
+14388338,Hyundai,Alcazar,Signature 6 STR 2.0 Petrol MT,52448,2021,1444902.0,petrol,1,suv,manual,regular,Coimbatore,2021,2025.0,12.0
+16563736,Hyundai,New Santro 1.1,Sportz MT,17622,2021,542000.0,petrol,1,hatchback,manual,regular,Coimbatore,2021,2025.0,8.0
+14299513,Renault,Kwid,CLIMBER 1.0 AMT,50281,2018,388000.0,petrol,2,hatchback,automatic,AMT,Coimbatore,2019,2025.0,12.0
+15072760,Maruti Suzuki,Celerio,ZXI (O) AMT,80506,2017,428000.0,petrol,1,hatchback,automatic,AMT,Coimbatore,2017,2025.0,12.0
+11412530,Mahindra,TUV300,T8 mHAWK100,58781,2017,743000.0,diesel,1,suv,manual,regular,Coimbatore,2017,2025.0,12.0
+13913451,Hyundai,Eon,Sportz,71119,2015,298000.0,petrol,1,hatchback,manual,regular,Coimbatore,2015,2025.0,12.0
+16395628,Mahindra,Scorpio Classic,S MT 9STR,30305,2022,1267000.0,diesel,1,suv,manual,regular,Coimbatore,2022,2025.0,12.0
+17696669,MG Motors,Hector,1.5 Sharp DCT,60813,2020,1261348.0,petrol,1,suv,automatic,DCT,Coimbatore,2021,2025.0,12.0
+17616087,Kia,Seltos,X Line DCT,50105,2021,1473448.0,petrol,1,suv,automatic,DCT,Coimbatore,2021,2025.0,12.0
+15388874,Mahindra,Thar,LX 4 STR Hard Top Petrol MT 4WD,9987,2023,1439000.0,petrol,1,suv,manual,regular,Coimbatore,2023,2026.0,8.0
+17640889,Volkswagen,Ameo,Highline1.2L Plus (P),76137,2017,518000.0,petrol,1,sedan,manual,regular,Coimbatore,2018,2025.0,12.0
+18064349,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,36666,2022,649000.0,petrol,1,hatchback,manual,regular,Coimbatore,2022,2025.0,12.0
+17923273,Maruti Suzuki,Baleno,Zeta Petrol,35295,2017,598000.0,petrol,1,hatchback,manual,regular,Coimbatore,2017,2025.0,11.0
+17334446,Renault,Kwid,RXL,57628,2017,315000.0,petrol,1,hatchback,manual,regular,Coimbatore,2017,2025.0,12.0
+17433561,Hyundai,Verna,S plus Petrol,41007,2021,854813.0,petrol,1,sedan,manual,regular,Coimbatore,2021,2025.0,12.0
+17206381,Hyundai,i20 Active,1.4 SX,97528,2015,569000.0,diesel,1,crossover,manual,regular,Coimbatore,2015,2025.0,5.0
+17127971,Ford,EcoSport,Trend + 1.5L TDCi,79918,2017,568000.0,diesel,1,suv,manual,regular,Coimbatore,2017,2025.0,12.0
+17387072,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,111295,2016,411000.0,petrol,1,hatchback,manual,regular,Coimbatore,2017,2025.0,12.0

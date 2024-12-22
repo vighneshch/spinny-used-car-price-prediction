@@ -1,0 +1,349 @@
+id,make,model,variant,mileange,make_year,price,fuel_type,no_of_owners,body_type,transmission,transmission_sub_type,city,registration_year,insurance_year,insurance_month
+15744157,Hyundai,Venue,SX 1.5 (O) executive CRDI,35685,2021,968000.0,diesel,1,suv,manual,regular,Ghaziabad,2021,2025.0,7.0
+15373998,Hyundai,New Santro 1.1,Asta MT,56054,2018,416000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+14649941,Hyundai,Creta,1.6 SX Plus Auto Petrol,55750,2017,871000.0,petrol,1,suv,automatic,Torque Convertor,Ghaziabad,2017,2025.0,12.0
+17264196,Maruti Suzuki,XL6,Alpha MT Petrol,63332,2020,875000.0,petrol,1,muv,manual,regular,Ghaziabad,2020,2025.0,12.0
+15289016,Hyundai,Elite i20,Sportz 1.2,64864,2015,452000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2015,2025.0,7.0
+17935141,Maruti Suzuki,Baleno,Alpha Petrol,36893,2017,550000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,12.0
+17183070,Hyundai,Aura,S 1.2 Petrol,6005,2023,678000.0,petrol,1,sedan,manual,regular,Ghaziabad,2023,2025.0,12.0
+16150846,MG Motors,Hector,2.0 Sharp,67338,2020,1352195.0,diesel,1,suv,manual,regular,Ghaziabad,2020,2025.0,12.0
+14670769,Renault,Duster,RXS CVT Petrol,57124,2017,529000.0,petrol,2,suv,automatic,CVT,Ghaziabad,2017,2025.0,12.0
+15081417,Maruti Suzuki,Baleno,Alpha Petrol,94841,2016,473000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,12.0
+13858384,Hyundai,Creta,1.6 SX Plus Auto Petrol,110490,2018,841000.0,petrol,1,suv,automatic,Torque Convertor,Ghaziabad,2018,2025.0,12.0
+16603892,Maruti Suzuki,Baleno,Alpha Petrol,37359,2018,553000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+15913627,Maruti Suzuki,Ciaz,VXI+,51616,2015,471000.0,petrol,1,sedan,manual,regular,Ghaziabad,2015,2025.0,12.0
+16208981,Maruti Suzuki,Baleno,Delta Petrol,27540,2018,534000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+16442785,Audi,A3,35 TFSI Premium Plus,62071,2019,2070358.0,petrol,2,sedan,automatic,DCT,Gurgaon,2019,2025.0,5.0
+16629022,BMW,5 Series,530i Sport Line,52596,2020,4090358.0,petrol,1,sedan,automatic,,Faridabad,2020,2025.0,12.0
+14717894,Jeep,Compass,Limited 2.0 Diesel,82950,2019,1060358.0,diesel,1,suv,manual,regular,Gurgaon,2019,2025.0,12.0
+14719847,Jeep,Compass,Sport 1.4 Petrol,54846,2018,940000.0,petrol,2,suv,manual,regular,Gurgaon,2018,2025.0,12.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+16216213,Kia,Sonet,HTX 1.0 iMT,30836,2021,902000.0,petrol,1,suv,manual,iMT,Ghaziabad,2021,2025.0,12.0
+15907975,Nissan,Micra,XL (O) CVT,47769,2019,460000.0,petrol,1,hatchback,automatic,CVT,Ghaziabad,2019,2025.0,12.0
+17793881,Honda,City,ZX CVT,57700,2018,897000.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2018,2025.0,6.0
+17354669,Honda,Elevate,ZX 1.5 Petrol MT,6580,2023,1390000.0,petrol,1,suv,manual,regular,Ghaziabad,2023,2025.0,9.0
+17532906,Hyundai,Venue,SX Plus 1.0 Turbo DCT,41506,2019,847000.0,petrol,1,suv,automatic,DCT,Ghaziabad,2019,2025.0,5.0
+16914947,Hyundai,Xcent,S Petrol,66693,2019,480000.0,petrol,1,sedan,manual,regular,Ghaziabad,2019,2025.0,5.0
+17642183,Hyundai,Creta,1.6 SX Plus Auto Petrol,57676,2016,846000.0,petrol,1,suv,automatic,Torque Convertor,Ghaziabad,2016,2025.0,9.0
+14119648,Hyundai,Venue,SX Plus 1.0 Turbo DCT,47218,2020,907000.0,petrol,1,suv,automatic,DCT,Ghaziabad,2020,2025.0,12.0
+17369429,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,73173,2015,359000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2015,2025.0,8.0
+16312420,Hyundai,Creta,1.6 SX Plus Petrol,101806,2016,691000.0,petrol,1,suv,manual,regular,Ghaziabad,2016,2025.0,12.0
+13637802,Renault,Kwid,RXT Opt,23893,2019,327000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2020,2025.0,12.0
+16942084,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,30713,2017,488000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,7.0
+15372123,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,21862,2013,332000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2013,2025.0,12.0
+16563820,Hyundai,Elite i20,Asta 1.2 CNG (Outside fitted),52455,2014,446000.0,petrol+cng,2,hatchback,manual,regular,Ghaziabad,2014,2025.0,8.0
+16629022,BMW,5 Series,530i Sport Line,52596,2020,4090358.0,petrol,1,sedan,automatic,,Faridabad,2020,2025.0,12.0
+14717894,Jeep,Compass,Limited 2.0 Diesel,82950,2019,1060358.0,diesel,1,suv,manual,regular,Gurgaon,2019,2025.0,12.0
+14719847,Jeep,Compass,Sport 1.4 Petrol,54846,2018,940000.0,petrol,2,suv,manual,regular,Gurgaon,2018,2025.0,12.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+18148649,Kia,Sonet,HTX 1.0 iMT,21640,2022,975000.0,petrol,1,suv,manual,iMT,Ghaziabad,2022,2025.0,12.0
+17962794,Hyundai,Venue,SX 1.0  Turbo iMT,84584,2022,827000.0,petrol,1,suv,manual,iMT,Ghaziabad,2022,2025.0,12.0
+14607326,Renault,Kiger,RXZ 1.0 Turbo MT,20057,2022,703000.0,petrol,2,suv,manual,regular,Ghaziabad,2022,2026.0,2.0
+14814926,Maruti Suzuki,Ciaz,ZXI+ RS,69989,2016,530000.0,petrol,2,sedan,manual,regular,Ghaziabad,2016,2025.0,12.0
+16994643,Maruti Suzuki,Ciaz,Zeta Petrol AT,67240,2017,667000.0,petrol,1,sedan,automatic,Torque Convertor,Ghaziabad,2017,2025.0,6.0
+17072244,Hyundai,Creta,1.6L SX VTVT,40215,2018,895000.0,petrol,1,suv,manual,regular,Ghaziabad,2018,2025.0,7.0
+17250423,Volkswagen,Polo,Trendline 1.2L (P),51704,2018,466000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,5.0
+14378850,Hyundai,Elite i20,Sportz 1.2,48448,2015,468000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2015,2025.0,12.0
+15056272,Maruti Suzuki,Ertiga,ZXI,68778,2012,433000.0,petrol,2,muv,manual,regular,Ghaziabad,2012,2025.0,12.0
+17560177,Hyundai,Elite i20,Asta 1.2 (O),83328,2016,498000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,11.0
+15701894,Maruti Suzuki,Ciaz,ZXI+,29777,2015,501000.0,petrol,2,sedan,manual,regular,Ghaziabad,2015,2025.0,12.0
+16517219,Maruti Suzuki,Ciaz,VXI+,48148,2015,474000.0,petrol,1,sedan,manual,regular,Ghaziabad,2015,2025.0,5.0
+17210814,Hyundai,New i20,Asta (O) 1.0 Turbo DCT,88694,2020,712000.0,petrol,2,hatchback,automatic,DCT,Ghaziabad,2020,2025.0,12.0
+13410565,Ford,EcoSport,Titanium 1.5L Ti-VCT AT,105450,2016,478000.0,petrol,2,suv,automatic,Torque Convertor,Ghaziabad,2016,2025.0,12.0
+14717894,Jeep,Compass,Limited 2.0 Diesel,82950,2019,1060358.0,diesel,1,suv,manual,regular,Gurgaon,2019,2025.0,12.0
+14719847,Jeep,Compass,Sport 1.4 Petrol,54846,2018,940000.0,petrol,2,suv,manual,regular,Gurgaon,2018,2025.0,12.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15998435,Renault,Triber,RXZ AMT,35485,2022,683000.0,petrol,1,muv,automatic,AMT,Ghaziabad,2022,2025.0,12.0
+15416952,Hyundai,Elite i20,Magna 1.2,81891,2015,414000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2015,2025.0,12.0
+15800345,Renault,Kiger,RXZ MT Dual Tone,39483,2022,681000.0,petrol,1,suv,manual,regular,Ghaziabad,2022,2025.0,12.0
+17259716,Hyundai,Creta,1.6 SX AT,58987,2020,1106000.0,diesel,1,suv,automatic,Torque Convertor,Ghaziabad,2020,2025.0,12.0
+17010691,Maruti Suzuki,Baleno,Delta Petrol,33180,2017,510000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,6.0
+17119576,Renault,Triber,RXZ AMT,25450,2022,704000.0,petrol,1,muv,automatic,AMT,Ghaziabad,2022,2025.0,12.0
+16291599,Maruti Suzuki,Baleno,Delta Petrol,37174,2018,526000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+15549724,Hyundai,Elite i20,Asta 1.2,47454,2018,609000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+17520812,Hyundai,Xcent,S Petrol,66036,2014,314000.0,petrol,2,sedan,manual,regular,Ghaziabad,2014,2025.0,7.0
+17475058,Hyundai,Verna,Fluidic 1.6 VTVT SX,74922,2013,407000.0,petrol,1,sedan,manual,regular,Ghaziabad,2013,2025.0,12.0
+16110677,Nissan,Micra,XV CVT,72090,2016,346000.0,petrol,2,hatchback,automatic,CVT,Ghaziabad,2016,2025.0,12.0
+16041221,Tata,Tiago,Wizz 1.2 Revotron,52029,2018,415000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,5.0
+17306669,Honda,City,VX CVT,42980,2018,778000.0,petrol,2,sedan,automatic,CVT,Ghaziabad,2018,2025.0,9.0
+17069413,Maruti Suzuki,Swift,LXI,45879,2015,372000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2015,2025.0,5.0
+14719847,Jeep,Compass,Sport 1.4 Petrol,54846,2018,940000.0,petrol,2,suv,manual,regular,Gurgaon,2018,2025.0,12.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16746807,Maruti Suzuki,Ciaz,Alpha Petrol,40053,2018,703000.0,petrol,1,sedan,manual,regular,Ghaziabad,2018,2025.0,12.0
+17055585,Ford,EcoSport,Titanium 1.5L Ti-VCT AT,22173,2017,665000.0,petrol,1,suv,automatic,Torque Convertor,Ghaziabad,2017,2025.0,12.0
+14977823,Maruti Suzuki,Baleno,Zeta Petrol,31715,2017,543000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,12.0
+17389367,Maruti Suzuki,Ciaz,ZXI,47245,2014,489000.0,petrol,1,sedan,manual,regular,Ghaziabad,2014,2025.0,12.0
+15818966,Tata,Altroz,XZ 1.2,38863,2022,685000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2022,2025.0,4.0
+16405218,MG Motors,Hector Plus,Sharp 2.0 Diesel Turbo MT 6-STR,64061,2021,1552273.0,diesel,1,suv,manual,regular,Ghaziabad,2021,2025.0,12.0
+18193909,Maruti Suzuki,Vitara Brezza,ZXI Plus,27245,2021,875000.0,petrol,1,suv,manual,regular,Ghaziabad,2021,2025.0,9.0
+14553920,Maruti Suzuki,Baleno,Zeta Petrol,51569,2019,585000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,5.0
+16380201,Hyundai,Grand i10,Sportz (O) 1.2 kappa VTVT,115947,2017,411000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+16226153,Honda,Brio,V MT,91116,2012,232000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2012,2025.0,12.0
+16200011,Honda,Amaze,1.2 S i-VTEC,94215,2014,312000.0,petrol,1,sedan,manual,regular,Ghaziabad,2014,2025.0,6.0
+13810212,Honda,Jazz,S,101945,2017,391000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,12.0
+17703308,Maruti Suzuki,Swift Dzire,VXI,97102,2015,361000.0,petrol,1,sedan,manual,regular,Ghaziabad,2015,2025.0,12.0
+15764436,Maruti Suzuki,Baleno,Zeta AT Petrol,80321,2016,475000.0,petrol,1,hatchback,automatic,CVT,Ghaziabad,2016,2025.0,6.0
+15442843,Jeep,Compass,Limited (O) 1.4 Petrol DCT,37555,2021,1989558.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,4.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+16025789,Tata,Altroz,XT 1.2,14255,2022,683000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2022,2025.0,6.0
+17057368,Hyundai,Grand i10,Asta 1.2 Kappa VTVT,54927,2014,377000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2014,2025.0,6.0
+14496558,Hyundai,Venue,SX 1.0  Turbo,30449,2020,814000.0,petrol,1,suv,manual,regular,Ghaziabad,2020,2025.0,12.0
+16734683,Toyota,Glanza,V,21097,2022,783000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2022,2025.0,9.0
+16362950,Hyundai,New i20,Asta (O) 1.5 MT,50468,2022,886000.0,diesel,1,hatchback,manual,regular,Ghaziabad,2022,2025.0,12.0
+16747471,Maruti Suzuki,Baleno,Delta Petrol,59941,2018,510000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+15124402,Renault,Triber,RXZ AMT,44138,2022,661000.0,petrol,1,muv,automatic,AMT,Ghaziabad,2022,2025.0,12.0
+17237237,Hyundai,New Santro 1.1,Asta MT,45181,2019,451000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,12.0
+16149560,Honda,City,1.5 V MT,104009,2012,315000.0,petrol,1,sedan,manual,regular,Ghaziabad,2012,2025.0,4.0
+14748815,Nissan,Sunny,XL,79849,2012,249000.0,petrol,1,sedan,manual,regular,Ghaziabad,2012,2025.0,12.0
+16302725,Toyota,Etios Liva,G,64671,2012,227000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2012,2025.0,12.0
+14916033,Maruti Suzuki,Swift Dzire,VXI,100557,2012,269000.0,petrol,1,sedan,manual,regular,Ghaziabad,2012,2025.0,4.0
+15815980,Tata,Tiago,Revotron XZA AMT,79457,2017,377000.0,petrol,2,hatchback,automatic,AMT,Ghaziabad,2017,2025.0,12.0
+15046598,Maruti Suzuki,Swift Dzire,VXI Petrol + CNG (Outside Fitted),64962,2016,429000.0,petrol+cng,1,sedan,manual,regular,Ghaziabad,2016,2025.0,12.0
+15726932,Jeep,Compass,Limited (O) 1.4 Petrol DCT,26328,2021,1939058.0,petrol,1,suv,automatic,DCT,Delhi,2021,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+17238532,Kia,Seltos,HTX IVT G,25660,2021,1342148.0,petrol,1,suv,automatic,CVT,Ghaziabad,2021,2025.0,12.0
+17697076,Maruti Suzuki,Celerio,ZXI,21682,2022,512000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2023,2025.0,12.0
+17684291,Maruti Suzuki,Baleno,Alpha Petrol,35296,2016,538000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,12.0
+18029884,Honda,Amaze,1.2 VX i-VTEC,27355,2022,749000.0,petrol,1,sedan,manual,regular,Ghaziabad,2022,2025.0,12.0
+16347315,Mahindra,Scorpio,S5,52106,2020,1121000.0,diesel,1,suv,manual,regular,Ghaziabad,2021,2025.0,12.0
+17434097,Hyundai,New i20,Asta 1.2 IVT,28880,2021,796000.0,petrol,1,hatchback,automatic,CVT,Ghaziabad,2021,2025.0,10.0
+16612635,Tata,Nexon,XM S Petrol,17185,2022,768000.0,petrol,1,suv,manual,regular,Ghaziabad,2022,2025.0,5.0
+17597680,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,34823,2020,539000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2020,2025.0,12.0
+17196768,Honda,Brio,VX AT,103156,2017,349000.0,petrol,1,hatchback,automatic,,Ghaziabad,2017,2025.0,12.0
+17508888,Tata,Tiago,Revotron XT CNG,25849,2022,589000.0,petrol+cng,1,hatchback,manual,regular,Ghaziabad,2023,2026.0,1.0
+15122898,Maruti Suzuki,Vitara Brezza,ZDI PLUS AT Dual Tone,69675,2019,756000.0,diesel,1,suv,automatic,AMT,Ghaziabad,2019,2025.0,12.0
+17381912,Ford,Figo Aspire,Titanium Plus 1.2 Ti-VCT,47017,2020,503000.0,petrol,3,sedan,manual,regular,Ghaziabad,2020,2025.0,12.0
+17768483,Renault,Duster,RXS PetroL,35018,2018,565000.0,petrol,2,suv,manual,regular,Ghaziabad,2018,2025.0,12.0
+13885098,Jeep,Compass,Limited (O) 1.4 Petrol DCT,43113,2021,1939058.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+17594552,Mercedes-Benz,C-Class,C 200 Progressive,32958,2019,3595458.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2020,2025.0,12.0
+13302526,Mercedes-Benz,C-Class,C 200 Progressive,11836,2018,3231858.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2019,2025.0,12.0
+14287894,Renault,Kiger,RXZ AMT,24350,2022,714000.0,petrol,1,suv,automatic,AMT,Ghaziabad,2022,2025.0,6.0
+17829062,Renault,Triber,RXZ AMT,11731,2022,733000.0,petrol,1,muv,automatic,AMT,Ghaziabad,2022,2025.0,5.0
+17093213,Renault,Kiger,RXZ AMT,15011,2023,772000.0,petrol,1,suv,automatic,AMT,Ghaziabad,2024,2026.0,12.0
+18013811,Ford,EcoSport,Sports Diesel,39633,2021,849000.0,diesel,1,suv,manual,regular,Ghaziabad,2021,2025.0,12.0
+15628314,Maruti Suzuki,Swift,ZXI AMT,66475,2019,591000.0,petrol,1,hatchback,automatic,AMT,Ghaziabad,2019,2025.0,12.0
+17482014,Hyundai,Elite i20,Sportz 1.2 CNG (Outside fitted),59221,2014,437000.0,petrol+cng,1,hatchback,manual,regular,Ghaziabad,2014,2025.0,12.0
+16484116,Tata,Punch,Kaziranga Edition IRA,26982,2022,759000.0,petrol,1,suv,manual,regular,Ghaziabad,2022,2025.0,12.0
+15201219,Maruti Suzuki,Swift Dzire,ZXI,81924,2014,384000.0,petrol,1,sedan,manual,regular,Ghaziabad,2014,2025.0,5.0
+14101171,Honda,City,VX CVT,66958,2014,564000.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2014,2025.0,12.0
+17319538,Hyundai,Elite i20,Sportz 1.2 CNG (Outside fitted),80293,2016,481000.0,petrol+cng,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,12.0
+16888011,Renault,Triber,RXZ,77067,2021,549000.0,petrol,1,muv,manual,regular,Ghaziabad,2021,2025.0,12.0
+13191253,Maruti Suzuki,Ciaz,Alpha Petrol AT,116121,2017,515000.0,petrol,2,sedan,automatic,AMT,Ghaziabad,2017,2025.0,12.0
+16896016,Maruti Suzuki,Ciaz,Zeta Petrol,53243,2017,557000.0,petrol,2,sedan,manual,regular,Ghaziabad,2017,2025.0,9.0
+14992299,Jeep,Compass,Limited (O) 1.4 Petrol DCT,36389,2021,1959258.0,petrol,1,suv,automatic,DCT,Gurgaon,2021,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+17594552,Mercedes-Benz,C-Class,C 200 Progressive,32958,2019,3595458.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2020,2025.0,12.0
+13302526,Mercedes-Benz,C-Class,C 200 Progressive,11836,2018,3231858.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2019,2025.0,12.0
+17066613,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,37308,2022,2191558.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2022,2025.0,4.0
+18071977,Maruti Suzuki,Swift,ZXI AMT,19011,2019,646000.0,petrol,1,hatchback,automatic,AMT,Ghaziabad,2019,2025.0,12.0
+17566428,Nissan,Magnite,XV Premium Turbo,18681,2023,842000.0,petrol,1,suv,manual,regular,Ghaziabad,2023,,
+17444949,Hyundai,Creta,1.6 SX Plus Petrol,33562,2017,825000.0,petrol,1,suv,manual,regular,Ghaziabad,2017,2025.0,12.0
+14471153,Hyundai,Aura,SX 1.2 Petrol,40866,2021,616000.0,petrol,1,sedan,manual,regular,Ghaziabad,2021,2025.0,12.0
+16963824,Tata,Punch,Creative Dual Tone,52078,2022,691000.0,petrol,1,suv,manual,regular,Ghaziabad,2022,2025.0,12.0
+17298003,Tata,Tiago,XZA+ AMT,25325,2021,600000.0,petrol,1,hatchback,automatic,AMT,Ghaziabad,2021,2025.0,12.0
+17119142,Nissan,Sunny,XL CVT AT,59128,2015,395000.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2015,2025.0,12.0
+17725361,Maruti Suzuki,Celerio,ZXI AMT,40875,2015,374000.0,petrol,1,hatchback,automatic,AMT,Ghaziabad,2015,2025.0,12.0
+18074952,Volkswagen,Polo,Trendline 1.0 (P),29370,2020,549000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2020,2025.0,9.0
+17262479,Maruti Suzuki,S-Presso,VXI Plus,11596,2021,429000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2021,2025.0,10.0
+17202529,Maruti Suzuki,Swift,VXI AMT,66438,2020,566000.0,petrol,1,hatchback,automatic,AMT,Ghaziabad,2020,2025.0,12.0
+16199334,Maruti Suzuki,Wagon R 1.0,LXI,39026,2012,199000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2012,2025.0,12.0
+15198765,Maruti Suzuki,Wagon R 1.0,VXI Petrol + CNG (Outside Fitted),97022,2012,216000.0,petrol+cng,1,hatchback,manual,regular,Ghaziabad,2012,2025.0,12.0
+16428256,Maruti Suzuki,Swift Dzire,VXI,54075,2012,295000.0,petrol,1,sedan,manual,regular,Ghaziabad,2012,2025.0,12.0
+16348211,Tata,Tiago,Revotron XT,55386,2018,402000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+16001163,Maruti Suzuki,Eeco,5 STR,7611,2019,369000.0,petrol,1,muv,manual,regular,Ghaziabad,2019,2025.0,12.0
+15331115,Hyundai,i10,Magna 1.1 CNG (Outside Fitted),94630,2015,293000.0,petrol+cng,1,hatchback,manual,regular,Ghaziabad,2015,2025.0,6.0
+16713179,Maruti Suzuki,Swift Dzire,VXI 1.2,41959,2011,235000.0,petrol,2,sedan,manual,regular,Ghaziabad,2011,2025.0,12.0
+15871312,Mercedes-Benz,GLA,200 CGI Sport,40109,2016,2120858.0,petrol,1,suv,automatic,DCT,Gurgaon,2017,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+17202529,Maruti Suzuki,Swift,VXI AMT,66438,2020,566000.0,petrol,1,hatchback,automatic,AMT,Ghaziabad,2020,2025.0,12.0
+18102520,Tata,Punch,Pure Rhythm Pack,6306,2022,578000.0,petrol,1,suv,manual,regular,Ghaziabad,2022,2025.0,12.0
+17418632,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT CNG (Outside Fitted),74812,2018,470000.0,petrol+cng,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+17039603,Hyundai,Grand i10,Sportz AT 1.2 Kappa VTVT,18205,2018,559000.0,petrol,1,hatchback,automatic,Torque Convertor,Ghaziabad,2018,2025.0,12.0
+16754468,Renault,Kwid,RXL,14016,2021,388000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2021,2025.0,12.0
+17395345,Tata,Nexon,XZ+ Dark Edition,24052,2022,938000.0,petrol,1,suv,manual,regular,Ghaziabad,2022,2025.0,8.0
+17772204,Renault,Kwid,1.0 RXT Opt,10385,2021,419000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2021,2025.0,10.0
+16425949,Maruti Suzuki,Baleno,Delta Petrol,38674,2018,531000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+17473196,Renault,Kwid,RXT 1.0 SCE Special (O),10792,2019,362000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,10.0
+16058584,Renault,Kwid,RXT 1.0 SCE Special (O),21320,2018,339000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+14937660,Hyundai,Elite i20,Sportz 1.2,21556,2018,594000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+15324858,Maruti Suzuki,Swift Dzire,VXI CNG (Outside Fitted),62113,2013,338000.0,petrol+cng,1,sedan,manual,regular,Ghaziabad,2013,2025.0,12.0
+16450205,Volkswagen,Polo,Highline Plus 1.0 MPI,116308,2018,511000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,8.0
+17202583,Maruti Suzuki,Ciaz,Alpha Petrol,115199,2018,657000.0,petrol,1,sedan,manual,regular,Ghaziabad,2018,2025.0,12.0
+17091571,Maruti Suzuki,Swift Dzire,VXI 1.2,108887,2011,208000.0,petrol,1,sedan,manual,regular,Ghaziabad,2011,2025.0,12.0
+15649434,Hyundai,i10,Magna 1.2 Petrol,70958,2011,179000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2011,2025.0,12.0
+11170940,Tata,Nexon,XM Diesel,31754,2018,597000.0,diesel,1,suv,manual,regular,Ghaziabad,2018,2025.0,12.0
+14265085,Honda,Amaze,1.2L SX,42575,2016,417000.0,petrol,1,sedan,manual,regular,Ghaziabad,2016,2025.0,12.0
+16851373,Audi,Q2,Standard 40 TFSI Quattro,18172,2020,2221858.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,12.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+14937660,Hyundai,Elite i20,Sportz 1.2,21556,2018,594000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+17489867,Maruti Suzuki,Baleno,Sigma Petrol+cng(outside fitted),40754,2021,553000.0,petrol+cng,1,hatchback,manual,regular,Ghaziabad,2021,2025.0,12.0
+18074541,Tata,Punch,Adventure Rhythm Pack MT,10851,2023,659000.0,petrol,1,suv,manual,regular,Ghaziabad,2023,2025.0,12.0
+14546942,Tata,Nexon,XM S Petrol,23110,2022,792000.0,petrol,1,suv,manual,regular,Ghaziabad,2022,2025.0,12.0
+16750226,Maruti Suzuki,Vitara Brezza,ZXI Plus Dual Tone,11756,2022,975000.0,petrol,1,suv,manual,regular,Ghaziabad,2022,2025.0,12.0
+17085683,Renault,Kwid,RXL,29966,2019,310000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,12.0
+17096053,Maruti Suzuki,Ciaz,Zeta Petrol,9082,2022,875000.0,petrol,1,sedan,manual,regular,Ghaziabad,2022,2025.0,8.0
+15754008,Maruti Suzuki,Dzire,VXI,41657,2019,565000.0,petrol,1,sedan,manual,regular,Ghaziabad,2019,2025.0,5.0
+16923867,Renault,Kwid,1.0 RXT Opt,16292,2020,380000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2020,2025.0,12.0
+16089544,Hyundai,i20 Active,1.2 S,36943,2015,487000.0,petrol,1,crossover,manual,regular,Ghaziabad,2015,2025.0,12.0
+15626831,Renault,Kwid,RXT 1.0 SCE Special (O),10189,2019,356000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,12.0
+15427300,Ford,EcoSport,Titanium 1.0L Ecoboost,88790,2014,434000.0,petrol,1,suv,manual,regular,Ghaziabad,2014,2025.0,7.0
+15468520,Maruti Suzuki,Swift Dzire,VXI Petrol + CNG (Outside Fitted),74583,2015,394000.0,petrol+cng,1,sedan,manual,regular,Ghaziabad,2015,2025.0,12.0
+15884233,Maruti Suzuki,Swift Dzire,VXI CNG (Outside Fitted),74671,2012,287000.0,petrol+cng,2,sedan,manual,regular,Ghaziabad,2012,2025.0,12.0
+17483961,Maruti Suzuki,Swift Dzire,VXI,58610,2012,296000.0,petrol,1,sedan,manual,regular,Ghaziabad,2012,2025.0,12.0
+16951020,Chevrolet,Beat,PS Petrol,76557,2011,168000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2011,2025.0,7.0
+13738853,Maruti Suzuki,Baleno,Zeta AT Petrol,90643,2016,400000.0,petrol,3,hatchback,automatic,CVT,Ghaziabad,2016,2025.0,12.0
+15075828,Chevrolet,Beat,PS Petrol,43246,2012,165000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2012,2025.0,5.0
+13815641,Audi,A4,Premium Plus 40 TFSI,34805,2021,3029858.0,petrol,2,sedan,automatic,,Faridabad,2021,2025.0,12.0
+17594552,Mercedes-Benz,C-Class,C 200 Progressive,32958,2019,3595458.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2020,2025.0,12.0
+15626831,Renault,Kwid,RXT 1.0 SCE Special (O),10189,2019,356000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,12.0
+15427300,Ford,EcoSport,Titanium 1.0L Ecoboost,88790,2014,434000.0,petrol,1,suv,manual,regular,Ghaziabad,2014,2025.0,7.0
+15468558,Maruti Suzuki,Dzire,ZXI AMT,9827,2017,615000.0,petrol,1,sedan,automatic,AMT,Ghaziabad,2017,2025.0,12.0
+17217917,Maruti Suzuki,New Ertiga,ZXI AT,39588,2021,960000.0,petrol,1,muv,automatic,Torque Convertor,Ghaziabad,2021,2025.0,8.0
+14347749,Toyota,Innova Crysta,Touring Sport Petrol MT,62651,2017,1378553.0,petrol,1,muv,manual,regular,Ghaziabad,2017,2025.0,12.0
+15652451,Maruti Suzuki,Wagon R 1.0,VXI AMT,51718,2016,352000.0,petrol,1,hatchback,automatic,AMT,Ghaziabad,2016,2025.0,5.0
+18152275,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,12784,2022,568000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2022,2025.0,12.0
+16210225,Hyundai,Verna,1.6 VTVT SX,65691,2018,775000.0,petrol,1,sedan,manual,regular,Ghaziabad,2018,2025.0,12.0
+13283771,Maruti Suzuki,Swift Dzire,VXI,23777,2013,344000.0,petrol,1,sedan,manual,regular,Ghaziabad,2013,2025.0,12.0
+17107112,Maruti Suzuki,Swift,LXI (O),76328,2015,335000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2015,2025.0,12.0
+16189510,Honda,Amaze,1.2 S i-VTEC,20998,2023,697000.0,petrol,1,sedan,manual,regular,Ghaziabad,2023,2025.0,12.0
+14377334,Maruti Suzuki,Vitara Brezza,VDi (O),80274,2018,579000.0,diesel,1,suv,manual,regular,Ghaziabad,2018,2025.0,12.0
+16502082,Maruti Suzuki,Baleno,Zeta Petrol,68123,2016,474000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,12.0
+12506494,Hyundai,Verna,1.6 VTVT SX (O) AT,44893,2018,871000.0,petrol,1,sedan,automatic,Torque Convertor,Ghaziabad,2018,2025.0,12.0
+17594552,Mercedes-Benz,C-Class,C 200 Progressive,32958,2019,3595458.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2020,2025.0,12.0
+13302526,Mercedes-Benz,C-Class,C 200 Progressive,11836,2018,3231858.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2019,2025.0,12.0
+17270189,Maruti Suzuki,Wagon R 1.0,LXI CNG,87915,2012,223000.0,petrol+cng,1,hatchback,manual,regular,Ghaziabad,2012,2025.0,12.0
+17518801,Maruti Suzuki,S-Presso,VXI Plus AMT,36890,2021,426000.0,petrol,1,hatchback,automatic,AMT,Ghaziabad,2022,2025.0,12.0
+17526809,Hyundai,Santro Xing,GLS,93932,2012,196000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2012,2025.0,12.0
+17481576,Maruti Suzuki,Swift Dzire,VXI,76322,2014,297000.0,petrol,3,sedan,manual,regular,Ghaziabad,2014,2025.0,8.0
+16189510,Honda,Amaze,1.2 S i-VTEC,20998,2023,697000.0,petrol,1,sedan,manual,regular,Ghaziabad,2023,2025.0,12.0
+14377334,Maruti Suzuki,Vitara Brezza,VDi (O),80274,2018,579000.0,diesel,1,suv,manual,regular,Ghaziabad,2018,2025.0,12.0
+16502082,Maruti Suzuki,Baleno,Zeta Petrol,68123,2016,474000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,12.0
+12506494,Hyundai,Verna,1.6 VTVT SX (O) AT,44893,2018,871000.0,petrol,1,sedan,automatic,Torque Convertor,Ghaziabad,2018,2025.0,12.0
+16255435,Ford,EcoSport,Titanium 1.0L Ecoboost,76625,2014,436000.0,petrol,1,suv,manual,regular,Ghaziabad,2014,2025.0,12.0
+13966520,Maruti Suzuki,Swift,ZXI,46063,2015,414000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2015,2025.0,12.0
+14591582,Honda,City,ZX CVT,21556,2021,1216000.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2021,2025.0,12.0
+16227676,Renault,Duster,RXL Petrol,26331,2017,578000.0,petrol,1,suv,manual,regular,Ghaziabad,2017,2025.0,12.0
+17827430,Honda,Amaze,1.2 VX CVT i-VTEC,24384,2022,778000.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2022,2025.0,12.0
+17055420,Volkswagen,Tiguan,Highline TDI,47891,2019,1978395.0,diesel,1,suv,automatic,DCT,Ghaziabad,2019,2025.0,12.0
+17913500,Toyota,Corolla Altis,GL Petrol,55974,2016,736000.0,petrol,1,sedan,manual,regular,Ghaziabad,2016,2025.0,12.0
+13302526,Mercedes-Benz,C-Class,C 200 Progressive,11836,2018,3231858.0,petrol,1,sedan,automatic,Torque Convertor,Gurgaon,2019,2025.0,12.0
+17066613,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,37308,2022,2191558.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2022,2025.0,4.0
+15710209,Hyundai,Venue,SX 1.0  Turbo iMT,38646,2021,851000.0,petrol,1,suv,manual,iMT,Ghaziabad,2021,2025.0,7.0
+17424810,Maruti Suzuki,Baleno,Alpha Petrol,73822,2016,498000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,12.0
+17909864,Honda,Brio,S MT,62825,2014,290000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2014,2025.0,12.0
+17072406,Mercedes-Benz,CLA,200 Sport,57515,2016,2040058.0,petrol,1,sedan,automatic,DCT,Gurgaon,2017,2025.0,12.0
+15959868,Mercedes-Benz,C-Class,C200 Avantgrade Edition,62583,2017,2726858.0,petrol,1,sedan,automatic,,Gurgaon,2017,2025.0,12.0
+14353221,Jeep,Compass,Limited Plus 1.4 Petrol,38799,2019,1565358.0,petrol,2,suv,automatic,DCT,Delhi,2019,2025.0,12.0
+18173901,Maruti Suzuki,Swift,ZXI PLUS,10908,2024,819000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2024,2025.0,5.0
+17573664,Honda,Civic,ZX CVT Petrol,93521,2019,1189683.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2019,2025.0,4.0
+16474220,BMW,X1,sDrive20i xLine,52707,2020,2696558.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,6.0
+17260829,BMW,3 Series GT,330i GT Luxury Line,56395,2017,2797558.0,petrol,2,sedan,automatic,,Gurgaon,2018,2025.0,3.0
+17632981,BMW,3 Series,Gran Limousine 330Li M Sport First Edition,19640,2022,4342858.0,petrol,1,sedan,automatic,,Gurgaon,2022,2025.0,5.0
+16150197,Jeep,Compass,Model S (O) Diesel 4x4 AT,15220,2021,2196608.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2021,2025.0,12.0
+17530859,BMW,X1,sDrive20d xLine,49238,2019,2045108.0,diesel,1,suv,automatic,,Gurgaon,2019,2025.0,12.0
+15476599,Mercedes-Benz,GLA,200 Urban Edition,32826,2019,2676358.0,petrol,1,suv,automatic,DCT,Gurgaon,2019,2025.0,12.0
+17162304,Jeep,Compass,Limited (O) 2.0 Diesel,17122,2022,1696658.0,diesel,1,suv,manual,regular,Gurgaon,2022,2025.0,12.0
+17913500,Toyota,Corolla Altis,GL Petrol,55974,2016,736000.0,petrol,1,sedan,manual,regular,Ghaziabad,2016,2025.0,12.0
+17066613,Jeep,Compass,Limited (O) 2.0 Diesel 4x4 AT,37308,2022,2191558.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2022,2025.0,4.0
+15710209,Hyundai,Venue,SX 1.0  Turbo iMT,38646,2021,851000.0,petrol,1,suv,manual,iMT,Ghaziabad,2021,2025.0,7.0
+17424810,Maruti Suzuki,Baleno,Alpha Petrol,73822,2016,498000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,12.0
+17909864,Honda,Brio,S MT,62825,2014,290000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2014,2025.0,12.0
+17072406,Mercedes-Benz,CLA,200 Sport,57515,2016,2040058.0,petrol,1,sedan,automatic,DCT,Gurgaon,2017,2025.0,12.0
+15959868,Mercedes-Benz,C-Class,C200 Avantgrade Edition,62583,2017,2726858.0,petrol,1,sedan,automatic,,Gurgaon,2017,2025.0,12.0
+14353221,Jeep,Compass,Limited Plus 1.4 Petrol,38799,2019,1565358.0,petrol,2,suv,automatic,DCT,Delhi,2019,2025.0,12.0
+18173901,Maruti Suzuki,Swift,ZXI PLUS,10908,2024,819000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2024,2025.0,5.0
+17573664,Honda,Civic,ZX CVT Petrol,93521,2019,1189683.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2019,2025.0,4.0
+17304369,Maruti Suzuki,Baleno,Alpha Petrol,41905,2017,576000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,5.0
+16599338,Hyundai,Elite i20,Sportz 1.2,66949,2016,484000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,5.0
+17912576,Hyundai,New Santro 1.1,Sportz MT,18444,2019,429000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,10.0
+17654229,Hyundai,New Santro 1.1,Sportz MT,22185,2021,439000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2021,2025.0,7.0
+17557805,Maruti Suzuki,Wagon R 1.0,LXI,36208,2013,229000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2013,2025.0,12.0
+16474220,BMW,X1,sDrive20i xLine,52707,2020,2696558.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,6.0
+17260829,BMW,3 Series GT,330i GT Luxury Line,56395,2017,2797558.0,petrol,2,sedan,automatic,,Gurgaon,2018,2025.0,3.0
+17632981,BMW,3 Series,Gran Limousine 330Li M Sport First Edition,19640,2022,4342858.0,petrol,1,sedan,automatic,,Gurgaon,2022,2025.0,5.0
+16150197,Jeep,Compass,Model S (O) Diesel 4x4 AT,15220,2021,2196608.0,diesel,1,suv,automatic,Torque Convertor,Gurgaon,2021,2025.0,12.0
+17530859,BMW,X1,sDrive20d xLine,49238,2019,2045108.0,diesel,1,suv,automatic,,Gurgaon,2019,2025.0,12.0
+17072406,Mercedes-Benz,CLA,200 Sport,57515,2016,2040058.0,petrol,1,sedan,automatic,DCT,Gurgaon,2017,2025.0,12.0
+15959868,Mercedes-Benz,C-Class,C200 Avantgrade Edition,62583,2017,2726858.0,petrol,1,sedan,automatic,,Gurgaon,2017,2025.0,12.0
+14353221,Jeep,Compass,Limited Plus 1.4 Petrol,38799,2019,1565358.0,petrol,2,suv,automatic,DCT,Delhi,2019,2025.0,12.0
+18173901,Maruti Suzuki,Swift,ZXI PLUS,10908,2024,819000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2024,2025.0,5.0
+17573664,Honda,Civic,ZX CVT Petrol,93521,2019,1189683.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2019,2025.0,4.0
+17304369,Maruti Suzuki,Baleno,Alpha Petrol,41905,2017,576000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,5.0
+16599338,Hyundai,Elite i20,Sportz 1.2,66949,2016,484000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,5.0
+17912576,Hyundai,New Santro 1.1,Sportz MT,18444,2019,429000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,10.0
+17654229,Hyundai,New Santro 1.1,Sportz MT,22185,2021,439000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2021,2025.0,7.0
+16964221,Nissan,Magnite,XV,11915,2021,632000.0,petrol,1,suv,manual,regular,Ghaziabad,2021,2025.0,12.0
+17917070,Hyundai,Creta,1.6 SX Plus Petrol,88861,2016,712000.0,petrol,1,suv,manual,regular,Ghaziabad,2017,2025.0,12.0
+17515471,Renault,Triber,RXZ,11236,2023,645000.0,petrol,2,muv,manual,regular,Ghaziabad,2023,2026.0,4.0
+17513768,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,31874,2018,462000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,5.0
+17557805,Maruti Suzuki,Wagon R 1.0,LXI,36208,2013,229000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2013,2025.0,12.0
+17724309,Hyundai,Elite i20,Asta 1.2 (O),52671,2016,518000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,12.0
+17662711,Tata,Altroz,XZ 1.2,28169,2021,654000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2021,2025.0,12.0
+16532319,Maruti Suzuki,Baleno,Zeta Petrol,53821,2018,561000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+16474220,BMW,X1,sDrive20i xLine,52707,2020,2696558.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,6.0
+17562577,Maruti Suzuki,Swift,ZXI,33773,2022,588000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2022,2025.0,12.0
+17260829,BMW,3 Series GT,330i GT Luxury Line,56395,2017,2797558.0,petrol,2,sedan,automatic,,Gurgaon,2018,2025.0,3.0
+17072406,Mercedes-Benz,CLA,200 Sport,57515,2016,2040058.0,petrol,1,sedan,automatic,DCT,Gurgaon,2017,2025.0,12.0
+15959868,Mercedes-Benz,C-Class,C200 Avantgrade Edition,62583,2017,2726858.0,petrol,1,sedan,automatic,,Gurgaon,2017,2025.0,12.0
+14353221,Jeep,Compass,Limited Plus 1.4 Petrol,38799,2019,1565358.0,petrol,2,suv,automatic,DCT,Delhi,2019,2025.0,12.0
+18173901,Maruti Suzuki,Swift,ZXI PLUS,10908,2024,819000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2024,2025.0,5.0
+17573664,Honda,Civic,ZX CVT Petrol,93521,2019,1189683.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2019,2025.0,4.0
+17304369,Maruti Suzuki,Baleno,Alpha Petrol,41905,2017,576000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,5.0
+16599338,Hyundai,Elite i20,Sportz 1.2,66949,2016,484000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,5.0
+17912576,Hyundai,New Santro 1.1,Sportz MT,18444,2019,429000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,10.0
+17654229,Hyundai,New Santro 1.1,Sportz MT,22185,2021,439000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2021,2025.0,7.0
+16964221,Nissan,Magnite,XV,11915,2021,632000.0,petrol,1,suv,manual,regular,Ghaziabad,2021,2025.0,12.0
+17917070,Hyundai,Creta,1.6 SX Plus Petrol,88861,2016,712000.0,petrol,1,suv,manual,regular,Ghaziabad,2017,2025.0,12.0
+17515471,Renault,Triber,RXZ,11236,2023,645000.0,petrol,2,muv,manual,regular,Ghaziabad,2023,2026.0,4.0
+17513768,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,31874,2018,462000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,5.0
+17557805,Maruti Suzuki,Wagon R 1.0,LXI,36208,2013,229000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2013,2025.0,12.0
+17724309,Hyundai,Elite i20,Asta 1.2 (O),52671,2016,518000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,12.0
+17662711,Tata,Altroz,XZ 1.2,28169,2021,654000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2021,2025.0,12.0
+16532319,Maruti Suzuki,Baleno,Zeta Petrol,53821,2018,561000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+16474220,BMW,X1,sDrive20i xLine,52707,2020,2696558.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,6.0
+17562577,Maruti Suzuki,Swift,ZXI,33773,2022,588000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2022,2025.0,12.0
+17260829,BMW,3 Series GT,330i GT Luxury Line,56395,2017,2797558.0,petrol,2,sedan,automatic,,Gurgaon,2018,2025.0,3.0
+17072406,Mercedes-Benz,CLA,200 Sport,57515,2016,2040058.0,petrol,1,sedan,automatic,DCT,Gurgaon,2017,2025.0,12.0
+15959868,Mercedes-Benz,C-Class,C200 Avantgrade Edition,62583,2017,2726858.0,petrol,1,sedan,automatic,,Gurgaon,2017,2025.0,12.0
+14353221,Jeep,Compass,Limited Plus 1.4 Petrol,38799,2019,1565358.0,petrol,2,suv,automatic,DCT,Delhi,2019,2025.0,12.0
+18173901,Maruti Suzuki,Swift,ZXI PLUS,10908,2024,819000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2024,2025.0,5.0
+17573664,Honda,Civic,ZX CVT Petrol,93521,2019,1189683.0,petrol,1,sedan,automatic,CVT,Ghaziabad,2019,2025.0,4.0
+17304369,Maruti Suzuki,Baleno,Alpha Petrol,41905,2017,576000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,5.0
+16599338,Hyundai,Elite i20,Sportz 1.2,66949,2016,484000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2016,2025.0,5.0
+17912576,Hyundai,New Santro 1.1,Sportz MT,18444,2019,429000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2019,2025.0,10.0
+17654229,Hyundai,New Santro 1.1,Sportz MT,22185,2021,439000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2021,2025.0,7.0
+16964221,Nissan,Magnite,XV,11915,2021,632000.0,petrol,1,suv,manual,regular,Ghaziabad,2021,2025.0,12.0
+17917070,Hyundai,Creta,1.6 SX Plus Petrol,88861,2016,712000.0,petrol,1,suv,manual,regular,Ghaziabad,2017,2025.0,12.0
+17515471,Renault,Triber,RXZ,11236,2023,645000.0,petrol,2,muv,manual,regular,Ghaziabad,2023,2026.0,4.0
+17513768,Hyundai,Grand i10,Sportz 1.2 Kappa VTVT,31874,2018,462000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,5.0
+17557805,Maruti Suzuki,Wagon R 1.0,LXI,36208,2013,229000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2013,2025.0,12.0
+17724309,Hyundai,Elite i20,Asta 1.2 (O),52671,2016,518000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2017,2025.0,12.0
+17662711,Tata,Altroz,XZ 1.2,28169,2021,654000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2021,2025.0,12.0
+16532319,Maruti Suzuki,Baleno,Zeta Petrol,53821,2018,561000.0,petrol,1,hatchback,manual,regular,Ghaziabad,2018,2025.0,12.0
+16474220,BMW,X1,sDrive20i xLine,52707,2020,2696558.0,petrol,2,suv,automatic,,Gurgaon,2020,2025.0,6.0
+17562577,Maruti Suzuki,Swift,ZXI,33773,2022,588000.0,petrol,2,hatchback,manual,regular,Ghaziabad,2022,2025.0,12.0
+17260829,BMW,3 Series GT,330i GT Luxury Line,56395,2017,2797558.0,petrol,2,sedan,automatic,,Gurgaon,2018,2025.0,3.0
